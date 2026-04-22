@@ -2,6 +2,7 @@ import time
 import requests
 from parser import parse_index, parse_medium
 from normalizer import normalize_paint
+from robots import check_robots
 from writer import write_medium
 
 INDEX_URL = "http://www.art-paints.com/Paints/Art-Paints.html"
@@ -15,6 +16,8 @@ def fetch(url, session):
 
 
 def crawl():
+    check_robots(INDEX_URL)
+
     session = requests.Session()
     session.headers["User-Agent"] = "paint-crawl/1.0"
 
