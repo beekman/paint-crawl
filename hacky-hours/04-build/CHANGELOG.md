@@ -1,5 +1,17 @@
 # Changelog — paint-crawl
 
+## v0.2.0 — V1 (2026-04-22)
+
+### What's included
+- GitHub Actions workflow: weekly automated crawl every Monday at 04:00 UTC,
+  with manual dispatch available
+- Commits updated data/ files back to main automatically; no-ops cleanly
+  if nothing changed
+- Retry logic for 429/503 responses: 30s wait, one retry, then skip and log
+  (implemented during MVP build)
+
+---
+
 ## v0.1.0 — MVP (2026-04-22)
 
 First release of paint-crawl.
