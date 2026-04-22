@@ -1,7 +1,7 @@
 import time
 import requests
 from parser import parse_index, is_color_page, parse_brand_links, parse_paints
-from normalizer import normalize_paint
+from normalizer import normalize_paint, deduplicate
 from robots import check_robots
 from writer import write_medium
 
@@ -23,7 +23,7 @@ def crawl_url(url, medium_slug, session, visited):
     time.sleep(DELAY)
     html = fetch(url, session)
     if is_color_page(html):
-        return parse_paints(html, url)
+        return [dict(p, medium=medium_slug) for p in parse_paints(html, url)]
     paints = []
     for link in parse_brand_links(html, url):
         paints.extend(crawl_url(link, medium_slug, session, visited))
@@ -44,6 +44,7 @@ def crawl():
         raw_paints = crawl_url(medium_url, medium_slug, session, visited)
         paints = [normalize_paint(p) for p in raw_paints]
         paints = [p for p in paints if p is not None]
+        paints = deduplicate(paints)
         write_medium(medium_slug, paints)
         print(f"{medium_slug}: {len(paints)} paints")
 
