@@ -10,9 +10,20 @@ DELAY = 2
 
 
 def fetch(url, session):
-    response = session.get(url)
-    response.raise_for_status()
-    return response.text
+    for attempt in range(2):
+        response = session.get(url)
+        if response.status_code in (429, 503):
+            if attempt == 0:
+                print(f"WARNING: {response.status_code} on {url} — retrying in 30s")
+                time.sleep(30)
+                continue
+            print(f"SKIP (HTTP {response.status_code} after retry): {url}")
+            return None
+        if not response.ok:
+            print(f"SKIP (HTTP {response.status_code}): {url}")
+            return None
+        return response.text
+    return None
 
 
 def crawl_url(url, medium_slug, session, visited):
@@ -22,6 +33,8 @@ def crawl_url(url, medium_slug, session, visited):
     visited.add(url)
     time.sleep(DELAY)
     html = fetch(url, session)
+    if html is None:
+        return []
     if is_color_page(html):
         return [dict(p, medium=medium_slug) for p in parse_paints(html, url)]
     paints = []

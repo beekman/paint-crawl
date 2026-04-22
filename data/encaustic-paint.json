@@ -1,0 +1,4030 @@
+{
+  "medium": "encaustic-paint",
+  "crawled_at": "2026-04-22T06:49:14.652561+00:00",
+  "paints": [
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Venetian Red",
+      "hex": "#7b2b20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Vermillion",
+      "hex": "#7b2b20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Orange",
+      "hex": "#7b2b20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Orange",
+      "hex": "#7b2b20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Yellow Ochre",
+      "hex": "#ea7c23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Lemon Yellow",
+      "hex": "#ea7c23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Green 07",
+      "hex": "#ea7c23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Green 09",
+      "hex": "#ea7c23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Cobalt Blue",
+      "hex": "#233973",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Violet Blue",
+      "hex": "#233973",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Blue",
+      "hex": "#233973",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Lilac",
+      "hex": "#233973",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Umber",
+      "hex": "#5f1921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Bronze Metallic",
+      "hex": "#5f1921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Grey",
+      "hex": "#5f1921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pearlescent",
+      "hex": "#5f1921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Crimson",
+      "hex": "#e22028",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Golden Yellow",
+      "hex": "#e22028",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Leaf Green",
+      "hex": "#e22028",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Blue Green",
+      "hex": "#e22028",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Olive Green",
+      "hex": "#203026",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Prussian Blue",
+      "hex": "#203026",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Ultramarine Blue",
+      "hex": "#203026",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Red Violet",
+      "hex": "#203026",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pink",
+      "hex": "#f18180",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Yellow Brown",
+      "hex": "#f18180",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Rust Brown",
+      "hex": "#f18180",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Black",
+      "hex": "#f18180",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Silver Metallic",
+      "hex": "#5d686e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Gold Metallic",
+      "hex": "#5d686e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "White",
+      "hex": "#5d686e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Clear",
+      "hex": "#5d686e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Magenta Mixer",
+      "hex": "#d02128",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Bright Red Mixer",
+      "hex": "#d02128",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Red",
+      "hex": "#d02128",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Orange",
+      "hex": "#d02128",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Coral",
+      "hex": "#f3743d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Mid Yellow Mixer",
+      "hex": "#f3743d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Yellow",
+      "hex": "#f3743d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Cream",
+      "hex": "#f3743d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Green",
+      "hex": "#61bd50",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Sap Green Mixer",
+      "hex": "#61bd50",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Indigo Mixer",
+      "hex": "#61bd50",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Cyan Blue Mixer",
+      "hex": "#61bd50",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Blue",
+      "hex": "#356bb5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Pastel Mint",
+      "hex": "#356bb5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Purple Mixer",
+      "hex": "#356bb5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Neon Pink",
+      "hex": "#356bb5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Middle Yellow Mixer",
+      "hex": "#f68d5d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Wax-Colours/Deeswax-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Deeswax",
+      "name": "Silver Metalliic",
+      "hex": "#8e462e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Wax-Colours/Deeswax-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Venetian Red",
+      "hex": "#721c1f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Crimson",
+      "hex": "#721c1f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Magenta Mixer",
+      "hex": "#721c1f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Bright Red Mixer",
+      "hex": "#721c1f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Red",
+      "hex": "#ff2502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Vermillion",
+      "hex": "#ff2502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Orange",
+      "hex": "#ff2502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Coral",
+      "hex": "#ff2502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Yellow Ochre",
+      "hex": "#f05d29",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Orange",
+      "hex": "#f05d29",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Orange",
+      "hex": "#f05d29",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Golden Yellow",
+      "hex": "#f05d29",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Mid Yellow Mixer",
+      "hex": "#ffd703",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Lemon Yellow",
+      "hex": "#ffd703",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Yellow",
+      "hex": "#ffd703",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Cream",
+      "hex": "#ffd703",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Green",
+      "hex": "#19e953",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Leaf Green",
+      "hex": "#19e953",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Green",
+      "hex": "#19e953",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Olive Green",
+      "hex": "#19e953",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Sap Green Mixer",
+      "hex": "#234c2a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Blue Green",
+      "hex": "#234c2a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Mint",
+      "hex": "#234c2a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Blue",
+      "hex": "#234c2a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pastel Lilac",
+      "hex": "#7990bc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Blue",
+      "hex": "#7990bc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Cobalt Blue",
+      "hex": "#7990bc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Blue",
+      "hex": "#7990bc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Indigo Mixer",
+      "hex": "#25337e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Ultra Marine Blue",
+      "hex": "#25337e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Cyan Blue Mixer",
+      "hex": "#25337e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Prussian Blue",
+      "hex": "#25337e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Purple Mixer",
+      "hex": "#471392",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Blue Violet",
+      "hex": "#471392",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Red Violet",
+      "hex": "#471392",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Neon Pink",
+      "hex": "#471392",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pink",
+      "hex": "#f17f7f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Yellow Brown",
+      "hex": "#f17f7f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Bronze Metallic",
+      "hex": "#f17f7f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Rust Brown",
+      "hex": "#f17f7f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Umbra",
+      "hex": "#681c20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Black",
+      "hex": "#681c20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Gold Metallic",
+      "hex": "#681c20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Silver Metallic",
+      "hex": "#681c20",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Grey",
+      "hex": "#b7cdcb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Pearlescent Medium",
+      "hex": "#b7cdcb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "White",
+      "hex": "#b7cdcb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Encaustic Art Wax Colours",
+      "name": "Clear Medium",
+      "hex": "#b7cdcb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Alizarin Crimson",
+      "hex": "#7f0513",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Napthol Red",
+      "hex": "#7f0513",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Yellow Ochre",
+      "hex": "#7f0513",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Bismuth Yellow",
+      "hex": "#7f0513",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Viridian",
+      "hex": "#0a3718",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Ultramarine Blue",
+      "hex": "#0a3718",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Raw Umber",
+      "hex": "#0a3718",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Burnt Sienna",
+      "hex": "#0a3718",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Titanium White",
+      "hex": "#f6f3ee",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Red Earth Pale",
+      "hex": "#ebab8d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Brilliant Yellow Pale",
+      "hex": "#ebab8d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Golden Buff Titanium",
+      "hex": "#ebab8d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Naples Yellow Reddish",
+      "hex": "#ebab8d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Sienna Pink",
+      "hex": "#cf9b9c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Red Light",
+      "hex": "#990819",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Yellow Light",
+      "hex": "#990819",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cerulean Blue",
+      "hex": "#1f4108",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Quinacridone Red",
+      "hex": "#7f010d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Bohemian Orange",
+      "hex": "#7f010d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Nickel Titanate Yellow",
+      "hex": "#7f010d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Green Yellow Shade",
+      "hex": "#7f010d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Blue Green Shade",
+      "hex": "#0a1148",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Dioxazine Purple",
+      "hex": "#0a1148",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Caput Mortuum",
+      "hex": "#0a1148",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Jet Black",
+      "hex": "#0a1148",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Mars Venetian Red",
+      "hex": "#811f27",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Red Deep",
+      "hex": "#811f27",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Bohemian Green Earth",
+      "hex": "#fcdba1",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Micaceous Iron Oxide",
+      "hex": "#513633",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Raw Sienna",
+      "hex": "#513633",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Transparent Red Earth",
+      "hex": "#4d291a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Green",
+      "hex": "#4d291a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Blue",
+      "hex": "#001646",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Ultramarine Rose",
+      "hex": "#001646",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Calypso Green",
+      "hex": "#a3bf96",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Aquamarine",
+      "hex": "#a3bf96",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Violet",
+      "hex": "#a3bf96",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Rose",
+      "hex": "#a3bf96",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Maroon",
+      "hex": "#6d0915",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Mars Terracotta",
+      "hex": "#6d0915",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Red Medium",
+      "hex": "#cd1723",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Red Vermillion",
+      "hex": "#cd1723",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Orange",
+      "hex": "#cd1723",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Jaune Brilliant",
+      "hex": "#f1ac8b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Yellow Deep",
+      "hex": "#f1ac8b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Yellow Medium",
+      "hex": "#f1ac8b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Citron Green",
+      "hex": "#fef102",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Green",
+      "hex": "#fef102",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Chromium Oxide Green",
+      "hex": "#507041",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Teal Green",
+      "hex": "#507041",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Turquoise Blue",
+      "hex": "#507041",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Blue Light",
+      "hex": "#aec2da",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Dioxazine Purple Light",
+      "hex": "#aec2da",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Bone Black",
+      "hex": "#aec2da",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Midtone Gray",
+      "hex": "#6f696b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Light Buff Titanium",
+      "hex": "#6f696b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Antique Copper Pearl",
+      "hex": "#5b3a33",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Super Russet Pearl",
+      "hex": "#5b3a33",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Super Copper Pearl",
+      "hex": "#5b3a33",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Super Bronze Pearl",
+      "hex": "#5b3a33",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Super Gold Pearl",
+      "hex": "#dfbf6a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Golden Bronze Metallic",
+      "hex": "#dfbf6a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Antique Bronze Pearl",
+      "hex": "#dfbf6a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Antique Gold Pearl",
+      "hex": "#dfbf6a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Antique Silver Pearl",
+      "hex": "#5d5b5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Super Silver Pearl",
+      "hex": "#5d5b5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Warm Pearl",
+      "hex": "#5d5b5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Pompeii Red",
+      "hex": "#541810",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Naphthol Red",
+      "hex": "#541810",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Anthraquinone Orange",
+      "hex": "#541810",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Italian Golden Ochre",
+      "hex": "#e9512c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Indian Yellow",
+      "hex": "#e9512c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Naples Yellow Hue",
+      "hex": "#ffd880",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Green Light",
+      "hex": "#ffd880",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "French Ultramarine Light",
+      "hex": "#ffd880",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Blue",
+      "hex": "#15589e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Prussian Blue",
+      "hex": "#15589e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Burnt Umber",
+      "hex": "#452c28",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Perylene Maroon",
+      "hex": "#63484d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Golden Brown",
+      "hex": "#63484d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Zinc White",
+      "hex": "#63484d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Vagone Green Earth",
+      "hex": "#602a29",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Viridian Green",
+      "hex": "#12704e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Green Blue Shade",
+      "hex": "#12704e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Anthraquinone Blue",
+      "hex": "#2c2f58",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Phthalo Blue Red Shade",
+      "hex": "#2c2f58",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Ultramarine Violet",
+      "hex": "#2c2f58",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cobalt Violet",
+      "hex": "#7d3486",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Transparent Earth Red",
+      "hex": "#321a0d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Cadmium Red Vermilion",
+      "hex": "#9b0506",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Enkaustikos",
+      "name": "Italian Golden Ochre Historical",
+      "hex": "#6b6667",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Venetian Red",
+      "hex": "#b63e23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Studio Red",
+      "hex": "#b63e23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Cara Cara Orange",
+      "hex": "#b63e23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Cadmium Yellow Deep",
+      "hex": "#b63e23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Terre Pozzuoli",
+      "hex": "#e87c4d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Crumbling Plaster Yellow",
+      "hex": "#e87c4d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Studio Yellow",
+      "hex": "#e87c4d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Yellow Ochre",
+      "hex": "#e87c4d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Natural Yellow",
+      "hex": "#ba9500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Moss Green",
+      "hex": "#ba9500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Venetian Waterway Green",
+      "hex": "#ba9500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Vagone Green Earth",
+      "hex": "#ba9500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Robins Egg Blue",
+      "hex": "#9ebdd2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Ultramarine Blue",
+      "hex": "#9ebdd2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Iris Purple",
+      "hex": "#9ebdd2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Studio Black",
+      "hex": "#9ebdd2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Slate Gray",
+      "hex": "#4a452f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Burnt Umber",
+      "hex": "#4a452f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Raw Sienna",
+      "hex": "#4a452f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "White Medium",
+      "hex": "#4a452f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "White Clear",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Etsy Handmade",
+      "name": "Titanium White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Primary Red",
+      "hex": "#6e0000",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Venitian Red",
+      "hex": "#6e0000",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Joanne Loves This Red",
+      "hex": "#6e0000",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Alizarine Crimson Light",
+      "hex": "#6e0000",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Super Red Russet 207",
+      "hex": "#cc345a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Super Red Russet 208",
+      "hex": "#cc345a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Vermillion",
+      "hex": "#cc345a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Yellow Red",
+      "hex": "#cc345a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Orange Light",
+      "hex": "#ffb53e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Orange Medium",
+      "hex": "#ffb53e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Irgazine Yellow",
+      "hex": "#ffb53e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Orange Sand 220",
+      "hex": "#ffb53e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Orange Deep",
+      "hex": "#cc1d00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Iron Oxide Orange",
+      "hex": "#cc1d00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Titanium Orange",
+      "hex": "#cc1d00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Mars Yellow",
+      "hex": "#cc1d00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bright Orange Metallic 236",
+      "hex": "#c67e32",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Titanium Yellow",
+      "hex": "#c67e32",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Naples Yellow",
+      "hex": "#c67e32",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Indian Yellow",
+      "hex": "#c67e32",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Brilliant Gold",
+      "hex": "#f5e37f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bronzing",
+      "hex": "#f5e37f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Yellow Light",
+      "hex": "#f5e37f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Hansa Yellow",
+      "hex": "#f5e37f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Yellow Medium Deep",
+      "hex": "#f1b500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Majestic Gold",
+      "hex": "#f1b500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cobalt Yellow",
+      "hex": "#f1b500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Irgazine Green",
+      "hex": "#f1b500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Light Olive 239",
+      "hex": "#aa7412",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Light Olive 240",
+      "hex": "#aa7412",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Soft Green",
+      "hex": "#aa7412",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cadmium Green Light",
+      "hex": "#aa7412",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Kelly Green",
+      "hex": "#1f8b40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Nicosia Bottle Green",
+      "hex": "#1f8b40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Viridian",
+      "hex": "#1f8b40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Teal",
+      "hex": "#1f8b40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Thalo Green",
+      "hex": "#334340",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cobalt Turquoise",
+      "hex": "#334340",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Robins Egg Blue",
+      "hex": "#334340",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Manganese Blue Genuine",
+      "hex": "#334340",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Azure Blue",
+      "hex": "#0096f7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Blue Green",
+      "hex": "#0096f7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cloisonne Blue",
+      "hex": "#0096f7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Lavender",
+      "hex": "#0096f7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Blue Red 185",
+      "hex": "#5b59c7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Blue Red 180",
+      "hex": "#5b59c7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Primary Blue",
+      "hex": "#5b59c7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Irgazine Blue",
+      "hex": "#5b59c7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cobalt Blue",
+      "hex": "#113bc5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Navy Luster",
+      "hex": "#113bc5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "French Ultramarine Blue",
+      "hex": "#113bc5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Milori Blue",
+      "hex": "#113bc5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Thalo Blue",
+      "hex": "#353444",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Indanthrone Blue",
+      "hex": "#353444",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Grape",
+      "hex": "#353444",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Egyptian Violet",
+      "hex": "#353444",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Violet Shimmer",
+      "hex": "#5d2b72",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Dioxazine Violet",
+      "hex": "#5d2b72",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cinquasia Violet",
+      "hex": "#5d2b72",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Provence Violet",
+      "hex": "#5d2b72",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Manganese Violet",
+      "hex": "#350082",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Red Blue",
+      "hex": "#350082",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Pink Pearl",
+      "hex": "#350082",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Candy Pink Light",
+      "hex": "#350082",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Platinum Rose 186",
+      "hex": "#f0dbe2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Platinum Rose 179",
+      "hex": "#f0dbe2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Red Yellow",
+      "hex": "#f0dbe2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Duochrome Red Green",
+      "hex": "#f0dbe2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Montserrat Magenta",
+      "hex": "#e87ea2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cloisonne Pink",
+      "hex": "#e87ea2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Burnt Sienna",
+      "hex": "#e87ea2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Alizarine Violet",
+      "hex": "#e87ea2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Quinacridone Magenta",
+      "hex": "#7e2042",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Studio Pink",
+      "hex": "#7e2042",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Transparent Rust",
+      "hex": "#7e2042",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Graphite",
+      "hex": "#7e2042",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Iron Oxide Black",
+      "hex": "#060814",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Rose Brown",
+      "hex": "#060814",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Dark Oak",
+      "hex": "#060814",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Burnt Umber",
+      "hex": "#060814",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Caput Mortuum",
+      "hex": "#5a3a47",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Turkey Umber",
+      "hex": "#5a3a47",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Raw Umber",
+      "hex": "#5a3a47",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Orange Sand 221",
+      "hex": "#5a3a47",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Raw Sienna",
+      "hex": "#9a4f30",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Copper",
+      "hex": "#9a4f30",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Terracotta",
+      "hex": "#9a4f30",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bright Orange Metallic 144",
+      "hex": "#9a4f30",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Salmon PS",
+      "hex": "#b16951",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Aztec Gold",
+      "hex": "#b16951",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Golden Bronze",
+      "hex": "#b16951",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Cold Steel",
+      "hex": "#b16951",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bohemian Green Earth",
+      "hex": "#899184",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bisque Gray",
+      "hex": "#899184",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Antique Silver",
+      "hex": "#899184",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Buff",
+      "hex": "#899184",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Bright Silver",
+      "hex": "#dbe2ea",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Chevre",
+      "hex": "#dbe2ea",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Evans Premier Artist",
+      "name": "Titanium White",
+      "hex": "#dbe2ea",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Burnt Sienna",
+      "hex": "#8d1c14",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Red",
+      "hex": "#8d1c14",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Brown Pink",
+      "hex": "#8d1c14",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Rose Madder",
+      "hex": "#8d1c14",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Alizarine Crimson",
+      "hex": "#bf1202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Red Deep",
+      "hex": "#bf1202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Quinacridone Red",
+      "hex": "#bf1202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Red Medium",
+      "hex": "#bf1202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Red Light",
+      "hex": "#ff430c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Orange",
+      "hex": "#ff430c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Alizarine Orange",
+      "hex": "#ff430c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Orange",
+      "hex": "#ff430c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Raw Sienna",
+      "hex": "#bb4d02",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Yellow Deep",
+      "hex": "#bb4d02",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Yellow Light",
+      "hex": "#bb4d02",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Gold",
+      "hex": "#bb4d02",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Indian Yellow",
+      "hex": "#ff9e13",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Jaune Brilliant",
+      "hex": "#ff9e13",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Brass",
+      "hex": "#ff9e13",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Yellow Deep",
+      "hex": "#ff9e13",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Yellow",
+      "hex": "#feca16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Yellow Medium",
+      "hex": "#feca16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Yellow Light",
+      "hex": "#feca16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Lemon",
+      "hex": "#feca16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Brilliant Yellow Extra Pale",
+      "hex": "#fefede",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Naples Yellow",
+      "hex": "#fefede",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Green Gold",
+      "hex": "#fefede",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Turkey Umber Greenish",
+      "hex": "#fefede",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Courbet Green",
+      "hex": "#234233",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Phthalo Green",
+      "hex": "#234233",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Green Earth",
+      "hex": "#234233",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Chromium Oxide",
+      "hex": "#234233",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Sap Green",
+      "hex": "#3b7b25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Veronese Green",
+      "hex": "#3b7b25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Viridian",
+      "hex": "#3b7b25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Green Light",
+      "hex": "#3b7b25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Green",
+      "hex": "#71a32a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cadmium Green Pale",
+      "hex": "#71a32a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Celadon Green",
+      "hex": "#71a32a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cerulean Extra Pale",
+      "hex": "#71a32a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Azure Blue",
+      "hex": "#2f9bc2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Kings Blue",
+      "hex": "#2f9bc2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Turquoise Blue",
+      "hex": "#2f9bc2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "French Mauve Bluish",
+      "hex": "#2f9bc2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cerulean Blue",
+      "hex": "#1e5ab0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Indigo",
+      "hex": "#1e5ab0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Turquoise",
+      "hex": "#1e5ab0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Blue",
+      "hex": "#1e5ab0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Ultramarine Blue",
+      "hex": "#1a229f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Phthalo Turquoise",
+      "hex": "#1a229f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Phthalo Blue",
+      "hex": "#1a229f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Ultramarine Violet",
+      "hex": "#1a229f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Egyptian Violet",
+      "hex": "#3a1886",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Violet",
+      "hex": "#3a1886",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Manganese Violet",
+      "hex": "#3a1886",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Violet Deep",
+      "hex": "#3a1886",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Cobalt Violet Light",
+      "hex": "#a33daa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Warm Rose",
+      "hex": "#a33daa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Warm Pink",
+      "hex": "#a33daa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "French Mauve Reddish",
+      "hex": "#a33daa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Dianthus Pink",
+      "hex": "#f78cc0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Bronze",
+      "hex": "#f78cc0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Raw Umber",
+      "hex": "#f78cc0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Copper",
+      "hex": "#f78cc0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Sepia",
+      "hex": "#a73f40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Quinacridone Magenta",
+      "hex": "#a73f40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Burnt Umber",
+      "hex": "#a73f40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Ivory Black",
+      "hex": "#a73f40",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Mars Black",
+      "hex": "#030303",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Graphite Gray",
+      "hex": "#030303",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Paynes Gray",
+      "hex": "#030303",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Intense Carbon Black",
+      "hex": "#030303",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Pewter",
+      "hex": "#5b5362",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Geman Silver",
+      "hex": "#5b5362",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Silver",
+      "hex": "#5b5362",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Iridescent Pearl",
+      "hex": "#5b5362",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Neutral White",
+      "hex": "#eeebcc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Zinc White",
+      "hex": "#eeebcc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "R and F Artist",
+      "name": "Titanium White",
+      "hex": "#eeebcc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Indian Red",
+      "hex": "#5c1710",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Red Deep",
+      "hex": "#5c1710",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Carmine Red",
+      "hex": "#5c1710",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Venetian Red",
+      "hex": "#5c1710",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Scarlet Lake Red",
+      "hex": "#af1304",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Red Medium",
+      "hex": "#af1304",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Red Light",
+      "hex": "#af1304",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "French Vermilion Red",
+      "hex": "#af1304",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Orange",
+      "hex": "#be2901",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Orange Deep",
+      "hex": "#be2901",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Red Ochre",
+      "hex": "#be2901",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Mars Orange",
+      "hex": "#be2901",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Chinese Orange",
+      "hex": "#932d05",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Yellow Deep",
+      "hex": "#932d05",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Indian Yellow",
+      "hex": "#932d05",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Yellow Ochre",
+      "hex": "#932d05",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Yellow Medium",
+      "hex": "#bc8801",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Yellow Ochre Light",
+      "hex": "#bc8801",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Yellow Light",
+      "hex": "#bc8801",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Naples Yellow",
+      "hex": "#bc8801",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cadmium Lemon Yellow",
+      "hex": "#f8ee4e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Permanent Green",
+      "hex": "#f8ee4e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Viridian Green",
+      "hex": "#f8ee4e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Olive Green",
+      "hex": "#f8ee4e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Phthalo Green Light",
+      "hex": "#4c571f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Terre Verte Green",
+      "hex": "#4c571f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Raw Umber Green Shade",
+      "hex": "#4c571f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Sap Green",
+      "hex": "#4c571f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cinnabar Green",
+      "hex": "#193e15",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Green Umber",
+      "hex": "#193e15",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Azure Blue",
+      "hex": "#193e15",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Turquoise Blue",
+      "hex": "#193e15",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cerulean Blue",
+      "hex": "#1671aa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cobalt Blue",
+      "hex": "#1671aa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Phthalo Blue",
+      "hex": "#1671aa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "French Ultramarine Blue",
+      "hex": "#1671aa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Prussian Blue",
+      "hex": "#041c3e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Indigo Blue",
+      "hex": "#041c3e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Windsor Violet",
+      "hex": "#041c3e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Manganese Violet Deep",
+      "hex": "#041c3e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Purple Dioxazine",
+      "hex": "#5e333d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Permanent Mauve",
+      "hex": "#5e333d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Magenta",
+      "hex": "#5e333d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Ultramarine Rose",
+      "hex": "#5e333d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Flesh Tint",
+      "hex": "#ae635d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Mars Black",
+      "hex": "#ae635d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Paynes Gray",
+      "hex": "#ae635d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Cool Gray",
+      "hex": "#ae635d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Italian Earth",
+      "hex": "#6a3c18",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Spanish Gold Ochre",
+      "hex": "#6a3c18",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Tuscan Earth",
+      "hex": "#6a3c18",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Raw Sienna",
+      "hex": "#6a3c18",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Brown Ochre",
+      "hex": "#9a602e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Flesh Ochre",
+      "hex": "#9a602e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Titanium Buff",
+      "hex": "#9a602e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Sonja Artist",
+      "name": "Titanium White",
+      "hex": "#9a602e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Isis Red",
+      "hex": "#bf0301",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Venetian Red",
+      "hex": "#bf0301",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Yellow Ochre",
+      "hex": "#bf0301",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Pyramid Yellow",
+      "hex": "#bf0301",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Bamboo Green",
+      "hex": "#537236",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Corfu Blue",
+      "hex": "#537236",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Burnt Sienna",
+      "hex": "#537236",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Burnt Umber",
+      "hex": "#537236",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Mars Black",
+      "hex": "#302e19",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Cairo Clear Encaustic Medium",
+      "hex": "#302e19",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wagner Ancient Paints",
+      "name": "Titanium White",
+      "hex": "#302e19",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Venetian Red",
+      "hex": "#b92f00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Bright Red",
+      "hex": "#b92f00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Vermilion",
+      "hex": "#b92f00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Red",
+      "hex": "#b92f00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Orange",
+      "hex": "#ff803f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Orange",
+      "hex": "#ff803f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Coral",
+      "hex": "#ff803f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Orange",
+      "hex": "#ff803f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Lemon Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Mid Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Golden Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Gold",
+      "hex": "#e0bf00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Yellow Ochre",
+      "hex": "#e0bf00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Bronze",
+      "hex": "#e0bf00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Yellow Brown",
+      "hex": "#e0bf00",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Olive Green",
+      "hex": "#7a932d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Sap Green",
+      "hex": "#7a932d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Blue Green",
+      "hex": "#7a932d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Green",
+      "hex": "#7a932d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Leaf Green",
+      "hex": "#56eb16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Green",
+      "hex": "#56eb16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Mint",
+      "hex": "#56eb16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Blue",
+      "hex": "#56eb16",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Blue",
+      "hex": "#86b9fa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Cobalt Blue",
+      "hex": "#86b9fa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Indigo",
+      "hex": "#86b9fa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Ultramarine",
+      "hex": "#86b9fa",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Cyan Blue",
+      "hex": "#0d31bd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Blue",
+      "hex": "#0d31bd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Prussian Blue",
+      "hex": "#0d31bd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Purple",
+      "hex": "#0d31bd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Blue Violet",
+      "hex": "#9900cc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Red Violet",
+      "hex": "#9900cc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Crimson",
+      "hex": "#9900cc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Rust Brown",
+      "hex": "#9900cc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Umber",
+      "hex": "#9a6601",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Magenta",
+      "hex": "#9a6601",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Neon Pink",
+      "hex": "#9a6601",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pink",
+      "hex": "#9a6601",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Lilac",
+      "hex": "#d8d5ff",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Black",
+      "hex": "#d8d5ff",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Grey",
+      "hex": "#d8d5ff",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Silver",
+      "hex": "#d8d5ff",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pastel Cream",
+      "hex": "#fffde8",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "Pearlescent",
+      "hex": "#fffde8",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    },
+    {
+      "medium": "encaustic-paint",
+      "brand": "Wakes Waxes Art Supplies",
+      "name": "White",
+      "hex": "#fffde8",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
+    }
+  ]
+}

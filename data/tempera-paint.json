@@ -1,0 +1,4118 @@
+{
+  "medium": "tempera-paint",
+  "crawled_at": "2026-04-22T07:46:10.857630+00:00",
+  "paints": [
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Red",
+      "hex": "#c34954",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Yellow",
+      "hex": "#c34954",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Green",
+      "hex": "#c34954",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Blue",
+      "hex": "#c34954",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Black",
+      "hex": "#010502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "White",
+      "hex": "#010502",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Red",
+      "hex": "#f14c5a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Yellow Orange",
+      "hex": "#f14c5a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Yellow",
+      "hex": "#f14c5a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Green",
+      "hex": "#f14c5a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Blue",
+      "hex": "#3c7bbe",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Fluorescent Pink",
+      "hex": "#3c7bbe",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Burnt Sienna",
+      "hex": "#ae4817",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Cinnamon",
+      "hex": "#ae4817",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Curry",
+      "hex": "#ae4817",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Peach",
+      "hex": "#ae4817",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Almond",
+      "hex": "#debba7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Bisque",
+      "hex": "#debba7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Walnut",
+      "hex": "#debba7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Brown",
+      "hex": "#debba7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Orange",
+      "hex": "#d1171c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Emerald Green",
+      "hex": "#fdeb3f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Yellow Green",
+      "hex": "#7fc900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Turquoise",
+      "hex": "#7fc900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Violet",
+      "hex": "#01abde",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Magenta",
+      "hex": "#01abde",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Gold",
+      "hex": "#0b0b0b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Artists",
+      "name": "Silver",
+      "hex": "#a5a6ab",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "Red",
+      "hex": "#c32e41",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "Yellow",
+      "hex": "#c32e41",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "Green",
+      "hex": "#c32e41",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "Blue",
+      "hex": "#c32e41",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "Black",
+      "hex": "#0f131e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Camellia Artist",
+      "name": "White",
+      "hex": "#0f131e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Brilliant Red",
+      "hex": "#ed174c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Primary Red",
+      "hex": "#ed174c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Brilliant Orange",
+      "hex": "#ed174c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Brilliant Yellow",
+      "hex": "#ed174c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Primary Yellow",
+      "hex": "#fff200",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Brilliant Green",
+      "hex": "#fff200",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Brilliant Blue",
+      "hex": "#fff200",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Cyan",
+      "hex": "#fff200",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Purple",
+      "hex": "#342a7b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Black",
+      "hex": "#342a7b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Burnt Sienna",
+      "hex": "#342a7b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "White",
+      "hex": "#342a7b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Carmine",
+      "hex": "#d12203",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Vermillion",
+      "hex": "#d12203",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Orange",
+      "hex": "#d12203",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Yellow Ochre",
+      "hex": "#d9a81f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Gold Yellow",
+      "hex": "#d9a81f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Lemon Yellow",
+      "hex": "#d9a81f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Viridian",
+      "hex": "#01982f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Turquoise",
+      "hex": "#01982f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Ultramarine",
+      "hex": "#01982f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Primary Blue",
+      "hex": "#0186d5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Violet",
+      "hex": "#0186d5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Tyrien Rose",
+      "hex": "#0186d5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Vermilion",
+      "hex": "#ed174c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Fluorescent Yellow",
+      "hex": "#e8ae10",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Emerald Green",
+      "hex": "#f7ec2f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Fluorescent Green",
+      "hex": "#f7ec2f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Leaf Green",
+      "hex": "#9bcd66",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Cobalt Blue Hue",
+      "hex": "#9bcd66",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Fluorescent Blue",
+      "hex": "#0081c4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Cerise",
+      "hex": "#0081c4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Fluorescent Pink",
+      "hex": "#ec008c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Gold",
+      "hex": "#ec008c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Burnt Umber",
+      "hex": "#ec008c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Color and Co",
+      "name": "Silver",
+      "hex": "#7b2d19",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Red",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Orange",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Yellow",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Green",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Blue",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Turquoise",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Violet",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Magenta",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Black",
+      "hex": "#2d3739",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Brown",
+      "hex": "#2d3739",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Peach",
+      "hex": "#2d3739",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "White",
+      "hex": "#2d3739",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Red",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Orange Yellow",
+      "hex": "#d30021",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Chartreuse",
+      "hex": "#ffe01c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Green",
+      "hex": "#ffe01c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Blue",
+      "hex": "#183da8",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Fluorescent Pink",
+      "hex": "#c22b7a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Silver",
+      "hex": "#c22b7a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Crayola",
+      "name": "Gold",
+      "hex": "#8a410a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Magenta",
+      "hex": "#cc0033",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Red",
+      "hex": "#cc0033",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Red Oxide",
+      "hex": "#cc0033",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Orange",
+      "hex": "#cc0033",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Ochre",
+      "hex": "#fe9900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Yellow",
+      "hex": "#fe9900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Lemon",
+      "hex": "#fe9900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Viridian Green",
+      "hex": "#fe9900",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Emerald Green",
+      "hex": "#046307",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Turquoise",
+      "hex": "#046307",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Cyan Blue",
+      "hex": "#046307",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Cobalt Blue",
+      "hex": "#046307",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Violet",
+      "hex": "#013366",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Black",
+      "hex": "#013366",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "Burnt Umber",
+      "hex": "#013366",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Dala Liquid",
+      "name": "White",
+      "hex": "#013366",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Parmanent Rose",
+      "hex": "#e44d61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Crimson Alizarin",
+      "hex": "#e44d61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Indian Red",
+      "hex": "#e44d61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Venetian Red",
+      "hex": "#e44d61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Light Red",
+      "hex": "#c06334",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Red Deep",
+      "hex": "#c06334",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Red",
+      "hex": "#c06334",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Orange",
+      "hex": "#c06334",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Raw Sienna",
+      "hex": "#dba746",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Yellow Ochre",
+      "hex": "#dba746",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Yellow Deep",
+      "hex": "#dba746",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Yellow",
+      "hex": "#dba746",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Yellow Pale",
+      "hex": "#f8e63b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Monestial Green",
+      "hex": "#f8e63b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Viridian",
+      "hex": "#f8e63b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cadmium Green",
+      "hex": "#f8e63b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Monestial Blue",
+      "hex": "#1e81a7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "French Ultramarine",
+      "hex": "#1e81a7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Cobalt Blue",
+      "hex": "#1e81a7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Coeruleum",
+      "hex": "#1e81a7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Violet Alizarin",
+      "hex": "#914f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Ivory Black",
+      "hex": "#914f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Raw Umber",
+      "hex": "#914f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Burnt Umber",
+      "hex": "#914f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Burnt Sienna",
+      "hex": "#c87336",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Zinc White",
+      "hex": "#c87336",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Daler Rowney Egg",
+      "name": "Titanium White",
+      "hex": "#c87336",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Demco Metallic",
+      "name": "Gold",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Demco Metallic",
+      "name": "Silver",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Demco Metallic",
+      "name": "Copper",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Carmine",
+      "hex": "#bc5269",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Vermilion",
+      "hex": "#bc5269",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Orange",
+      "hex": "#bc5269",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Ochre",
+      "hex": "#bc5269",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Yellow",
+      "hex": "#f2ea65",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Blue Green",
+      "hex": "#f2ea65",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Yellow Green",
+      "hex": "#f2ea65",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Blue",
+      "hex": "#f2ea65",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Ultramarine",
+      "hex": "#6d90c6",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Bright Blue",
+      "hex": "#6d90c6",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Violet",
+      "hex": "#6d90c6",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Magenta",
+      "hex": "#6d90c6",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Red Lilac",
+      "hex": "#865a97",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Black",
+      "hex": "#865a97",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Burnt Sienna",
+      "hex": "#865a97",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Burnt Umber",
+      "hex": "#865a97",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Grey",
+      "hex": "#a7a599",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "Skin Tone",
+      "hex": "#a7a599",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Eberhard Faber Artist",
+      "name": "White",
+      "hex": "#a7a599",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Red",
+      "hex": "#ed3849",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Carmine Red",
+      "hex": "#ed3849",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Orange",
+      "hex": "#ed3849",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Yellow",
+      "hex": "#ed3849",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Blue Green",
+      "hex": "#129464",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Bright Green",
+      "hex": "#129464",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Prussian Blue",
+      "hex": "#129464",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Cyan Blue",
+      "hex": "#129464",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Violet",
+      "hex": "#755892",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Magenta",
+      "hex": "#755892",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Black",
+      "hex": "#755892",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Brown",
+      "hex": "#755892",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "Ochre",
+      "hex": "#e7aa71",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Efacolor School",
+      "name": "White",
+      "hex": "#e7aa71",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Red",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Orange",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Yellow",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Green",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Blue",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Violet",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Magenta",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Black",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "Brown",
+      "hex": "#815100",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Elmers Washable",
+      "name": "White",
+      "hex": "#815100",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Burgundy",
+      "hex": "#97232e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Crimson",
+      "hex": "#97232e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Brilliant Red",
+      "hex": "#97232e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Red",
+      "hex": "#97232e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Rose Red",
+      "hex": "#f24e1b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Orange",
+      "hex": "#f24e1b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Orange",
+      "hex": "#f24e1b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Deep Yellow",
+      "hex": "#f24e1b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Yellow",
+      "hex": "#f4f00b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Yellow",
+      "hex": "#f4f00b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Green",
+      "hex": "#f4f00b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Green",
+      "hex": "#f4f00b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Leaf",
+      "hex": "#4ea837",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Green",
+      "hex": "#4ea837",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Ultra",
+      "hex": "#4ea837",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Blue",
+      "hex": "#4ea837",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Blue",
+      "hex": "#0463cd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Blue",
+      "hex": "#0463cd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Cobalt",
+      "hex": "#0463cd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Violet",
+      "hex": "#0463cd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Magenta",
+      "hex": "#f501ae",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Fluorescent Pink",
+      "hex": "#f501ae",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "New Bright Pink",
+      "hex": "#f501ae",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Black",
+      "hex": "#f501ae",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Umber",
+      "hex": "#6d392c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Copper",
+      "hex": "#6d392c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Rich Gold",
+      "hex": "#6d392c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Ochre",
+      "hex": "#6d392c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Pale Gold",
+      "hex": "#ffcb66",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "Metallic Silver",
+      "hex": "#ffcb66",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "FAS Super",
+      "name": "White",
+      "hex": "#ffcb66",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Red",
+      "hex": "#b50035",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Red",
+      "hex": "#b50035",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Orange",
+      "hex": "#b50035",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Orange",
+      "hex": "#b50035",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Metallic Gold",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Yellow",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Yellow",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Green",
+      "hex": "#ecd960",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Green",
+      "hex": "#19943a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Ultra Blue",
+      "hex": "#19943a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Blue",
+      "hex": "#19943a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Purple",
+      "hex": "#19943a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Fluorescent Pink",
+      "hex": "#e82b92",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Black",
+      "hex": "#e82b92",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Brown",
+      "hex": "#e82b92",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Metallic Silver",
+      "hex": "#e82b92",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Crimson",
+      "hex": "#932727",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Burnt Sienna",
+      "hex": "#932727",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Brilliant Red",
+      "hex": "#932727",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Yellow Ochre",
+      "hex": "#bf9600",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Brilliant Yellow",
+      "hex": "#bf9600",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Brilliant Green",
+      "hex": "#bf9600",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Leaf Green",
+      "hex": "#bf9600",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Cobalt Blue",
+      "hex": "#100f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Brilliant Blue",
+      "hex": "#100f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Turquoise",
+      "hex": "#100f75",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Funstuff",
+      "name": "Burnt Umber",
+      "hex": "#010101",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Carmine Red",
+      "hex": "#d00018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Primary Red",
+      "hex": "#d00018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Vermilion",
+      "hex": "#d00018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Orange",
+      "hex": "#d00018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Gold Orange",
+      "hex": "#f6a800",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Bright Ochre",
+      "hex": "#f6a800",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Primary Yellow",
+      "hex": "#f6a800",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Dark Green",
+      "hex": "#f6a800",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Bright Green",
+      "hex": "#97bf0f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Dark Blue",
+      "hex": "#97bf0f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Primary Blue",
+      "hex": "#97bf0f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Violet",
+      "hex": "#97bf0f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Black",
+      "hex": "#0b0f10",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Brown",
+      "hex": "#0b0f10",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "Grey",
+      "hex": "#0b0f10",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Gerstaecker School",
+      "name": "White",
+      "hex": "#0b0f10",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Red",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Orange",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Peach",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Yellow",
+      "hex": "#ee3f5e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Green",
+      "hex": "#39b285",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Turquoise",
+      "hex": "#39b285",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Blue",
+      "hex": "#39b285",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Violet",
+      "hex": "#39b285",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Magenta",
+      "hex": "#d641a9",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Black",
+      "hex": "#d641a9",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "Brown",
+      "hex": "#d641a9",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Handy Art Washable",
+      "name": "White",
+      "hex": "#d641a9",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Red",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Red",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Orange",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Orange",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Yellow",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Green",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Green",
+      "hex": "#ffff01",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Blue",
+      "hex": "#307abb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Blue",
+      "hex": "#307abb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Ultra Blue",
+      "hex": "#307abb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Violet",
+      "hex": "#307abb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Purple",
+      "hex": "#9c0086",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Fluorescent Pink",
+      "hex": "#9c0086",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Black",
+      "hex": "#9c0086",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Brown",
+      "hex": "#9c0086",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Metallic Copper",
+      "hex": "#a24921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Metallic Gold",
+      "hex": "#a24921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Metallic Silver",
+      "hex": "#a24921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "White",
+      "hex": "#a24921",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Jazz Gloss Colors",
+      "name": "Metallic Pearl",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Red",
+      "hex": "#ff3e53",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Orange",
+      "hex": "#ff3e53",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Yellow",
+      "hex": "#ff3e53",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Green",
+      "hex": "#ff3e53",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Blue",
+      "hex": "#5181b1",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Purple",
+      "hex": "#5181b1",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Brown",
+      "hex": "#5181b1",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "Black",
+      "hex": "#5181b1",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Kaplan",
+      "name": "White",
+      "hex": "#f5fafc",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "English Red",
+      "hex": "#862721",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Carmine",
+      "hex": "#862721",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Bright Red",
+      "hex": "#862721",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Vermilion",
+      "hex": "#862721",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Orange",
+      "hex": "#ee690e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Ochre",
+      "hex": "#ee690e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Golden Yellow",
+      "hex": "#ee690e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Lemon Yellow",
+      "hex": "#ee690e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Emerald Green",
+      "hex": "#00653d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Brilliant Green",
+      "hex": "#00653d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Veronese Green",
+      "hex": "#00653d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Green Yellow",
+      "hex": "#00653d",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Turquoise Blue",
+      "hex": "#019fba",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Prussian Blue",
+      "hex": "#019fba",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Ultramarine Blue",
+      "hex": "#019fba",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Cobalt Blue",
+      "hex": "#019fba",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Light Blue",
+      "hex": "#83add7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Red Violet",
+      "hex": "#83add7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Purple Red",
+      "hex": "#83add7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Magenta",
+      "hex": "#83add7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Rose",
+      "hex": "#f09abf",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Black",
+      "hex": "#f09abf",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Natural Umber",
+      "hex": "#f09abf",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Dark Brown",
+      "hex": "#f09abf",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Light Brown",
+      "hex": "#512f23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Bordeaux",
+      "hex": "#512f23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Light Grey",
+      "hex": "#512f23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "Beige",
+      "hex": "#512f23",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Lascaux Decora",
+      "name": "White",
+      "hex": "#f5ecec",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Magenta Red",
+      "hex": "#d30068",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Vermillion",
+      "hex": "#d30068",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Orange",
+      "hex": "#d30068",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Yellow Ochre",
+      "hex": "#d30068",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Yellow",
+      "hex": "#f7f500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Yellow Green",
+      "hex": "#f7f500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Blue Green",
+      "hex": "#f7f500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Cyan Blue",
+      "hex": "#f7f500",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Ultramarine",
+      "hex": "#344998",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Violet",
+      "hex": "#344998",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Black",
+      "hex": "#344998",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Burnt Sienna",
+      "hex": "#344998",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Nerchau School",
+      "name": "Opaque White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Red",
+      "hex": "#8b353e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Red",
+      "hex": "#8b353e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Red",
+      "hex": "#8b353e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Orange",
+      "hex": "#8b353e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Orange",
+      "hex": "#cf5b1e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Peach",
+      "hex": "#cf5b1e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Gold",
+      "hex": "#cf5b1e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Yellow",
+      "hex": "#cf5b1e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Yellow",
+      "hex": "#f1dc09",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Yellow",
+      "hex": "#f1dc09",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Orange",
+      "hex": "#f1dc09",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Peach",
+      "hex": "#f1dc09",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Green",
+      "hex": "#338847",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Green",
+      "hex": "#338847",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Green",
+      "hex": "#338847",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Turquoise",
+      "hex": "#338847",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Ultra Blue",
+      "hex": "#2f2268",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Blue",
+      "hex": "#2f2268",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Blue",
+      "hex": "#2f2268",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Blue",
+      "hex": "#2f2268",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Violet",
+      "hex": "#684b61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Violet",
+      "hex": "#684b61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Magenta",
+      "hex": "#684b61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Magenta",
+      "hex": "#684b61",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Flourescent Pink",
+      "hex": "#de5c64",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Black",
+      "hex": "#de5c64",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Black",
+      "hex": "#de5c64",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Turquoise",
+      "hex": "#de5c64",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Brown",
+      "hex": "#871804",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Brown",
+      "hex": "#871804",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Copper",
+      "hex": "#871804",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent Silver",
+      "hex": "#871804",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "Pearlescent White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Pearl Designer",
+      "name": "White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Red",
+      "hex": "#c90223",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Yellow",
+      "hex": "#c90223",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Green",
+      "hex": "#c90223",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Blue",
+      "hex": "#c90223",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Black",
+      "hex": "#050505",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "White",
+      "hex": "#050505",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Orange",
+      "hex": "#e80028",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Turquoise Blue",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Violet",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Magenta",
+      "hex": "#087ad3",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Brown",
+      "hex": "#3b5264",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Peach",
+      "hex": "#3b5264",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Red",
+      "hex": "#ef092f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Red",
+      "hex": "#ef092f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Orange",
+      "hex": "#ef092f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Copper",
+      "hex": "#ef092f",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Yellow",
+      "hex": "#fcee57",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Green",
+      "hex": "#fcee57",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Green",
+      "hex": "#fcee57",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Blue",
+      "hex": "#fcee57",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Blue",
+      "hex": "#00baeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Violet",
+      "hex": "#00baeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Magenta",
+      "hex": "#00baeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Gold",
+      "hex": "#00baeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Gold",
+      "hex": "#ccba8c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic Silver",
+      "hex": "#ccba8c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Glitter Silver",
+      "hex": "#ccba8c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Prang",
+      "name": "Metallic White",
+      "hex": "#ccba8c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Brilliant Red",
+      "hex": "#ff000e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Brilliant Orange",
+      "hex": "#ff000e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Brilliant Yellow",
+      "hex": "#ff000e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Lemon Yellow",
+      "hex": "#ff000e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Brilliant Green",
+      "hex": "#40a629",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Brilliant Blue",
+      "hex": "#40a629",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Cyan",
+      "hex": "#40a629",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Purple",
+      "hex": "#40a629",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Crimson",
+      "hex": "#b9027e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Black",
+      "hex": "#b9027e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "Burnt Sienna",
+      "hex": "#b9027e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Reeves Artist",
+      "name": "White",
+      "hex": "#b9027e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Red",
+      "hex": "#e52125",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Orange",
+      "hex": "#e52125",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Yellow",
+      "hex": "#e52125",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Green",
+      "hex": "#e52125",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Turquoise",
+      "hex": "#31a3a4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Ultra Blue",
+      "hex": "#31a3a4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Violet",
+      "hex": "#31a3a4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Magenta",
+      "hex": "#31a3a4",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Black",
+      "hex": "#020202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "Brown",
+      "hex": "#020202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Rich Art Fresco Dry",
+      "name": "White",
+      "hex": "#020202",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Red",
+      "hex": "#e52425",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Orange",
+      "hex": "#e52425",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Yellow",
+      "hex": "#e52425",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Green",
+      "hex": "#e52425",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Turquoise",
+      "hex": "#0761b7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Blue",
+      "hex": "#0761b7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Violet",
+      "hex": "#0761b7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Magenta",
+      "hex": "#0761b7",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Brown",
+      "hex": "#663018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Black",
+      "hex": "#663018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "White",
+      "hex": "#663018",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Yellow Orange Spectral",
+      "hex": "#ee1c25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Spectral Yellow",
+      "hex": "#ee1c25",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Chartreuse",
+      "hex": "#028a4c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Pink",
+      "hex": "#028a4c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Gold",
+      "hex": "#ed1e28",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Silver",
+      "hex": "#d00e7e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Peach",
+      "hex": "#fcd8c2",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Copper",
+      "hex": "#b78637",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Bronze",
+      "hex": "#b78637",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Aztec Gold",
+      "hex": "#b78637",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sargent Art",
+      "name": "Antique Gold",
+      "hex": "#e6bc1c",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Red Brown",
+      "hex": "#a8372e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Red Ochre",
+      "hex": "#a8372e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Alizarin Crimson",
+      "hex": "#a8372e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Permanent Intense Red",
+      "hex": "#a8372e",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Carmine",
+      "hex": "#c62229",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Rose Madder Lake",
+      "hex": "#c62229",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Crimson Lake",
+      "hex": "#c62229",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cadmium Red Deep Genuine",
+      "hex": "#c62229",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Vermilion",
+      "hex": "#d22628",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cadmium Yellow Orange Genuine",
+      "hex": "#d22628",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Yellow Ochre",
+      "hex": "#d22628",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cadmium Yellow Deep Genuine",
+      "hex": "#d22628",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Indian Yellow",
+      "hex": "#efaf37",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cadmium Yellow Light Genuine",
+      "hex": "#efaf37",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Lemon Yellow",
+      "hex": "#efaf37",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Naples Yellow",
+      "hex": "#efaf37",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Permanent Green",
+      "hex": "#23563b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Viridian",
+      "hex": "#23563b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Emerald Green",
+      "hex": "#23563b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Prussian Blue",
+      "hex": "#23563b",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cobalt Blue Genuine",
+      "hex": "#465aa0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Ultramarine Blue",
+      "hex": "#465aa0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cerulean Blue",
+      "hex": "#465aa0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Cobalt Violet Hue",
+      "hex": "#465aa0",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Ivory Black",
+      "hex": "#252621",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Raw Umber",
+      "hex": "#252621",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Van Dyck Brown",
+      "hex": "#252621",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Burnt Umber",
+      "hex": "#252621",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Burnt Sienna",
+      "hex": "#8d4137",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Raw Sienna",
+      "hex": "#8d4137",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Titanium White",
+      "hex": "#8d4137",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Sennelier",
+      "name": "Zinc White",
+      "hex": "#8d4137",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Red",
+      "hex": "#e23e45",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Orange",
+      "hex": "#e23e45",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Yellow",
+      "hex": "#e23e45",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Green",
+      "hex": "#e23e45",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Blue",
+      "hex": "#1c8fce",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Turquoise",
+      "hex": "#1c8fce",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Purple",
+      "hex": "#1c8fce",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Magenta",
+      "hex": "#1c8fce",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Black",
+      "hex": "#343537",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Brown",
+      "hex": "#343537",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "Peach",
+      "hex": "#343537",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Utrecht Studio",
+      "name": "White",
+      "hex": "#343537",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Red",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Red",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Orange",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Orange",
+      "hex": "#e40037",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Yellow",
+      "hex": "#fdfd03",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Yellow",
+      "hex": "#fdfd03",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Green",
+      "hex": "#fdfd03",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Green",
+      "hex": "#fdfd03",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Ultra Blue",
+      "hex": "#3261a5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Blue",
+      "hex": "#3261a5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Blue",
+      "hex": "#3261a5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Violet",
+      "hex": "#3261a5",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Purple",
+      "hex": "#980090",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Pink",
+      "hex": "#980090",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Metallic Gold",
+      "hex": "#980090",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Black",
+      "hex": "#980090",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Brown",
+      "hex": "#8a410a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Metallic Copper",
+      "hex": "#8a410a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Metallic Silver",
+      "hex": "#8a410a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Metallic Pearl",
+      "hex": "#8a410a",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "White",
+      "hex": "#eeebeb",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Turquoise",
+      "hex": "#3776bd",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Magenta",
+      "hex": "#a80182",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Fluorescent Magenta",
+      "hex": "#a80182",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
+    },
+    {
+      "medium": "tempera-paint",
+      "brand": "Vanaken",
+      "name": "Peach",
+      "hex": "#040203",
+      "hex_available": true,
+      "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
+    }
+  ]
+}
