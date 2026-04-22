@@ -1,6 +1,6 @@
 import time
 import requests
-from parser import parse_index, parse_medium
+from parser import parse_index, is_color_page, parse_brand_links, parse_paints
 from normalizer import normalize_paint
 from robots import check_robots
 from writer import write_medium
@@ -15,6 +15,21 @@ def fetch(url, session):
     return response.text
 
 
+def crawl_url(url, medium_slug, session, visited):
+    """Recursively crawl a URL, returning list of raw paint dicts."""
+    if url in visited:
+        return []
+    visited.add(url)
+    time.sleep(DELAY)
+    html = fetch(url, session)
+    if is_color_page(html):
+        return parse_paints(html, url)
+    paints = []
+    for link in parse_brand_links(html, url):
+        paints.extend(crawl_url(link, medium_slug, session, visited))
+    return paints
+
+
 def crawl():
     check_robots(INDEX_URL)
 
@@ -24,14 +39,13 @@ def crawl():
     index_html = fetch(INDEX_URL, session)
     mediums = parse_index(index_html)
 
-    for medium, medium_url in mediums.items():
-        time.sleep(DELAY)
-        medium_html = fetch(medium_url, session)
-        raw_paints = parse_medium(medium_html, medium_url)
+    for medium_slug, medium_url in mediums.items():
+        visited = set()
+        raw_paints = crawl_url(medium_url, medium_slug, session, visited)
         paints = [normalize_paint(p) for p in raw_paints]
         paints = [p for p in paints if p is not None]
-        write_medium(medium, paints)
-        print(f"{medium}: {len(paints)} paints")
+        write_medium(medium_slug, paints)
+        print(f"{medium_slug}: {len(paints)} paints")
 
 
 if __name__ == "__main__":
