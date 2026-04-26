@@ -7,6 +7,14 @@ _RGB_RE = re.compile(r"rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)", re.IGNORECAS
 _HSL_RE = re.compile(r"hsl\(\s*([\d.]+)\s*,\s*([\d.]+)%\s*,\s*([\d.]+)%\s*\)", re.IGNORECASE)
 _VALID_HEX_RE = re.compile(r"^#[0-9a-f]{6}$")
 
+
+def _hex_to_rgb(hex_val):
+    if not hex_val:
+        return None
+    h = hex_val.lstrip("#")
+    r, g, b = int(h[0:2], 16), int(h[2:4], 16), int(h[4:6], 16)
+    return f"{r}, {g}, {b}"
+
 _CSS_COLORS = {
     "aliceblue": "#f0f8ff", "antiquewhite": "#faebd7", "aqua": "#00ffff",
     "aquamarine": "#7fffd4", "azure": "#f0ffff", "beige": "#f5f5dc",
@@ -119,6 +127,7 @@ def normalize_paint(paint):
         "name": name,
         "hex": normalized,
         "hex_available": normalized is not None,
+        "rgb": _hex_to_rgb(normalized),
         "source_url": source_url,
     }
 

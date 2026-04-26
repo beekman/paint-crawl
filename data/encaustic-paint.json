@@ -1,6 +1,6 @@
 {
   "medium": "encaustic-paint",
-  "crawled_at": "2026-04-22T06:49:14.652561+00:00",
+  "crawled_at": "2026-04-26T02:48:29.133212+00:00",
   "paints": [
     {
       "medium": "encaustic-paint",
@@ -8,6 +8,7 @@
       "name": "Venetian Red",
       "hex": "#7b2b20",
       "hex_available": true,
+      "rgb": "123, 43, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -16,6 +17,7 @@
       "name": "Vermillion",
       "hex": "#7b2b20",
       "hex_available": true,
+      "rgb": "123, 43, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -24,6 +26,7 @@
       "name": "Pastel Orange",
       "hex": "#7b2b20",
       "hex_available": true,
+      "rgb": "123, 43, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -32,6 +35,7 @@
       "name": "Orange",
       "hex": "#7b2b20",
       "hex_available": true,
+      "rgb": "123, 43, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -40,6 +44,7 @@
       "name": "Yellow Ochre",
       "hex": "#ea7c23",
       "hex_available": true,
+      "rgb": "234, 124, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -48,6 +53,7 @@
       "name": "Lemon Yellow",
       "hex": "#ea7c23",
       "hex_available": true,
+      "rgb": "234, 124, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -56,6 +62,7 @@
       "name": "Green 07",
       "hex": "#ea7c23",
       "hex_available": true,
+      "rgb": "234, 124, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -64,6 +71,7 @@
       "name": "Green 09",
       "hex": "#ea7c23",
       "hex_available": true,
+      "rgb": "234, 124, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -72,6 +80,7 @@
       "name": "Cobalt Blue",
       "hex": "#233973",
       "hex_available": true,
+      "rgb": "35, 57, 115",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -80,6 +89,7 @@
       "name": "Violet Blue",
       "hex": "#233973",
       "hex_available": true,
+      "rgb": "35, 57, 115",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -88,6 +98,7 @@
       "name": "Pastel Blue",
       "hex": "#233973",
       "hex_available": true,
+      "rgb": "35, 57, 115",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -96,6 +107,7 @@
       "name": "Pastel Lilac",
       "hex": "#233973",
       "hex_available": true,
+      "rgb": "35, 57, 115",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -104,6 +116,7 @@
       "name": "Umber",
       "hex": "#5f1921",
       "hex_available": true,
+      "rgb": "95, 25, 33",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -112,6 +125,7 @@
       "name": "Bronze Metallic",
       "hex": "#5f1921",
       "hex_available": true,
+      "rgb": "95, 25, 33",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -120,6 +134,7 @@
       "name": "Grey",
       "hex": "#5f1921",
       "hex_available": true,
+      "rgb": "95, 25, 33",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -128,6 +143,7 @@
       "name": "Pearlescent",
       "hex": "#5f1921",
       "hex_available": true,
+      "rgb": "95, 25, 33",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Expanding-Colours/Deeswax-Expanding-Colours.html"
     },
     {
@@ -136,6 +152,7 @@
       "name": "Crimson",
       "hex": "#e22028",
       "hex_available": true,
+      "rgb": "226, 32, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -144,6 +161,7 @@
       "name": "Golden Yellow",
       "hex": "#e22028",
       "hex_available": true,
+      "rgb": "226, 32, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -152,6 +170,7 @@
       "name": "Leaf Green",
       "hex": "#e22028",
       "hex_available": true,
+      "rgb": "226, 32, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -160,6 +179,7 @@
       "name": "Blue Green",
       "hex": "#e22028",
       "hex_available": true,
+      "rgb": "226, 32, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -168,6 +188,7 @@
       "name": "Olive Green",
       "hex": "#203026",
       "hex_available": true,
+      "rgb": "32, 48, 38",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -176,6 +197,7 @@
       "name": "Prussian Blue",
       "hex": "#203026",
       "hex_available": true,
+      "rgb": "32, 48, 38",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -184,6 +206,7 @@
       "name": "Ultramarine Blue",
       "hex": "#203026",
       "hex_available": true,
+      "rgb": "32, 48, 38",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -192,6 +215,7 @@
       "name": "Red Violet",
       "hex": "#203026",
       "hex_available": true,
+      "rgb": "32, 48, 38",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -200,6 +224,7 @@
       "name": "Pink",
       "hex": "#f18180",
       "hex_available": true,
+      "rgb": "241, 129, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -208,6 +233,7 @@
       "name": "Yellow Brown",
       "hex": "#f18180",
       "hex_available": true,
+      "rgb": "241, 129, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -216,6 +242,7 @@
       "name": "Rust Brown",
       "hex": "#f18180",
       "hex_available": true,
+      "rgb": "241, 129, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -224,6 +251,7 @@
       "name": "Black",
       "hex": "#f18180",
       "hex_available": true,
+      "rgb": "241, 129, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -232,6 +260,7 @@
       "name": "Silver Metallic",
       "hex": "#5d686e",
       "hex_available": true,
+      "rgb": "93, 104, 110",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -240,6 +269,7 @@
       "name": "Gold Metallic",
       "hex": "#5d686e",
       "hex_available": true,
+      "rgb": "93, 104, 110",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -248,6 +278,7 @@
       "name": "White",
       "hex": "#5d686e",
       "hex_available": true,
+      "rgb": "93, 104, 110",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -256,6 +287,7 @@
       "name": "Clear",
       "hex": "#5d686e",
       "hex_available": true,
+      "rgb": "93, 104, 110",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Starter-Colours/Deeswax-Starter-Colours.html"
     },
     {
@@ -264,6 +296,7 @@
       "name": "Magenta Mixer",
       "hex": "#d02128",
       "hex_available": true,
+      "rgb": "208, 33, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -272,6 +305,7 @@
       "name": "Bright Red Mixer",
       "hex": "#d02128",
       "hex_available": true,
+      "rgb": "208, 33, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -280,6 +314,7 @@
       "name": "Neon Red",
       "hex": "#d02128",
       "hex_available": true,
+      "rgb": "208, 33, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -288,6 +323,7 @@
       "name": "Neon Orange",
       "hex": "#d02128",
       "hex_available": true,
+      "rgb": "208, 33, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -296,6 +332,7 @@
       "name": "Pastel Coral",
       "hex": "#f3743d",
       "hex_available": true,
+      "rgb": "243, 116, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -304,6 +341,7 @@
       "name": "Mid Yellow Mixer",
       "hex": "#f3743d",
       "hex_available": true,
+      "rgb": "243, 116, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -312,6 +350,7 @@
       "name": "Neon Yellow",
       "hex": "#f3743d",
       "hex_available": true,
+      "rgb": "243, 116, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -320,6 +359,7 @@
       "name": "Pastel Cream",
       "hex": "#f3743d",
       "hex_available": true,
+      "rgb": "243, 116, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -328,6 +368,7 @@
       "name": "Neon Green",
       "hex": "#61bd50",
       "hex_available": true,
+      "rgb": "97, 189, 80",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -336,6 +377,7 @@
       "name": "Sap Green Mixer",
       "hex": "#61bd50",
       "hex_available": true,
+      "rgb": "97, 189, 80",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -344,6 +386,7 @@
       "name": "Indigo Mixer",
       "hex": "#61bd50",
       "hex_available": true,
+      "rgb": "97, 189, 80",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -352,6 +395,7 @@
       "name": "Cyan Blue Mixer",
       "hex": "#61bd50",
       "hex_available": true,
+      "rgb": "97, 189, 80",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -360,6 +404,7 @@
       "name": "Neon Blue",
       "hex": "#356bb5",
       "hex_available": true,
+      "rgb": "53, 107, 181",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -368,6 +413,7 @@
       "name": "Pastel Mint",
       "hex": "#356bb5",
       "hex_available": true,
+      "rgb": "53, 107, 181",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -376,6 +422,7 @@
       "name": "Purple Mixer",
       "hex": "#356bb5",
       "hex_available": true,
+      "rgb": "53, 107, 181",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -384,6 +431,7 @@
       "name": "Neon Pink",
       "hex": "#356bb5",
       "hex_available": true,
+      "rgb": "53, 107, 181",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Vivid-Colours/Deeswax-Vivid-Colours.html"
     },
     {
@@ -392,6 +440,7 @@
       "name": "Middle Yellow Mixer",
       "hex": "#f68d5d",
       "hex_available": true,
+      "rgb": "246, 141, 93",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Wax-Colours/Deeswax-Wax-Colours.html"
     },
     {
@@ -400,6 +449,7 @@
       "name": "Silver Metalliic",
       "hex": "#8e462e",
       "hex_available": true,
+      "rgb": "142, 70, 46",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Deeswax/Wax-Colours/Deeswax-Wax-Colours.html"
     },
     {
@@ -408,6 +458,7 @@
       "name": "Venetian Red",
       "hex": "#721c1f",
       "hex_available": true,
+      "rgb": "114, 28, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -416,6 +467,7 @@
       "name": "Crimson",
       "hex": "#721c1f",
       "hex_available": true,
+      "rgb": "114, 28, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -424,6 +476,7 @@
       "name": "Magenta Mixer",
       "hex": "#721c1f",
       "hex_available": true,
+      "rgb": "114, 28, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -432,6 +485,7 @@
       "name": "Bright Red Mixer",
       "hex": "#721c1f",
       "hex_available": true,
+      "rgb": "114, 28, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -440,6 +494,7 @@
       "name": "Neon Red",
       "hex": "#ff2502",
       "hex_available": true,
+      "rgb": "255, 37, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -448,6 +503,7 @@
       "name": "Vermillion",
       "hex": "#ff2502",
       "hex_available": true,
+      "rgb": "255, 37, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -456,6 +512,7 @@
       "name": "Orange",
       "hex": "#ff2502",
       "hex_available": true,
+      "rgb": "255, 37, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -464,6 +521,7 @@
       "name": "Pastel Coral",
       "hex": "#ff2502",
       "hex_available": true,
+      "rgb": "255, 37, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -472,6 +530,7 @@
       "name": "Yellow Ochre",
       "hex": "#f05d29",
       "hex_available": true,
+      "rgb": "240, 93, 41",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -480,6 +539,7 @@
       "name": "Neon Orange",
       "hex": "#f05d29",
       "hex_available": true,
+      "rgb": "240, 93, 41",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -488,6 +548,7 @@
       "name": "Pastel Orange",
       "hex": "#f05d29",
       "hex_available": true,
+      "rgb": "240, 93, 41",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -496,6 +557,7 @@
       "name": "Golden Yellow",
       "hex": "#f05d29",
       "hex_available": true,
+      "rgb": "240, 93, 41",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -504,6 +566,7 @@
       "name": "Mid Yellow Mixer",
       "hex": "#ffd703",
       "hex_available": true,
+      "rgb": "255, 215, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -512,6 +575,7 @@
       "name": "Lemon Yellow",
       "hex": "#ffd703",
       "hex_available": true,
+      "rgb": "255, 215, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -520,6 +584,7 @@
       "name": "Neon Yellow",
       "hex": "#ffd703",
       "hex_available": true,
+      "rgb": "255, 215, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -528,6 +593,7 @@
       "name": "Pastel Cream",
       "hex": "#ffd703",
       "hex_available": true,
+      "rgb": "255, 215, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -536,6 +602,7 @@
       "name": "Neon Green",
       "hex": "#19e953",
       "hex_available": true,
+      "rgb": "25, 233, 83",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -544,6 +611,7 @@
       "name": "Leaf Green",
       "hex": "#19e953",
       "hex_available": true,
+      "rgb": "25, 233, 83",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -552,6 +620,7 @@
       "name": "Green",
       "hex": "#19e953",
       "hex_available": true,
+      "rgb": "25, 233, 83",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -560,6 +629,7 @@
       "name": "Olive Green",
       "hex": "#19e953",
       "hex_available": true,
+      "rgb": "25, 233, 83",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -568,6 +638,7 @@
       "name": "Sap Green Mixer",
       "hex": "#234c2a",
       "hex_available": true,
+      "rgb": "35, 76, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -576,6 +647,7 @@
       "name": "Blue Green",
       "hex": "#234c2a",
       "hex_available": true,
+      "rgb": "35, 76, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -584,6 +656,7 @@
       "name": "Pastel Mint",
       "hex": "#234c2a",
       "hex_available": true,
+      "rgb": "35, 76, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -592,6 +665,7 @@
       "name": "Pastel Blue",
       "hex": "#234c2a",
       "hex_available": true,
+      "rgb": "35, 76, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -600,6 +674,7 @@
       "name": "Pastel Lilac",
       "hex": "#7990bc",
       "hex_available": true,
+      "rgb": "121, 144, 188",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -608,6 +683,7 @@
       "name": "Neon Blue",
       "hex": "#7990bc",
       "hex_available": true,
+      "rgb": "121, 144, 188",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -616,6 +692,7 @@
       "name": "Cobalt Blue",
       "hex": "#7990bc",
       "hex_available": true,
+      "rgb": "121, 144, 188",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -624,6 +701,7 @@
       "name": "Blue",
       "hex": "#7990bc",
       "hex_available": true,
+      "rgb": "121, 144, 188",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -632,6 +710,7 @@
       "name": "Indigo Mixer",
       "hex": "#25337e",
       "hex_available": true,
+      "rgb": "37, 51, 126",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -640,6 +719,7 @@
       "name": "Ultra Marine Blue",
       "hex": "#25337e",
       "hex_available": true,
+      "rgb": "37, 51, 126",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -648,6 +728,7 @@
       "name": "Cyan Blue Mixer",
       "hex": "#25337e",
       "hex_available": true,
+      "rgb": "37, 51, 126",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -656,6 +737,7 @@
       "name": "Prussian Blue",
       "hex": "#25337e",
       "hex_available": true,
+      "rgb": "37, 51, 126",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -664,6 +746,7 @@
       "name": "Purple Mixer",
       "hex": "#471392",
       "hex_available": true,
+      "rgb": "71, 19, 146",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -672,6 +755,7 @@
       "name": "Blue Violet",
       "hex": "#471392",
       "hex_available": true,
+      "rgb": "71, 19, 146",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -680,6 +764,7 @@
       "name": "Red Violet",
       "hex": "#471392",
       "hex_available": true,
+      "rgb": "71, 19, 146",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -688,6 +773,7 @@
       "name": "Neon Pink",
       "hex": "#471392",
       "hex_available": true,
+      "rgb": "71, 19, 146",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -696,6 +782,7 @@
       "name": "Pink",
       "hex": "#f17f7f",
       "hex_available": true,
+      "rgb": "241, 127, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -704,6 +791,7 @@
       "name": "Yellow Brown",
       "hex": "#f17f7f",
       "hex_available": true,
+      "rgb": "241, 127, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -712,6 +800,7 @@
       "name": "Bronze Metallic",
       "hex": "#f17f7f",
       "hex_available": true,
+      "rgb": "241, 127, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -720,6 +809,7 @@
       "name": "Rust Brown",
       "hex": "#f17f7f",
       "hex_available": true,
+      "rgb": "241, 127, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -728,6 +818,7 @@
       "name": "Umbra",
       "hex": "#681c20",
       "hex_available": true,
+      "rgb": "104, 28, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -736,6 +827,7 @@
       "name": "Black",
       "hex": "#681c20",
       "hex_available": true,
+      "rgb": "104, 28, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -744,6 +836,7 @@
       "name": "Gold Metallic",
       "hex": "#681c20",
       "hex_available": true,
+      "rgb": "104, 28, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -752,6 +845,7 @@
       "name": "Silver Metallic",
       "hex": "#681c20",
       "hex_available": true,
+      "rgb": "104, 28, 32",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -760,6 +854,7 @@
       "name": "Grey",
       "hex": "#b7cdcb",
       "hex_available": true,
+      "rgb": "183, 205, 203",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -768,6 +863,7 @@
       "name": "Pearlescent Medium",
       "hex": "#b7cdcb",
       "hex_available": true,
+      "rgb": "183, 205, 203",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -776,6 +872,7 @@
       "name": "White",
       "hex": "#b7cdcb",
       "hex_available": true,
+      "rgb": "183, 205, 203",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -784,6 +881,7 @@
       "name": "Clear Medium",
       "hex": "#b7cdcb",
       "hex_available": true,
+      "rgb": "183, 205, 203",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Encaustic-Art/Encaustic-Art-Wax-Colours.html"
     },
     {
@@ -792,6 +890,7 @@
       "name": "Alizarin Crimson",
       "hex": "#7f0513",
       "hex_available": true,
+      "rgb": "127, 5, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -800,6 +899,7 @@
       "name": "Napthol Red",
       "hex": "#7f0513",
       "hex_available": true,
+      "rgb": "127, 5, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -808,6 +908,7 @@
       "name": "Yellow Ochre",
       "hex": "#7f0513",
       "hex_available": true,
+      "rgb": "127, 5, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -816,6 +917,7 @@
       "name": "Bismuth Yellow",
       "hex": "#7f0513",
       "hex_available": true,
+      "rgb": "127, 5, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -824,6 +926,7 @@
       "name": "Viridian",
       "hex": "#0a3718",
       "hex_available": true,
+      "rgb": "10, 55, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -832,6 +935,7 @@
       "name": "Ultramarine Blue",
       "hex": "#0a3718",
       "hex_available": true,
+      "rgb": "10, 55, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -840,6 +944,7 @@
       "name": "Raw Umber",
       "hex": "#0a3718",
       "hex_available": true,
+      "rgb": "10, 55, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -848,6 +953,7 @@
       "name": "Burnt Sienna",
       "hex": "#0a3718",
       "hex_available": true,
+      "rgb": "10, 55, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -856,6 +962,7 @@
       "name": "Titanium White",
       "hex": "#f6f3ee",
       "hex_available": true,
+      "rgb": "246, 243, 238",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Academy-Set/Enkaustikos-Academy-Set.html"
     },
     {
@@ -864,6 +971,7 @@
       "name": "Red Earth Pale",
       "hex": "#ebab8d",
       "hex_available": true,
+      "rgb": "235, 171, 141",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
     },
     {
@@ -872,6 +980,7 @@
       "name": "Brilliant Yellow Pale",
       "hex": "#ebab8d",
       "hex_available": true,
+      "rgb": "235, 171, 141",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
     },
     {
@@ -880,6 +989,7 @@
       "name": "Golden Buff Titanium",
       "hex": "#ebab8d",
       "hex_available": true,
+      "rgb": "235, 171, 141",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
     },
     {
@@ -888,6 +998,7 @@
       "name": "Naples Yellow Reddish",
       "hex": "#ebab8d",
       "hex_available": true,
+      "rgb": "235, 171, 141",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
     },
     {
@@ -896,6 +1007,7 @@
       "name": "Sienna Pink",
       "hex": "#cf9b9c",
       "hex_available": true,
+      "rgb": "207, 155, 156",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Basic-Portrait-Set/Enkaustikos-Basic-Portrait-Set.html"
     },
     {
@@ -904,6 +1016,7 @@
       "name": "Cadmium Red Light",
       "hex": "#990819",
       "hex_available": true,
+      "rgb": "153, 8, 25",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
     },
     {
@@ -912,6 +1025,7 @@
       "name": "Cadmium Yellow Light",
       "hex": "#990819",
       "hex_available": true,
+      "rgb": "153, 8, 25",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
     },
     {
@@ -920,6 +1034,7 @@
       "name": "Cerulean Blue",
       "hex": "#1f4108",
       "hex_available": true,
+      "rgb": "31, 65, 8",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Classic-Set/Enkaustikos-Classic-Set.html"
     },
     {
@@ -928,6 +1043,7 @@
       "name": "Quinacridone Red",
       "hex": "#7f010d",
       "hex_available": true,
+      "rgb": "127, 1, 13",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -936,6 +1052,7 @@
       "name": "Bohemian Orange",
       "hex": "#7f010d",
       "hex_available": true,
+      "rgb": "127, 1, 13",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -944,6 +1061,7 @@
       "name": "Nickel Titanate Yellow",
       "hex": "#7f010d",
       "hex_available": true,
+      "rgb": "127, 1, 13",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -952,6 +1070,7 @@
       "name": "Phthalo Green Yellow Shade",
       "hex": "#7f010d",
       "hex_available": true,
+      "rgb": "127, 1, 13",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -960,6 +1079,7 @@
       "name": "Phthalo Blue Green Shade",
       "hex": "#0a1148",
       "hex_available": true,
+      "rgb": "10, 17, 72",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -968,6 +1088,7 @@
       "name": "Dioxazine Purple",
       "hex": "#0a1148",
       "hex_available": true,
+      "rgb": "10, 17, 72",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -976,6 +1097,7 @@
       "name": "Caput Mortuum",
       "hex": "#0a1148",
       "hex_available": true,
+      "rgb": "10, 17, 72",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -984,6 +1106,7 @@
       "name": "Jet Black",
       "hex": "#0a1148",
       "hex_available": true,
+      "rgb": "10, 17, 72",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Academy-Set/Enkaustikos-Extended-Academy-Set.html"
     },
     {
@@ -992,6 +1115,7 @@
       "name": "Mars Venetian Red",
       "hex": "#811f27",
       "hex_available": true,
+      "rgb": "129, 31, 39",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
     },
     {
@@ -1000,6 +1124,7 @@
       "name": "Cadmium Red Deep",
       "hex": "#811f27",
       "hex_available": true,
+      "rgb": "129, 31, 39",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
     },
     {
@@ -1008,6 +1133,7 @@
       "name": "Bohemian Green Earth",
       "hex": "#fcdba1",
       "hex_available": true,
+      "rgb": "252, 219, 161",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
     },
     {
@@ -1016,6 +1142,7 @@
       "name": "Micaceous Iron Oxide",
       "hex": "#513633",
       "hex_available": true,
+      "rgb": "81, 54, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
     },
     {
@@ -1024,6 +1151,7 @@
       "name": "Raw Sienna",
       "hex": "#513633",
       "hex_available": true,
+      "rgb": "81, 54, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Extended-Portrait-Set/Enkaustikos-Extended-Portrait-Set.html"
     },
     {
@@ -1032,6 +1160,7 @@
       "name": "Transparent Red Earth",
       "hex": "#4d291a",
       "hex_available": true,
+      "rgb": "77, 41, 26",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
     },
     {
@@ -1040,6 +1169,7 @@
       "name": "Phthalo Green",
       "hex": "#4d291a",
       "hex_available": true,
+      "rgb": "77, 41, 26",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
     },
     {
@@ -1048,6 +1178,7 @@
       "name": "Phthalo Blue",
       "hex": "#001646",
       "hex_available": true,
+      "rgb": "0, 22, 70",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
     },
     {
@@ -1056,6 +1187,7 @@
       "name": "Ultramarine Rose",
       "hex": "#001646",
       "hex_available": true,
+      "rgb": "0, 22, 70",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Glazing-Set/Enkaustikos-Glazing-Set.html"
     },
     {
@@ -1064,6 +1196,7 @@
       "name": "Calypso Green",
       "hex": "#a3bf96",
       "hex_available": true,
+      "rgb": "163, 191, 150",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
     },
     {
@@ -1072,6 +1205,7 @@
       "name": "Aquamarine",
       "hex": "#a3bf96",
       "hex_available": true,
+      "rgb": "163, 191, 150",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
     },
     {
@@ -1080,6 +1214,7 @@
       "name": "Violet",
       "hex": "#a3bf96",
       "hex_available": true,
+      "rgb": "163, 191, 150",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
     },
     {
@@ -1088,6 +1223,7 @@
       "name": "Rose",
       "hex": "#a3bf96",
       "hex_available": true,
+      "rgb": "163, 191, 150",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opal/Enkaustikos-Opal.html"
     },
     {
@@ -1096,6 +1232,7 @@
       "name": "Cadmium Maroon",
       "hex": "#6d0915",
       "hex_available": true,
+      "rgb": "109, 9, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1104,6 +1241,7 @@
       "name": "Mars Terracotta",
       "hex": "#6d0915",
       "hex_available": true,
+      "rgb": "109, 9, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1112,6 +1250,7 @@
       "name": "Cadmium Red Medium",
       "hex": "#cd1723",
       "hex_available": true,
+      "rgb": "205, 23, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1120,6 +1259,7 @@
       "name": "Cadmium Red Vermillion",
       "hex": "#cd1723",
       "hex_available": true,
+      "rgb": "205, 23, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1128,6 +1268,7 @@
       "name": "Cadmium Orange",
       "hex": "#cd1723",
       "hex_available": true,
+      "rgb": "205, 23, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1136,6 +1277,7 @@
       "name": "Jaune Brilliant",
       "hex": "#f1ac8b",
       "hex_available": true,
+      "rgb": "241, 172, 139",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1144,6 +1286,7 @@
       "name": "Cadmium Yellow Deep",
       "hex": "#f1ac8b",
       "hex_available": true,
+      "rgb": "241, 172, 139",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1152,6 +1295,7 @@
       "name": "Cadmium Yellow Medium",
       "hex": "#f1ac8b",
       "hex_available": true,
+      "rgb": "241, 172, 139",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1160,6 +1304,7 @@
       "name": "Citron Green",
       "hex": "#fef102",
       "hex_available": true,
+      "rgb": "254, 241, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1168,6 +1313,7 @@
       "name": "Cobalt Green",
       "hex": "#fef102",
       "hex_available": true,
+      "rgb": "254, 241, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1176,6 +1322,7 @@
       "name": "Chromium Oxide Green",
       "hex": "#507041",
       "hex_available": true,
+      "rgb": "80, 112, 65",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1184,6 +1331,7 @@
       "name": "Cobalt Teal Green",
       "hex": "#507041",
       "hex_available": true,
+      "rgb": "80, 112, 65",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1192,6 +1340,7 @@
       "name": "Cobalt Turquoise Blue",
       "hex": "#507041",
       "hex_available": true,
+      "rgb": "80, 112, 65",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1200,6 +1349,7 @@
       "name": "Cobalt Blue Light",
       "hex": "#aec2da",
       "hex_available": true,
+      "rgb": "174, 194, 218",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1208,6 +1358,7 @@
       "name": "Dioxazine Purple Light",
       "hex": "#aec2da",
       "hex_available": true,
+      "rgb": "174, 194, 218",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1216,6 +1367,7 @@
       "name": "Bone Black",
       "hex": "#aec2da",
       "hex_available": true,
+      "rgb": "174, 194, 218",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1224,6 +1376,7 @@
       "name": "Midtone Gray",
       "hex": "#6f696b",
       "hex_available": true,
+      "rgb": "111, 105, 107",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1232,6 +1385,7 @@
       "name": "Light Buff Titanium",
       "hex": "#6f696b",
       "hex_available": true,
+      "rgb": "111, 105, 107",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Opaque/Enkaustikos-Opaque.html"
     },
     {
@@ -1240,6 +1394,7 @@
       "name": "Antique Copper Pearl",
       "hex": "#5b3a33",
       "hex_available": true,
+      "rgb": "91, 58, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1248,6 +1403,7 @@
       "name": "Super Russet Pearl",
       "hex": "#5b3a33",
       "hex_available": true,
+      "rgb": "91, 58, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1256,6 +1412,7 @@
       "name": "Super Copper Pearl",
       "hex": "#5b3a33",
       "hex_available": true,
+      "rgb": "91, 58, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1264,6 +1421,7 @@
       "name": "Super Bronze Pearl",
       "hex": "#5b3a33",
       "hex_available": true,
+      "rgb": "91, 58, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1272,6 +1430,7 @@
       "name": "Super Gold Pearl",
       "hex": "#dfbf6a",
       "hex_available": true,
+      "rgb": "223, 191, 106",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1280,6 +1439,7 @@
       "name": "Golden Bronze Metallic",
       "hex": "#dfbf6a",
       "hex_available": true,
+      "rgb": "223, 191, 106",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1288,6 +1448,7 @@
       "name": "Antique Bronze Pearl",
       "hex": "#dfbf6a",
       "hex_available": true,
+      "rgb": "223, 191, 106",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1296,6 +1457,7 @@
       "name": "Antique Gold Pearl",
       "hex": "#dfbf6a",
       "hex_available": true,
+      "rgb": "223, 191, 106",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1304,6 +1466,7 @@
       "name": "Antique Silver Pearl",
       "hex": "#5d5b5e",
       "hex_available": true,
+      "rgb": "93, 91, 94",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1312,6 +1475,7 @@
       "name": "Super Silver Pearl",
       "hex": "#5d5b5e",
       "hex_available": true,
+      "rgb": "93, 91, 94",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1320,6 +1484,7 @@
       "name": "Warm Pearl",
       "hex": "#5d5b5e",
       "hex_available": true,
+      "rgb": "93, 91, 94",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Pearlescent-Metallic/Enkaustikos-Pearlescent-Metallic.html"
     },
     {
@@ -1328,6 +1493,7 @@
       "name": "Pompeii Red",
       "hex": "#541810",
       "hex_available": true,
+      "rgb": "84, 24, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1336,6 +1502,7 @@
       "name": "Naphthol Red",
       "hex": "#541810",
       "hex_available": true,
+      "rgb": "84, 24, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1344,6 +1511,7 @@
       "name": "Anthraquinone Orange",
       "hex": "#541810",
       "hex_available": true,
+      "rgb": "84, 24, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1352,6 +1520,7 @@
       "name": "Italian Golden Ochre",
       "hex": "#e9512c",
       "hex_available": true,
+      "rgb": "233, 81, 44",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1360,6 +1529,7 @@
       "name": "Indian Yellow",
       "hex": "#e9512c",
       "hex_available": true,
+      "rgb": "233, 81, 44",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1368,6 +1538,7 @@
       "name": "Naples Yellow Hue",
       "hex": "#ffd880",
       "hex_available": true,
+      "rgb": "255, 216, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1376,6 +1547,7 @@
       "name": "Cobalt Green Light",
       "hex": "#ffd880",
       "hex_available": true,
+      "rgb": "255, 216, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1384,6 +1556,7 @@
       "name": "French Ultramarine Light",
       "hex": "#ffd880",
       "hex_available": true,
+      "rgb": "255, 216, 128",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1392,6 +1565,7 @@
       "name": "Cobalt Blue",
       "hex": "#15589e",
       "hex_available": true,
+      "rgb": "21, 88, 158",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1400,6 +1574,7 @@
       "name": "Prussian Blue",
       "hex": "#15589e",
       "hex_available": true,
+      "rgb": "21, 88, 158",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1408,6 +1583,7 @@
       "name": "Burnt Umber",
       "hex": "#452c28",
       "hex_available": true,
+      "rgb": "69, 44, 40",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1416,6 +1592,7 @@
       "name": "Perylene Maroon",
       "hex": "#63484d",
       "hex_available": true,
+      "rgb": "99, 72, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1424,6 +1601,7 @@
       "name": "Golden Brown",
       "hex": "#63484d",
       "hex_available": true,
+      "rgb": "99, 72, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1432,6 +1610,7 @@
       "name": "Zinc White",
       "hex": "#63484d",
       "hex_available": true,
+      "rgb": "99, 72, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Semi-Transparent/Enkaustikos-Semi-Transparent.html"
     },
     {
@@ -1440,6 +1619,7 @@
       "name": "Vagone Green Earth",
       "hex": "#602a29",
       "hex_available": true,
+      "rgb": "96, 42, 41",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1448,6 +1628,7 @@
       "name": "Viridian Green",
       "hex": "#12704e",
       "hex_available": true,
+      "rgb": "18, 112, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1456,6 +1637,7 @@
       "name": "Phthalo Green Blue Shade",
       "hex": "#12704e",
       "hex_available": true,
+      "rgb": "18, 112, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1464,6 +1646,7 @@
       "name": "Anthraquinone Blue",
       "hex": "#2c2f58",
       "hex_available": true,
+      "rgb": "44, 47, 88",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1472,6 +1655,7 @@
       "name": "Phthalo Blue Red Shade",
       "hex": "#2c2f58",
       "hex_available": true,
+      "rgb": "44, 47, 88",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1480,6 +1664,7 @@
       "name": "Ultramarine Violet",
       "hex": "#2c2f58",
       "hex_available": true,
+      "rgb": "44, 47, 88",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1488,6 +1673,7 @@
       "name": "Cobalt Violet",
       "hex": "#7d3486",
       "hex_available": true,
+      "rgb": "125, 52, 134",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Transparent/Enkaustikos-Transparent.html"
     },
     {
@@ -1496,6 +1682,7 @@
       "name": "Transparent Earth Red",
       "hex": "#321a0d",
       "hex_available": true,
+      "rgb": "50, 26, 13",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
     },
     {
@@ -1504,6 +1691,7 @@
       "name": "Cadmium Red Vermilion",
       "hex": "#9b0506",
       "hex_available": true,
+      "rgb": "155, 5, 6",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
     },
     {
@@ -1512,6 +1700,7 @@
       "name": "Italian Golden Ochre Historical",
       "hex": "#6b6667",
       "hex_available": true,
+      "rgb": "107, 102, 103",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Enkaustikos/Wax/Enkaustikos-Wax.html"
     },
     {
@@ -1520,6 +1709,7 @@
       "name": "Venetian Red",
       "hex": "#b63e23",
       "hex_available": true,
+      "rgb": "182, 62, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1528,6 +1718,7 @@
       "name": "Studio Red",
       "hex": "#b63e23",
       "hex_available": true,
+      "rgb": "182, 62, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1536,6 +1727,7 @@
       "name": "Cara Cara Orange",
       "hex": "#b63e23",
       "hex_available": true,
+      "rgb": "182, 62, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1544,6 +1736,7 @@
       "name": "Cadmium Yellow Deep",
       "hex": "#b63e23",
       "hex_available": true,
+      "rgb": "182, 62, 35",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1552,6 +1745,7 @@
       "name": "Terre Pozzuoli",
       "hex": "#e87c4d",
       "hex_available": true,
+      "rgb": "232, 124, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1560,6 +1754,7 @@
       "name": "Crumbling Plaster Yellow",
       "hex": "#e87c4d",
       "hex_available": true,
+      "rgb": "232, 124, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1568,6 +1763,7 @@
       "name": "Studio Yellow",
       "hex": "#e87c4d",
       "hex_available": true,
+      "rgb": "232, 124, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1576,6 +1772,7 @@
       "name": "Yellow Ochre",
       "hex": "#e87c4d",
       "hex_available": true,
+      "rgb": "232, 124, 77",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1584,6 +1781,7 @@
       "name": "Natural Yellow",
       "hex": "#ba9500",
       "hex_available": true,
+      "rgb": "186, 149, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1592,6 +1790,7 @@
       "name": "Moss Green",
       "hex": "#ba9500",
       "hex_available": true,
+      "rgb": "186, 149, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1600,6 +1799,7 @@
       "name": "Venetian Waterway Green",
       "hex": "#ba9500",
       "hex_available": true,
+      "rgb": "186, 149, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1608,6 +1808,7 @@
       "name": "Vagone Green Earth",
       "hex": "#ba9500",
       "hex_available": true,
+      "rgb": "186, 149, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1616,6 +1817,7 @@
       "name": "Robins Egg Blue",
       "hex": "#9ebdd2",
       "hex_available": true,
+      "rgb": "158, 189, 210",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1624,6 +1826,7 @@
       "name": "Ultramarine Blue",
       "hex": "#9ebdd2",
       "hex_available": true,
+      "rgb": "158, 189, 210",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1632,6 +1835,7 @@
       "name": "Iris Purple",
       "hex": "#9ebdd2",
       "hex_available": true,
+      "rgb": "158, 189, 210",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1640,6 +1844,7 @@
       "name": "Studio Black",
       "hex": "#9ebdd2",
       "hex_available": true,
+      "rgb": "158, 189, 210",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1648,6 +1853,7 @@
       "name": "Slate Gray",
       "hex": "#4a452f",
       "hex_available": true,
+      "rgb": "74, 69, 47",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1656,6 +1862,7 @@
       "name": "Burnt Umber",
       "hex": "#4a452f",
       "hex_available": true,
+      "rgb": "74, 69, 47",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1664,6 +1871,7 @@
       "name": "Raw Sienna",
       "hex": "#4a452f",
       "hex_available": true,
+      "rgb": "74, 69, 47",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1672,6 +1880,7 @@
       "name": "White Medium",
       "hex": "#4a452f",
       "hex_available": true,
+      "rgb": "74, 69, 47",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1680,6 +1889,7 @@
       "name": "White Clear",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1688,6 +1898,7 @@
       "name": "Titanium White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Etsy/Etsy-Handmade.html"
     },
     {
@@ -1696,6 +1907,7 @@
       "name": "Primary Red",
       "hex": "#6e0000",
       "hex_available": true,
+      "rgb": "110, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1704,6 +1916,7 @@
       "name": "Venitian Red",
       "hex": "#6e0000",
       "hex_available": true,
+      "rgb": "110, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1712,6 +1925,7 @@
       "name": "Joanne Loves This Red",
       "hex": "#6e0000",
       "hex_available": true,
+      "rgb": "110, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1720,6 +1934,7 @@
       "name": "Alizarine Crimson Light",
       "hex": "#6e0000",
       "hex_available": true,
+      "rgb": "110, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1728,6 +1943,7 @@
       "name": "Super Red Russet 207",
       "hex": "#cc345a",
       "hex_available": true,
+      "rgb": "204, 52, 90",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1736,6 +1952,7 @@
       "name": "Super Red Russet 208",
       "hex": "#cc345a",
       "hex_available": true,
+      "rgb": "204, 52, 90",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1744,6 +1961,7 @@
       "name": "Vermillion",
       "hex": "#cc345a",
       "hex_available": true,
+      "rgb": "204, 52, 90",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1752,6 +1970,7 @@
       "name": "Duochrome Yellow Red",
       "hex": "#cc345a",
       "hex_available": true,
+      "rgb": "204, 52, 90",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1760,6 +1979,7 @@
       "name": "Cadmium Orange Light",
       "hex": "#ffb53e",
       "hex_available": true,
+      "rgb": "255, 181, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1768,6 +1988,7 @@
       "name": "Cadmium Orange Medium",
       "hex": "#ffb53e",
       "hex_available": true,
+      "rgb": "255, 181, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1776,6 +1997,7 @@
       "name": "Irgazine Yellow",
       "hex": "#ffb53e",
       "hex_available": true,
+      "rgb": "255, 181, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1784,6 +2006,7 @@
       "name": "Orange Sand 220",
       "hex": "#ffb53e",
       "hex_available": true,
+      "rgb": "255, 181, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1792,6 +2015,7 @@
       "name": "Cadmium Orange Deep",
       "hex": "#cc1d00",
       "hex_available": true,
+      "rgb": "204, 29, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1800,6 +2024,7 @@
       "name": "Iron Oxide Orange",
       "hex": "#cc1d00",
       "hex_available": true,
+      "rgb": "204, 29, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1808,6 +2033,7 @@
       "name": "Titanium Orange",
       "hex": "#cc1d00",
       "hex_available": true,
+      "rgb": "204, 29, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1816,6 +2042,7 @@
       "name": "Mars Yellow",
       "hex": "#cc1d00",
       "hex_available": true,
+      "rgb": "204, 29, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1824,6 +2051,7 @@
       "name": "Bright Orange Metallic 236",
       "hex": "#c67e32",
       "hex_available": true,
+      "rgb": "198, 126, 50",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1832,6 +2060,7 @@
       "name": "Titanium Yellow",
       "hex": "#c67e32",
       "hex_available": true,
+      "rgb": "198, 126, 50",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1840,6 +2069,7 @@
       "name": "Naples Yellow",
       "hex": "#c67e32",
       "hex_available": true,
+      "rgb": "198, 126, 50",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1848,6 +2078,7 @@
       "name": "Indian Yellow",
       "hex": "#c67e32",
       "hex_available": true,
+      "rgb": "198, 126, 50",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1856,6 +2087,7 @@
       "name": "Brilliant Gold",
       "hex": "#f5e37f",
       "hex_available": true,
+      "rgb": "245, 227, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1864,6 +2096,7 @@
       "name": "Bronzing",
       "hex": "#f5e37f",
       "hex_available": true,
+      "rgb": "245, 227, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1872,6 +2105,7 @@
       "name": "Cadmium Yellow Light",
       "hex": "#f5e37f",
       "hex_available": true,
+      "rgb": "245, 227, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1880,6 +2114,7 @@
       "name": "Hansa Yellow",
       "hex": "#f5e37f",
       "hex_available": true,
+      "rgb": "245, 227, 127",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1888,6 +2123,7 @@
       "name": "Cadmium Yellow Medium Deep",
       "hex": "#f1b500",
       "hex_available": true,
+      "rgb": "241, 181, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1896,6 +2132,7 @@
       "name": "Majestic Gold",
       "hex": "#f1b500",
       "hex_available": true,
+      "rgb": "241, 181, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1904,6 +2141,7 @@
       "name": "Cobalt Yellow",
       "hex": "#f1b500",
       "hex_available": true,
+      "rgb": "241, 181, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1912,6 +2150,7 @@
       "name": "Irgazine Green",
       "hex": "#f1b500",
       "hex_available": true,
+      "rgb": "241, 181, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1920,6 +2159,7 @@
       "name": "Light Olive 239",
       "hex": "#aa7412",
       "hex_available": true,
+      "rgb": "170, 116, 18",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1928,6 +2168,7 @@
       "name": "Light Olive 240",
       "hex": "#aa7412",
       "hex_available": true,
+      "rgb": "170, 116, 18",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1936,6 +2177,7 @@
       "name": "Soft Green",
       "hex": "#aa7412",
       "hex_available": true,
+      "rgb": "170, 116, 18",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1944,6 +2186,7 @@
       "name": "Cadmium Green Light",
       "hex": "#aa7412",
       "hex_available": true,
+      "rgb": "170, 116, 18",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1952,6 +2195,7 @@
       "name": "Kelly Green",
       "hex": "#1f8b40",
       "hex_available": true,
+      "rgb": "31, 139, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1960,6 +2204,7 @@
       "name": "Nicosia Bottle Green",
       "hex": "#1f8b40",
       "hex_available": true,
+      "rgb": "31, 139, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1968,6 +2213,7 @@
       "name": "Viridian",
       "hex": "#1f8b40",
       "hex_available": true,
+      "rgb": "31, 139, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1976,6 +2222,7 @@
       "name": "Teal",
       "hex": "#1f8b40",
       "hex_available": true,
+      "rgb": "31, 139, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1984,6 +2231,7 @@
       "name": "Thalo Green",
       "hex": "#334340",
       "hex_available": true,
+      "rgb": "51, 67, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -1992,6 +2240,7 @@
       "name": "Cobalt Turquoise",
       "hex": "#334340",
       "hex_available": true,
+      "rgb": "51, 67, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2000,6 +2249,7 @@
       "name": "Robins Egg Blue",
       "hex": "#334340",
       "hex_available": true,
+      "rgb": "51, 67, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2008,6 +2258,7 @@
       "name": "Manganese Blue Genuine",
       "hex": "#334340",
       "hex_available": true,
+      "rgb": "51, 67, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2016,6 +2267,7 @@
       "name": "Azure Blue",
       "hex": "#0096f7",
       "hex_available": true,
+      "rgb": "0, 150, 247",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2024,6 +2276,7 @@
       "name": "Duochrome Blue Green",
       "hex": "#0096f7",
       "hex_available": true,
+      "rgb": "0, 150, 247",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2032,6 +2285,7 @@
       "name": "Cloisonne Blue",
       "hex": "#0096f7",
       "hex_available": true,
+      "rgb": "0, 150, 247",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2040,6 +2294,7 @@
       "name": "Lavender",
       "hex": "#0096f7",
       "hex_available": true,
+      "rgb": "0, 150, 247",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2048,6 +2303,7 @@
       "name": "Duochrome Blue Red 185",
       "hex": "#5b59c7",
       "hex_available": true,
+      "rgb": "91, 89, 199",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2056,6 +2312,7 @@
       "name": "Duochrome Blue Red 180",
       "hex": "#5b59c7",
       "hex_available": true,
+      "rgb": "91, 89, 199",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2064,6 +2321,7 @@
       "name": "Primary Blue",
       "hex": "#5b59c7",
       "hex_available": true,
+      "rgb": "91, 89, 199",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2072,6 +2330,7 @@
       "name": "Irgazine Blue",
       "hex": "#5b59c7",
       "hex_available": true,
+      "rgb": "91, 89, 199",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2080,6 +2339,7 @@
       "name": "Cobalt Blue",
       "hex": "#113bc5",
       "hex_available": true,
+      "rgb": "17, 59, 197",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2088,6 +2348,7 @@
       "name": "Navy Luster",
       "hex": "#113bc5",
       "hex_available": true,
+      "rgb": "17, 59, 197",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2096,6 +2357,7 @@
       "name": "French Ultramarine Blue",
       "hex": "#113bc5",
       "hex_available": true,
+      "rgb": "17, 59, 197",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2104,6 +2366,7 @@
       "name": "Milori Blue",
       "hex": "#113bc5",
       "hex_available": true,
+      "rgb": "17, 59, 197",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2112,6 +2375,7 @@
       "name": "Thalo Blue",
       "hex": "#353444",
       "hex_available": true,
+      "rgb": "53, 52, 68",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2120,6 +2384,7 @@
       "name": "Indanthrone Blue",
       "hex": "#353444",
       "hex_available": true,
+      "rgb": "53, 52, 68",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2128,6 +2393,7 @@
       "name": "Grape",
       "hex": "#353444",
       "hex_available": true,
+      "rgb": "53, 52, 68",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2136,6 +2402,7 @@
       "name": "Egyptian Violet",
       "hex": "#353444",
       "hex_available": true,
+      "rgb": "53, 52, 68",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2144,6 +2411,7 @@
       "name": "Violet Shimmer",
       "hex": "#5d2b72",
       "hex_available": true,
+      "rgb": "93, 43, 114",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2152,6 +2420,7 @@
       "name": "Dioxazine Violet",
       "hex": "#5d2b72",
       "hex_available": true,
+      "rgb": "93, 43, 114",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2160,6 +2429,7 @@
       "name": "Cinquasia Violet",
       "hex": "#5d2b72",
       "hex_available": true,
+      "rgb": "93, 43, 114",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2168,6 +2438,7 @@
       "name": "Provence Violet",
       "hex": "#5d2b72",
       "hex_available": true,
+      "rgb": "93, 43, 114",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2176,6 +2447,7 @@
       "name": "Manganese Violet",
       "hex": "#350082",
       "hex_available": true,
+      "rgb": "53, 0, 130",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2184,6 +2456,7 @@
       "name": "Duochrome Red Blue",
       "hex": "#350082",
       "hex_available": true,
+      "rgb": "53, 0, 130",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2192,6 +2465,7 @@
       "name": "Pink Pearl",
       "hex": "#350082",
       "hex_available": true,
+      "rgb": "53, 0, 130",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2200,6 +2474,7 @@
       "name": "Candy Pink Light",
       "hex": "#350082",
       "hex_available": true,
+      "rgb": "53, 0, 130",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2208,6 +2483,7 @@
       "name": "Platinum Rose 186",
       "hex": "#f0dbe2",
       "hex_available": true,
+      "rgb": "240, 219, 226",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2216,6 +2492,7 @@
       "name": "Platinum Rose 179",
       "hex": "#f0dbe2",
       "hex_available": true,
+      "rgb": "240, 219, 226",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2224,6 +2501,7 @@
       "name": "Duochrome Red Yellow",
       "hex": "#f0dbe2",
       "hex_available": true,
+      "rgb": "240, 219, 226",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2232,6 +2510,7 @@
       "name": "Duochrome Red Green",
       "hex": "#f0dbe2",
       "hex_available": true,
+      "rgb": "240, 219, 226",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2240,6 +2519,7 @@
       "name": "Montserrat Magenta",
       "hex": "#e87ea2",
       "hex_available": true,
+      "rgb": "232, 126, 162",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2248,6 +2528,7 @@
       "name": "Cloisonne Pink",
       "hex": "#e87ea2",
       "hex_available": true,
+      "rgb": "232, 126, 162",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2256,6 +2537,7 @@
       "name": "Burnt Sienna",
       "hex": "#e87ea2",
       "hex_available": true,
+      "rgb": "232, 126, 162",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2264,6 +2546,7 @@
       "name": "Alizarine Violet",
       "hex": "#e87ea2",
       "hex_available": true,
+      "rgb": "232, 126, 162",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2272,6 +2555,7 @@
       "name": "Quinacridone Magenta",
       "hex": "#7e2042",
       "hex_available": true,
+      "rgb": "126, 32, 66",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2280,6 +2564,7 @@
       "name": "Studio Pink",
       "hex": "#7e2042",
       "hex_available": true,
+      "rgb": "126, 32, 66",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2288,6 +2573,7 @@
       "name": "Transparent Rust",
       "hex": "#7e2042",
       "hex_available": true,
+      "rgb": "126, 32, 66",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2296,6 +2582,7 @@
       "name": "Graphite",
       "hex": "#7e2042",
       "hex_available": true,
+      "rgb": "126, 32, 66",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2304,6 +2591,7 @@
       "name": "Iron Oxide Black",
       "hex": "#060814",
       "hex_available": true,
+      "rgb": "6, 8, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2312,6 +2600,7 @@
       "name": "Rose Brown",
       "hex": "#060814",
       "hex_available": true,
+      "rgb": "6, 8, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2320,6 +2609,7 @@
       "name": "Dark Oak",
       "hex": "#060814",
       "hex_available": true,
+      "rgb": "6, 8, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2328,6 +2618,7 @@
       "name": "Burnt Umber",
       "hex": "#060814",
       "hex_available": true,
+      "rgb": "6, 8, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2336,6 +2627,7 @@
       "name": "Caput Mortuum",
       "hex": "#5a3a47",
       "hex_available": true,
+      "rgb": "90, 58, 71",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2344,6 +2636,7 @@
       "name": "Turkey Umber",
       "hex": "#5a3a47",
       "hex_available": true,
+      "rgb": "90, 58, 71",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2352,6 +2645,7 @@
       "name": "Raw Umber",
       "hex": "#5a3a47",
       "hex_available": true,
+      "rgb": "90, 58, 71",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2360,6 +2654,7 @@
       "name": "Orange Sand 221",
       "hex": "#5a3a47",
       "hex_available": true,
+      "rgb": "90, 58, 71",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2368,6 +2663,7 @@
       "name": "Raw Sienna",
       "hex": "#9a4f30",
       "hex_available": true,
+      "rgb": "154, 79, 48",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2376,6 +2672,7 @@
       "name": "Copper",
       "hex": "#9a4f30",
       "hex_available": true,
+      "rgb": "154, 79, 48",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2384,6 +2681,7 @@
       "name": "Terracotta",
       "hex": "#9a4f30",
       "hex_available": true,
+      "rgb": "154, 79, 48",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2392,6 +2690,7 @@
       "name": "Bright Orange Metallic 144",
       "hex": "#9a4f30",
       "hex_available": true,
+      "rgb": "154, 79, 48",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2400,6 +2699,7 @@
       "name": "Salmon PS",
       "hex": "#b16951",
       "hex_available": true,
+      "rgb": "177, 105, 81",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2408,6 +2708,7 @@
       "name": "Aztec Gold",
       "hex": "#b16951",
       "hex_available": true,
+      "rgb": "177, 105, 81",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2416,6 +2717,7 @@
       "name": "Golden Bronze",
       "hex": "#b16951",
       "hex_available": true,
+      "rgb": "177, 105, 81",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2424,6 +2726,7 @@
       "name": "Cold Steel",
       "hex": "#b16951",
       "hex_available": true,
+      "rgb": "177, 105, 81",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2432,6 +2735,7 @@
       "name": "Bohemian Green Earth",
       "hex": "#899184",
       "hex_available": true,
+      "rgb": "137, 145, 132",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2440,6 +2744,7 @@
       "name": "Bisque Gray",
       "hex": "#899184",
       "hex_available": true,
+      "rgb": "137, 145, 132",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2448,6 +2753,7 @@
       "name": "Antique Silver",
       "hex": "#899184",
       "hex_available": true,
+      "rgb": "137, 145, 132",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2456,6 +2762,7 @@
       "name": "Buff",
       "hex": "#899184",
       "hex_available": true,
+      "rgb": "137, 145, 132",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2464,6 +2771,7 @@
       "name": "Bright Silver",
       "hex": "#dbe2ea",
       "hex_available": true,
+      "rgb": "219, 226, 234",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2472,6 +2780,7 @@
       "name": "Chevre",
       "hex": "#dbe2ea",
       "hex_available": true,
+      "rgb": "219, 226, 234",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2480,6 +2789,7 @@
       "name": "Titanium White",
       "hex": "#dbe2ea",
       "hex_available": true,
+      "rgb": "219, 226, 234",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Evans/Evans-Premier-Artist.html"
     },
     {
@@ -2488,6 +2798,7 @@
       "name": "Burnt Sienna",
       "hex": "#8d1c14",
       "hex_available": true,
+      "rgb": "141, 28, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2496,6 +2807,7 @@
       "name": "Mars Red",
       "hex": "#8d1c14",
       "hex_available": true,
+      "rgb": "141, 28, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2504,6 +2816,7 @@
       "name": "Brown Pink",
       "hex": "#8d1c14",
       "hex_available": true,
+      "rgb": "141, 28, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2512,6 +2825,7 @@
       "name": "Rose Madder",
       "hex": "#8d1c14",
       "hex_available": true,
+      "rgb": "141, 28, 20",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2520,6 +2834,7 @@
       "name": "Alizarine Crimson",
       "hex": "#bf1202",
       "hex_available": true,
+      "rgb": "191, 18, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2528,6 +2843,7 @@
       "name": "Cadmium Red Deep",
       "hex": "#bf1202",
       "hex_available": true,
+      "rgb": "191, 18, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2536,6 +2852,7 @@
       "name": "Quinacridone Red",
       "hex": "#bf1202",
       "hex_available": true,
+      "rgb": "191, 18, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2544,6 +2861,7 @@
       "name": "Cadmium Red Medium",
       "hex": "#bf1202",
       "hex_available": true,
+      "rgb": "191, 18, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2552,6 +2870,7 @@
       "name": "Cadmium Red Light",
       "hex": "#ff430c",
       "hex_available": true,
+      "rgb": "255, 67, 12",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2560,6 +2879,7 @@
       "name": "Cadmium Orange",
       "hex": "#ff430c",
       "hex_available": true,
+      "rgb": "255, 67, 12",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2568,6 +2888,7 @@
       "name": "Alizarine Orange",
       "hex": "#ff430c",
       "hex_available": true,
+      "rgb": "255, 67, 12",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2576,6 +2897,7 @@
       "name": "Mars Orange",
       "hex": "#ff430c",
       "hex_available": true,
+      "rgb": "255, 67, 12",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2584,6 +2906,7 @@
       "name": "Raw Sienna",
       "hex": "#bb4d02",
       "hex_available": true,
+      "rgb": "187, 77, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2592,6 +2915,7 @@
       "name": "Mars Yellow Deep",
       "hex": "#bb4d02",
       "hex_available": true,
+      "rgb": "187, 77, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2600,6 +2924,7 @@
       "name": "Mars Yellow Light",
       "hex": "#bb4d02",
       "hex_available": true,
+      "rgb": "187, 77, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2608,6 +2933,7 @@
       "name": "Iridescent Gold",
       "hex": "#bb4d02",
       "hex_available": true,
+      "rgb": "187, 77, 2",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2616,6 +2942,7 @@
       "name": "Indian Yellow",
       "hex": "#ff9e13",
       "hex_available": true,
+      "rgb": "255, 158, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2624,6 +2951,7 @@
       "name": "Jaune Brilliant",
       "hex": "#ff9e13",
       "hex_available": true,
+      "rgb": "255, 158, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2632,6 +2960,7 @@
       "name": "Iridescent Brass",
       "hex": "#ff9e13",
       "hex_available": true,
+      "rgb": "255, 158, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2640,6 +2969,7 @@
       "name": "Cadmium Yellow Deep",
       "hex": "#ff9e13",
       "hex_available": true,
+      "rgb": "255, 158, 19",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2648,6 +2978,7 @@
       "name": "Cobalt Yellow",
       "hex": "#feca16",
       "hex_available": true,
+      "rgb": "254, 202, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2656,6 +2987,7 @@
       "name": "Cadmium Yellow Medium",
       "hex": "#feca16",
       "hex_available": true,
+      "rgb": "254, 202, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2664,6 +2996,7 @@
       "name": "Cadmium Yellow Light",
       "hex": "#feca16",
       "hex_available": true,
+      "rgb": "254, 202, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2672,6 +3005,7 @@
       "name": "Cadmium Lemon",
       "hex": "#feca16",
       "hex_available": true,
+      "rgb": "254, 202, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2680,6 +3014,7 @@
       "name": "Brilliant Yellow Extra Pale",
       "hex": "#fefede",
       "hex_available": true,
+      "rgb": "254, 254, 222",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2688,6 +3023,7 @@
       "name": "Naples Yellow",
       "hex": "#fefede",
       "hex_available": true,
+      "rgb": "254, 254, 222",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2696,6 +3032,7 @@
       "name": "Green Gold",
       "hex": "#fefede",
       "hex_available": true,
+      "rgb": "254, 254, 222",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2704,6 +3041,7 @@
       "name": "Turkey Umber Greenish",
       "hex": "#fefede",
       "hex_available": true,
+      "rgb": "254, 254, 222",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2712,6 +3050,7 @@
       "name": "Courbet Green",
       "hex": "#234233",
       "hex_available": true,
+      "rgb": "35, 66, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2720,6 +3059,7 @@
       "name": "Phthalo Green",
       "hex": "#234233",
       "hex_available": true,
+      "rgb": "35, 66, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2728,6 +3068,7 @@
       "name": "Green Earth",
       "hex": "#234233",
       "hex_available": true,
+      "rgb": "35, 66, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2736,6 +3077,7 @@
       "name": "Chromium Oxide",
       "hex": "#234233",
       "hex_available": true,
+      "rgb": "35, 66, 51",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2744,6 +3086,7 @@
       "name": "Sap Green",
       "hex": "#3b7b25",
       "hex_available": true,
+      "rgb": "59, 123, 37",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2752,6 +3095,7 @@
       "name": "Veronese Green",
       "hex": "#3b7b25",
       "hex_available": true,
+      "rgb": "59, 123, 37",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2760,6 +3104,7 @@
       "name": "Viridian",
       "hex": "#3b7b25",
       "hex_available": true,
+      "rgb": "59, 123, 37",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2768,6 +3113,7 @@
       "name": "Cobalt Green Light",
       "hex": "#3b7b25",
       "hex_available": true,
+      "rgb": "59, 123, 37",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2776,6 +3122,7 @@
       "name": "Cadmium Green",
       "hex": "#71a32a",
       "hex_available": true,
+      "rgb": "113, 163, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2784,6 +3131,7 @@
       "name": "Cadmium Green Pale",
       "hex": "#71a32a",
       "hex_available": true,
+      "rgb": "113, 163, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2792,6 +3140,7 @@
       "name": "Celadon Green",
       "hex": "#71a32a",
       "hex_available": true,
+      "rgb": "113, 163, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2800,6 +3149,7 @@
       "name": "Cerulean Extra Pale",
       "hex": "#71a32a",
       "hex_available": true,
+      "rgb": "113, 163, 42",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2808,6 +3158,7 @@
       "name": "Azure Blue",
       "hex": "#2f9bc2",
       "hex_available": true,
+      "rgb": "47, 155, 194",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2816,6 +3167,7 @@
       "name": "Kings Blue",
       "hex": "#2f9bc2",
       "hex_available": true,
+      "rgb": "47, 155, 194",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2824,6 +3176,7 @@
       "name": "Turquoise Blue",
       "hex": "#2f9bc2",
       "hex_available": true,
+      "rgb": "47, 155, 194",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2832,6 +3185,7 @@
       "name": "French Mauve Bluish",
       "hex": "#2f9bc2",
       "hex_available": true,
+      "rgb": "47, 155, 194",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2840,6 +3194,7 @@
       "name": "Cerulean Blue",
       "hex": "#1e5ab0",
       "hex_available": true,
+      "rgb": "30, 90, 176",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2848,6 +3203,7 @@
       "name": "Indigo",
       "hex": "#1e5ab0",
       "hex_available": true,
+      "rgb": "30, 90, 176",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2856,6 +3212,7 @@
       "name": "Cobalt Turquoise",
       "hex": "#1e5ab0",
       "hex_available": true,
+      "rgb": "30, 90, 176",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2864,6 +3221,7 @@
       "name": "Cobalt Blue",
       "hex": "#1e5ab0",
       "hex_available": true,
+      "rgb": "30, 90, 176",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2872,6 +3230,7 @@
       "name": "Ultramarine Blue",
       "hex": "#1a229f",
       "hex_available": true,
+      "rgb": "26, 34, 159",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2880,6 +3239,7 @@
       "name": "Phthalo Turquoise",
       "hex": "#1a229f",
       "hex_available": true,
+      "rgb": "26, 34, 159",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2888,6 +3248,7 @@
       "name": "Phthalo Blue",
       "hex": "#1a229f",
       "hex_available": true,
+      "rgb": "26, 34, 159",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2896,6 +3257,7 @@
       "name": "Ultramarine Violet",
       "hex": "#1a229f",
       "hex_available": true,
+      "rgb": "26, 34, 159",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2904,6 +3266,7 @@
       "name": "Egyptian Violet",
       "hex": "#3a1886",
       "hex_available": true,
+      "rgb": "58, 24, 134",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2912,6 +3275,7 @@
       "name": "Mars Violet",
       "hex": "#3a1886",
       "hex_available": true,
+      "rgb": "58, 24, 134",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2920,6 +3284,7 @@
       "name": "Manganese Violet",
       "hex": "#3a1886",
       "hex_available": true,
+      "rgb": "58, 24, 134",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2928,6 +3293,7 @@
       "name": "Cobalt Violet Deep",
       "hex": "#3a1886",
       "hex_available": true,
+      "rgb": "58, 24, 134",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2936,6 +3302,7 @@
       "name": "Cobalt Violet Light",
       "hex": "#a33daa",
       "hex_available": true,
+      "rgb": "163, 61, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2944,6 +3311,7 @@
       "name": "Warm Rose",
       "hex": "#a33daa",
       "hex_available": true,
+      "rgb": "163, 61, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2952,6 +3320,7 @@
       "name": "Warm Pink",
       "hex": "#a33daa",
       "hex_available": true,
+      "rgb": "163, 61, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2960,6 +3329,7 @@
       "name": "French Mauve Reddish",
       "hex": "#a33daa",
       "hex_available": true,
+      "rgb": "163, 61, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2968,6 +3338,7 @@
       "name": "Dianthus Pink",
       "hex": "#f78cc0",
       "hex_available": true,
+      "rgb": "247, 140, 192",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2976,6 +3347,7 @@
       "name": "Iridescent Bronze",
       "hex": "#f78cc0",
       "hex_available": true,
+      "rgb": "247, 140, 192",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2984,6 +3356,7 @@
       "name": "Raw Umber",
       "hex": "#f78cc0",
       "hex_available": true,
+      "rgb": "247, 140, 192",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -2992,6 +3365,7 @@
       "name": "Iridescent Copper",
       "hex": "#f78cc0",
       "hex_available": true,
+      "rgb": "247, 140, 192",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3000,6 +3374,7 @@
       "name": "Sepia",
       "hex": "#a73f40",
       "hex_available": true,
+      "rgb": "167, 63, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3008,6 +3383,7 @@
       "name": "Quinacridone Magenta",
       "hex": "#a73f40",
       "hex_available": true,
+      "rgb": "167, 63, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3016,6 +3392,7 @@
       "name": "Burnt Umber",
       "hex": "#a73f40",
       "hex_available": true,
+      "rgb": "167, 63, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3024,6 +3401,7 @@
       "name": "Ivory Black",
       "hex": "#a73f40",
       "hex_available": true,
+      "rgb": "167, 63, 64",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3032,6 +3410,7 @@
       "name": "Mars Black",
       "hex": "#030303",
       "hex_available": true,
+      "rgb": "3, 3, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3040,6 +3419,7 @@
       "name": "Graphite Gray",
       "hex": "#030303",
       "hex_available": true,
+      "rgb": "3, 3, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3048,6 +3428,7 @@
       "name": "Paynes Gray",
       "hex": "#030303",
       "hex_available": true,
+      "rgb": "3, 3, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3056,6 +3437,7 @@
       "name": "Intense Carbon Black",
       "hex": "#030303",
       "hex_available": true,
+      "rgb": "3, 3, 3",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3064,6 +3446,7 @@
       "name": "Iridescent Pewter",
       "hex": "#5b5362",
       "hex_available": true,
+      "rgb": "91, 83, 98",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3072,6 +3455,7 @@
       "name": "Iridescent Geman Silver",
       "hex": "#5b5362",
       "hex_available": true,
+      "rgb": "91, 83, 98",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3080,6 +3464,7 @@
       "name": "Iridescent Silver",
       "hex": "#5b5362",
       "hex_available": true,
+      "rgb": "91, 83, 98",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3088,6 +3473,7 @@
       "name": "Iridescent Pearl",
       "hex": "#5b5362",
       "hex_available": true,
+      "rgb": "91, 83, 98",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3096,6 +3482,7 @@
       "name": "Neutral White",
       "hex": "#eeebcc",
       "hex_available": true,
+      "rgb": "238, 235, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3104,6 +3491,7 @@
       "name": "Zinc White",
       "hex": "#eeebcc",
       "hex_available": true,
+      "rgb": "238, 235, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3112,6 +3500,7 @@
       "name": "Titanium White",
       "hex": "#eeebcc",
       "hex_available": true,
+      "rgb": "238, 235, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/R-and-F/R-and-F-Artist.html"
     },
     {
@@ -3120,6 +3509,7 @@
       "name": "Indian Red",
       "hex": "#5c1710",
       "hex_available": true,
+      "rgb": "92, 23, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3128,6 +3518,7 @@
       "name": "Cadmium Red Deep",
       "hex": "#5c1710",
       "hex_available": true,
+      "rgb": "92, 23, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3136,6 +3527,7 @@
       "name": "Carmine Red",
       "hex": "#5c1710",
       "hex_available": true,
+      "rgb": "92, 23, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3144,6 +3536,7 @@
       "name": "Venetian Red",
       "hex": "#5c1710",
       "hex_available": true,
+      "rgb": "92, 23, 16",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3152,6 +3545,7 @@
       "name": "Scarlet Lake Red",
       "hex": "#af1304",
       "hex_available": true,
+      "rgb": "175, 19, 4",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3160,6 +3554,7 @@
       "name": "Cadmium Red Medium",
       "hex": "#af1304",
       "hex_available": true,
+      "rgb": "175, 19, 4",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3168,6 +3563,7 @@
       "name": "Cadmium Red Light",
       "hex": "#af1304",
       "hex_available": true,
+      "rgb": "175, 19, 4",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3176,6 +3572,7 @@
       "name": "French Vermilion Red",
       "hex": "#af1304",
       "hex_available": true,
+      "rgb": "175, 19, 4",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3184,6 +3581,7 @@
       "name": "Cadmium Orange",
       "hex": "#be2901",
       "hex_available": true,
+      "rgb": "190, 41, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3192,6 +3590,7 @@
       "name": "Cadmium Orange Deep",
       "hex": "#be2901",
       "hex_available": true,
+      "rgb": "190, 41, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3200,6 +3599,7 @@
       "name": "Red Ochre",
       "hex": "#be2901",
       "hex_available": true,
+      "rgb": "190, 41, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3208,6 +3608,7 @@
       "name": "Mars Orange",
       "hex": "#be2901",
       "hex_available": true,
+      "rgb": "190, 41, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3216,6 +3617,7 @@
       "name": "Chinese Orange",
       "hex": "#932d05",
       "hex_available": true,
+      "rgb": "147, 45, 5",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3224,6 +3626,7 @@
       "name": "Cadmium Yellow Deep",
       "hex": "#932d05",
       "hex_available": true,
+      "rgb": "147, 45, 5",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3232,6 +3635,7 @@
       "name": "Indian Yellow",
       "hex": "#932d05",
       "hex_available": true,
+      "rgb": "147, 45, 5",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3240,6 +3644,7 @@
       "name": "Yellow Ochre",
       "hex": "#932d05",
       "hex_available": true,
+      "rgb": "147, 45, 5",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3248,6 +3653,7 @@
       "name": "Cadmium Yellow Medium",
       "hex": "#bc8801",
       "hex_available": true,
+      "rgb": "188, 136, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3256,6 +3662,7 @@
       "name": "Yellow Ochre Light",
       "hex": "#bc8801",
       "hex_available": true,
+      "rgb": "188, 136, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3264,6 +3671,7 @@
       "name": "Cadmium Yellow Light",
       "hex": "#bc8801",
       "hex_available": true,
+      "rgb": "188, 136, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3272,6 +3680,7 @@
       "name": "Naples Yellow",
       "hex": "#bc8801",
       "hex_available": true,
+      "rgb": "188, 136, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3280,6 +3689,7 @@
       "name": "Cadmium Lemon Yellow",
       "hex": "#f8ee4e",
       "hex_available": true,
+      "rgb": "248, 238, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3288,6 +3698,7 @@
       "name": "Permanent Green",
       "hex": "#f8ee4e",
       "hex_available": true,
+      "rgb": "248, 238, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3296,6 +3707,7 @@
       "name": "Viridian Green",
       "hex": "#f8ee4e",
       "hex_available": true,
+      "rgb": "248, 238, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3304,6 +3716,7 @@
       "name": "Olive Green",
       "hex": "#f8ee4e",
       "hex_available": true,
+      "rgb": "248, 238, 78",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3312,6 +3725,7 @@
       "name": "Phthalo Green Light",
       "hex": "#4c571f",
       "hex_available": true,
+      "rgb": "76, 87, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3320,6 +3734,7 @@
       "name": "Terre Verte Green",
       "hex": "#4c571f",
       "hex_available": true,
+      "rgb": "76, 87, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3328,6 +3743,7 @@
       "name": "Raw Umber Green Shade",
       "hex": "#4c571f",
       "hex_available": true,
+      "rgb": "76, 87, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3336,6 +3752,7 @@
       "name": "Sap Green",
       "hex": "#4c571f",
       "hex_available": true,
+      "rgb": "76, 87, 31",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3344,6 +3761,7 @@
       "name": "Cinnabar Green",
       "hex": "#193e15",
       "hex_available": true,
+      "rgb": "25, 62, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3352,6 +3770,7 @@
       "name": "Green Umber",
       "hex": "#193e15",
       "hex_available": true,
+      "rgb": "25, 62, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3360,6 +3779,7 @@
       "name": "Azure Blue",
       "hex": "#193e15",
       "hex_available": true,
+      "rgb": "25, 62, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3368,6 +3788,7 @@
       "name": "Turquoise Blue",
       "hex": "#193e15",
       "hex_available": true,
+      "rgb": "25, 62, 21",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3376,6 +3797,7 @@
       "name": "Cerulean Blue",
       "hex": "#1671aa",
       "hex_available": true,
+      "rgb": "22, 113, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3384,6 +3806,7 @@
       "name": "Cobalt Blue",
       "hex": "#1671aa",
       "hex_available": true,
+      "rgb": "22, 113, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3392,6 +3815,7 @@
       "name": "Phthalo Blue",
       "hex": "#1671aa",
       "hex_available": true,
+      "rgb": "22, 113, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3400,6 +3824,7 @@
       "name": "French Ultramarine Blue",
       "hex": "#1671aa",
       "hex_available": true,
+      "rgb": "22, 113, 170",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3408,6 +3833,7 @@
       "name": "Prussian Blue",
       "hex": "#041c3e",
       "hex_available": true,
+      "rgb": "4, 28, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3416,6 +3842,7 @@
       "name": "Indigo Blue",
       "hex": "#041c3e",
       "hex_available": true,
+      "rgb": "4, 28, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3424,6 +3851,7 @@
       "name": "Windsor Violet",
       "hex": "#041c3e",
       "hex_available": true,
+      "rgb": "4, 28, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3432,6 +3860,7 @@
       "name": "Manganese Violet Deep",
       "hex": "#041c3e",
       "hex_available": true,
+      "rgb": "4, 28, 62",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3440,6 +3869,7 @@
       "name": "Purple Dioxazine",
       "hex": "#5e333d",
       "hex_available": true,
+      "rgb": "94, 51, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3448,6 +3878,7 @@
       "name": "Permanent Mauve",
       "hex": "#5e333d",
       "hex_available": true,
+      "rgb": "94, 51, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3456,6 +3887,7 @@
       "name": "Magenta",
       "hex": "#5e333d",
       "hex_available": true,
+      "rgb": "94, 51, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3464,6 +3896,7 @@
       "name": "Ultramarine Rose",
       "hex": "#5e333d",
       "hex_available": true,
+      "rgb": "94, 51, 61",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3472,6 +3905,7 @@
       "name": "Flesh Tint",
       "hex": "#ae635d",
       "hex_available": true,
+      "rgb": "174, 99, 93",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3480,6 +3914,7 @@
       "name": "Mars Black",
       "hex": "#ae635d",
       "hex_available": true,
+      "rgb": "174, 99, 93",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3488,6 +3923,7 @@
       "name": "Paynes Gray",
       "hex": "#ae635d",
       "hex_available": true,
+      "rgb": "174, 99, 93",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3496,6 +3932,7 @@
       "name": "Cool Gray",
       "hex": "#ae635d",
       "hex_available": true,
+      "rgb": "174, 99, 93",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3504,6 +3941,7 @@
       "name": "Italian Earth",
       "hex": "#6a3c18",
       "hex_available": true,
+      "rgb": "106, 60, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3512,6 +3950,7 @@
       "name": "Spanish Gold Ochre",
       "hex": "#6a3c18",
       "hex_available": true,
+      "rgb": "106, 60, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3520,6 +3959,7 @@
       "name": "Tuscan Earth",
       "hex": "#6a3c18",
       "hex_available": true,
+      "rgb": "106, 60, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3528,6 +3968,7 @@
       "name": "Raw Sienna",
       "hex": "#6a3c18",
       "hex_available": true,
+      "rgb": "106, 60, 24",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3536,6 +3977,7 @@
       "name": "Brown Ochre",
       "hex": "#9a602e",
       "hex_available": true,
+      "rgb": "154, 96, 46",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3544,6 +3986,7 @@
       "name": "Flesh Ochre",
       "hex": "#9a602e",
       "hex_available": true,
+      "rgb": "154, 96, 46",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3552,6 +3995,7 @@
       "name": "Titanium Buff",
       "hex": "#9a602e",
       "hex_available": true,
+      "rgb": "154, 96, 46",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3560,6 +4004,7 @@
       "name": "Titanium White",
       "hex": "#9a602e",
       "hex_available": true,
+      "rgb": "154, 96, 46",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Sonja/Sonja-Artist.html"
     },
     {
@@ -3568,6 +4013,7 @@
       "name": "Isis Red",
       "hex": "#bf0301",
       "hex_available": true,
+      "rgb": "191, 3, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3576,6 +4022,7 @@
       "name": "Venetian Red",
       "hex": "#bf0301",
       "hex_available": true,
+      "rgb": "191, 3, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3584,6 +4031,7 @@
       "name": "Yellow Ochre",
       "hex": "#bf0301",
       "hex_available": true,
+      "rgb": "191, 3, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3592,6 +4040,7 @@
       "name": "Pyramid Yellow",
       "hex": "#bf0301",
       "hex_available": true,
+      "rgb": "191, 3, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3600,6 +4049,7 @@
       "name": "Bamboo Green",
       "hex": "#537236",
       "hex_available": true,
+      "rgb": "83, 114, 54",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3608,6 +4058,7 @@
       "name": "Corfu Blue",
       "hex": "#537236",
       "hex_available": true,
+      "rgb": "83, 114, 54",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3616,6 +4067,7 @@
       "name": "Burnt Sienna",
       "hex": "#537236",
       "hex_available": true,
+      "rgb": "83, 114, 54",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3624,6 +4076,7 @@
       "name": "Burnt Umber",
       "hex": "#537236",
       "hex_available": true,
+      "rgb": "83, 114, 54",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3632,6 +4085,7 @@
       "name": "Mars Black",
       "hex": "#302e19",
       "hex_available": true,
+      "rgb": "48, 46, 25",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3640,6 +4094,7 @@
       "name": "Cairo Clear Encaustic Medium",
       "hex": "#302e19",
       "hex_available": true,
+      "rgb": "48, 46, 25",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3648,6 +4103,7 @@
       "name": "Titanium White",
       "hex": "#302e19",
       "hex_available": true,
+      "rgb": "48, 46, 25",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wagner/Wagner-Ancient-Paints.html"
     },
     {
@@ -3656,6 +4112,7 @@
       "name": "Venetian Red",
       "hex": "#b92f00",
       "hex_available": true,
+      "rgb": "185, 47, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3664,6 +4121,7 @@
       "name": "Bright Red",
       "hex": "#b92f00",
       "hex_available": true,
+      "rgb": "185, 47, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3672,6 +4130,7 @@
       "name": "Vermilion",
       "hex": "#b92f00",
       "hex_available": true,
+      "rgb": "185, 47, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3680,6 +4139,7 @@
       "name": "Neon Red",
       "hex": "#b92f00",
       "hex_available": true,
+      "rgb": "185, 47, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3688,6 +4148,7 @@
       "name": "Orange",
       "hex": "#ff803f",
       "hex_available": true,
+      "rgb": "255, 128, 63",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3696,6 +4157,7 @@
       "name": "Neon Orange",
       "hex": "#ff803f",
       "hex_available": true,
+      "rgb": "255, 128, 63",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3704,6 +4166,7 @@
       "name": "Pastel Coral",
       "hex": "#ff803f",
       "hex_available": true,
+      "rgb": "255, 128, 63",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3712,6 +4175,7 @@
       "name": "Pastel Orange",
       "hex": "#ff803f",
       "hex_available": true,
+      "rgb": "255, 128, 63",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3720,6 +4184,7 @@
       "name": "Lemon Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3728,6 +4193,7 @@
       "name": "Neon Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3736,6 +4202,7 @@
       "name": "Mid Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3744,6 +4211,7 @@
       "name": "Golden Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3752,6 +4220,7 @@
       "name": "Gold",
       "hex": "#e0bf00",
       "hex_available": true,
+      "rgb": "224, 191, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3760,6 +4229,7 @@
       "name": "Yellow Ochre",
       "hex": "#e0bf00",
       "hex_available": true,
+      "rgb": "224, 191, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3768,6 +4238,7 @@
       "name": "Bronze",
       "hex": "#e0bf00",
       "hex_available": true,
+      "rgb": "224, 191, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3776,6 +4247,7 @@
       "name": "Yellow Brown",
       "hex": "#e0bf00",
       "hex_available": true,
+      "rgb": "224, 191, 0",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3784,6 +4256,7 @@
       "name": "Olive Green",
       "hex": "#7a932d",
       "hex_available": true,
+      "rgb": "122, 147, 45",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3792,6 +4265,7 @@
       "name": "Sap Green",
       "hex": "#7a932d",
       "hex_available": true,
+      "rgb": "122, 147, 45",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3800,6 +4274,7 @@
       "name": "Blue Green",
       "hex": "#7a932d",
       "hex_available": true,
+      "rgb": "122, 147, 45",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3808,6 +4283,7 @@
       "name": "Green",
       "hex": "#7a932d",
       "hex_available": true,
+      "rgb": "122, 147, 45",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3816,6 +4292,7 @@
       "name": "Leaf Green",
       "hex": "#56eb16",
       "hex_available": true,
+      "rgb": "86, 235, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3824,6 +4301,7 @@
       "name": "Neon Green",
       "hex": "#56eb16",
       "hex_available": true,
+      "rgb": "86, 235, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3832,6 +4310,7 @@
       "name": "Pastel Mint",
       "hex": "#56eb16",
       "hex_available": true,
+      "rgb": "86, 235, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3840,6 +4319,7 @@
       "name": "Pastel Blue",
       "hex": "#56eb16",
       "hex_available": true,
+      "rgb": "86, 235, 22",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3848,6 +4328,7 @@
       "name": "Neon Blue",
       "hex": "#86b9fa",
       "hex_available": true,
+      "rgb": "134, 185, 250",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3856,6 +4337,7 @@
       "name": "Cobalt Blue",
       "hex": "#86b9fa",
       "hex_available": true,
+      "rgb": "134, 185, 250",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3864,6 +4346,7 @@
       "name": "Indigo",
       "hex": "#86b9fa",
       "hex_available": true,
+      "rgb": "134, 185, 250",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3872,6 +4355,7 @@
       "name": "Ultramarine",
       "hex": "#86b9fa",
       "hex_available": true,
+      "rgb": "134, 185, 250",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3880,6 +4364,7 @@
       "name": "Cyan Blue",
       "hex": "#0d31bd",
       "hex_available": true,
+      "rgb": "13, 49, 189",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3888,6 +4373,7 @@
       "name": "Blue",
       "hex": "#0d31bd",
       "hex_available": true,
+      "rgb": "13, 49, 189",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3896,6 +4382,7 @@
       "name": "Prussian Blue",
       "hex": "#0d31bd",
       "hex_available": true,
+      "rgb": "13, 49, 189",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3904,6 +4391,7 @@
       "name": "Purple",
       "hex": "#0d31bd",
       "hex_available": true,
+      "rgb": "13, 49, 189",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3912,6 +4400,7 @@
       "name": "Blue Violet",
       "hex": "#9900cc",
       "hex_available": true,
+      "rgb": "153, 0, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3920,6 +4409,7 @@
       "name": "Red Violet",
       "hex": "#9900cc",
       "hex_available": true,
+      "rgb": "153, 0, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3928,6 +4418,7 @@
       "name": "Crimson",
       "hex": "#9900cc",
       "hex_available": true,
+      "rgb": "153, 0, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3936,6 +4427,7 @@
       "name": "Rust Brown",
       "hex": "#9900cc",
       "hex_available": true,
+      "rgb": "153, 0, 204",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3944,6 +4436,7 @@
       "name": "Umber",
       "hex": "#9a6601",
       "hex_available": true,
+      "rgb": "154, 102, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3952,6 +4445,7 @@
       "name": "Magenta",
       "hex": "#9a6601",
       "hex_available": true,
+      "rgb": "154, 102, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3960,6 +4454,7 @@
       "name": "Neon Pink",
       "hex": "#9a6601",
       "hex_available": true,
+      "rgb": "154, 102, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3968,6 +4463,7 @@
       "name": "Pink",
       "hex": "#9a6601",
       "hex_available": true,
+      "rgb": "154, 102, 1",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3976,6 +4472,7 @@
       "name": "Pastel Lilac",
       "hex": "#d8d5ff",
       "hex_available": true,
+      "rgb": "216, 213, 255",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3984,6 +4481,7 @@
       "name": "Black",
       "hex": "#d8d5ff",
       "hex_available": true,
+      "rgb": "216, 213, 255",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -3992,6 +4490,7 @@
       "name": "Grey",
       "hex": "#d8d5ff",
       "hex_available": true,
+      "rgb": "216, 213, 255",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -4000,6 +4499,7 @@
       "name": "Silver",
       "hex": "#d8d5ff",
       "hex_available": true,
+      "rgb": "216, 213, 255",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -4008,6 +4508,7 @@
       "name": "Pastel Cream",
       "hex": "#fffde8",
       "hex_available": true,
+      "rgb": "255, 253, 232",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -4016,6 +4517,7 @@
       "name": "Pearlescent",
       "hex": "#fffde8",
       "hex_available": true,
+      "rgb": "255, 253, 232",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     },
     {
@@ -4024,6 +4526,7 @@
       "name": "White",
       "hex": "#fffde8",
       "hex_available": true,
+      "rgb": "255, 253, 232",
       "source_url": "http://www.art-paints.com/Paints/Encaustic/Wakes-Waxes/Wakes-Waxes-Art-Supplies.html"
     }
   ]

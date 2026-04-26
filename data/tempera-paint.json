@@ -1,6 +1,6 @@
 {
   "medium": "tempera-paint",
-  "crawled_at": "2026-04-22T07:46:10.857630+00:00",
+  "crawled_at": "2026-04-26T03:22:18.754575+00:00",
   "paints": [
     {
       "medium": "tempera-paint",
@@ -8,6 +8,7 @@
       "name": "Red",
       "hex": "#c34954",
       "hex_available": true,
+      "rgb": "195, 73, 84",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -16,6 +17,7 @@
       "name": "Yellow",
       "hex": "#c34954",
       "hex_available": true,
+      "rgb": "195, 73, 84",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -24,6 +26,7 @@
       "name": "Green",
       "hex": "#c34954",
       "hex_available": true,
+      "rgb": "195, 73, 84",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -32,6 +35,7 @@
       "name": "Blue",
       "hex": "#c34954",
       "hex_available": true,
+      "rgb": "195, 73, 84",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -40,6 +44,7 @@
       "name": "Black",
       "hex": "#010502",
       "hex_available": true,
+      "rgb": "1, 5, 2",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -48,6 +53,7 @@
       "name": "White",
       "hex": "#010502",
       "hex_available": true,
+      "rgb": "1, 5, 2",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Basic-6-Set/Artists-Basic-6-Set.html"
     },
     {
@@ -56,6 +62,7 @@
       "name": "Fluorescent Red",
       "hex": "#f14c5a",
       "hex_available": true,
+      "rgb": "241, 76, 90",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -64,6 +71,7 @@
       "name": "Fluorescent Yellow Orange",
       "hex": "#f14c5a",
       "hex_available": true,
+      "rgb": "241, 76, 90",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -72,6 +80,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#f14c5a",
       "hex_available": true,
+      "rgb": "241, 76, 90",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -80,6 +89,7 @@
       "name": "Fluorescent Green",
       "hex": "#f14c5a",
       "hex_available": true,
+      "rgb": "241, 76, 90",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -88,6 +98,7 @@
       "name": "Fluorescent Blue",
       "hex": "#3c7bbe",
       "hex_available": true,
+      "rgb": "60, 123, 190",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -96,6 +107,7 @@
       "name": "Fluorescent Pink",
       "hex": "#3c7bbe",
       "hex_available": true,
+      "rgb": "60, 123, 190",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Fluorescent-6-Set/Artists-Fluorescent-6-Set.html"
     },
     {
@@ -104,6 +116,7 @@
       "name": "Burnt Sienna",
       "hex": "#ae4817",
       "hex_available": true,
+      "rgb": "174, 72, 23",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -112,6 +125,7 @@
       "name": "Cinnamon",
       "hex": "#ae4817",
       "hex_available": true,
+      "rgb": "174, 72, 23",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -120,6 +134,7 @@
       "name": "Curry",
       "hex": "#ae4817",
       "hex_available": true,
+      "rgb": "174, 72, 23",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -128,6 +143,7 @@
       "name": "Peach",
       "hex": "#ae4817",
       "hex_available": true,
+      "rgb": "174, 72, 23",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -136,6 +152,7 @@
       "name": "Almond",
       "hex": "#debba7",
       "hex_available": true,
+      "rgb": "222, 187, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -144,6 +161,7 @@
       "name": "Bisque",
       "hex": "#debba7",
       "hex_available": true,
+      "rgb": "222, 187, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -152,6 +170,7 @@
       "name": "Walnut",
       "hex": "#debba7",
       "hex_available": true,
+      "rgb": "222, 187, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -160,6 +179,7 @@
       "name": "Brown",
       "hex": "#debba7",
       "hex_available": true,
+      "rgb": "222, 187, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Multicultural-8-Set/Artists-Multicultural-8-Set.html"
     },
     {
@@ -168,6 +188,7 @@
       "name": "Orange",
       "hex": "#d1171c",
       "hex_available": true,
+      "rgb": "209, 23, 28",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -176,6 +197,7 @@
       "name": "Emerald Green",
       "hex": "#fdeb3f",
       "hex_available": true,
+      "rgb": "253, 235, 63",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -184,6 +206,7 @@
       "name": "Yellow Green",
       "hex": "#7fc900",
       "hex_available": true,
+      "rgb": "127, 201, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -192,6 +215,7 @@
       "name": "Turquoise",
       "hex": "#7fc900",
       "hex_available": true,
+      "rgb": "127, 201, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -200,6 +224,7 @@
       "name": "Violet",
       "hex": "#01abde",
       "hex_available": true,
+      "rgb": "1, 171, 222",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -208,6 +233,7 @@
       "name": "Magenta",
       "hex": "#01abde",
       "hex_available": true,
+      "rgb": "1, 171, 222",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -216,6 +242,7 @@
       "name": "Gold",
       "hex": "#0b0b0b",
       "hex_available": true,
+      "rgb": "11, 11, 11",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -224,6 +251,7 @@
       "name": "Silver",
       "hex": "#a5a6ab",
       "hex_available": true,
+      "rgb": "165, 166, 171",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Artists/Premium/Artists-Premium.html"
     },
     {
@@ -232,6 +260,7 @@
       "name": "Red",
       "hex": "#c32e41",
       "hex_available": true,
+      "rgb": "195, 46, 65",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -240,6 +269,7 @@
       "name": "Yellow",
       "hex": "#c32e41",
       "hex_available": true,
+      "rgb": "195, 46, 65",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -248,6 +278,7 @@
       "name": "Green",
       "hex": "#c32e41",
       "hex_available": true,
+      "rgb": "195, 46, 65",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -256,6 +287,7 @@
       "name": "Blue",
       "hex": "#c32e41",
       "hex_available": true,
+      "rgb": "195, 46, 65",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -264,6 +296,7 @@
       "name": "Black",
       "hex": "#0f131e",
       "hex_available": true,
+      "rgb": "15, 19, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -272,6 +305,7 @@
       "name": "White",
       "hex": "#0f131e",
       "hex_available": true,
+      "rgb": "15, 19, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Camellia/Camellia-Artist.html"
     },
     {
@@ -280,6 +314,7 @@
       "name": "Brilliant Red",
       "hex": "#ed174c",
       "hex_available": true,
+      "rgb": "237, 23, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -288,6 +323,7 @@
       "name": "Primary Red",
       "hex": "#ed174c",
       "hex_available": true,
+      "rgb": "237, 23, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -296,6 +332,7 @@
       "name": "Brilliant Orange",
       "hex": "#ed174c",
       "hex_available": true,
+      "rgb": "237, 23, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -304,6 +341,7 @@
       "name": "Brilliant Yellow",
       "hex": "#ed174c",
       "hex_available": true,
+      "rgb": "237, 23, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -312,6 +350,7 @@
       "name": "Primary Yellow",
       "hex": "#fff200",
       "hex_available": true,
+      "rgb": "255, 242, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -320,6 +359,7 @@
       "name": "Brilliant Green",
       "hex": "#fff200",
       "hex_available": true,
+      "rgb": "255, 242, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -328,6 +368,7 @@
       "name": "Brilliant Blue",
       "hex": "#fff200",
       "hex_available": true,
+      "rgb": "255, 242, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -336,6 +377,7 @@
       "name": "Cyan",
       "hex": "#fff200",
       "hex_available": true,
+      "rgb": "255, 242, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -344,6 +386,7 @@
       "name": "Purple",
       "hex": "#342a7b",
       "hex_available": true,
+      "rgb": "52, 42, 123",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -352,6 +395,7 @@
       "name": "Black",
       "hex": "#342a7b",
       "hex_available": true,
+      "rgb": "52, 42, 123",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -360,6 +404,7 @@
       "name": "Burnt Sienna",
       "hex": "#342a7b",
       "hex_available": true,
+      "rgb": "52, 42, 123",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -368,6 +413,7 @@
       "name": "White",
       "hex": "#342a7b",
       "hex_available": true,
+      "rgb": "52, 42, 123",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/Over-Sized-Discs/Color-and-Co-Over-Sized-Discs.html"
     },
     {
@@ -376,6 +422,7 @@
       "name": "Carmine",
       "hex": "#d12203",
       "hex_available": true,
+      "rgb": "209, 34, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -384,6 +431,7 @@
       "name": "Vermillion",
       "hex": "#d12203",
       "hex_available": true,
+      "rgb": "209, 34, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -392,6 +440,7 @@
       "name": "Orange",
       "hex": "#d12203",
       "hex_available": true,
+      "rgb": "209, 34, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -400,6 +449,7 @@
       "name": "Yellow Ochre",
       "hex": "#d9a81f",
       "hex_available": true,
+      "rgb": "217, 168, 31",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -408,6 +458,7 @@
       "name": "Gold Yellow",
       "hex": "#d9a81f",
       "hex_available": true,
+      "rgb": "217, 168, 31",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -416,6 +467,7 @@
       "name": "Lemon Yellow",
       "hex": "#d9a81f",
       "hex_available": true,
+      "rgb": "217, 168, 31",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -424,6 +476,7 @@
       "name": "Viridian",
       "hex": "#01982f",
       "hex_available": true,
+      "rgb": "1, 152, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -432,6 +485,7 @@
       "name": "Turquoise",
       "hex": "#01982f",
       "hex_available": true,
+      "rgb": "1, 152, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -440,6 +494,7 @@
       "name": "Ultramarine",
       "hex": "#01982f",
       "hex_available": true,
+      "rgb": "1, 152, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -448,6 +503,7 @@
       "name": "Primary Blue",
       "hex": "#0186d5",
       "hex_available": true,
+      "rgb": "1, 134, 213",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -456,6 +512,7 @@
       "name": "Violet",
       "hex": "#0186d5",
       "hex_available": true,
+      "rgb": "1, 134, 213",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -464,6 +521,7 @@
       "name": "Tyrien Rose",
       "hex": "#0186d5",
       "hex_available": true,
+      "rgb": "1, 134, 213",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School/Color-and-Co-School.html"
     },
     {
@@ -472,6 +530,7 @@
       "name": "Vermilion",
       "hex": "#ed174c",
       "hex_available": true,
+      "rgb": "237, 23, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -480,6 +539,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#e8ae10",
       "hex_available": true,
+      "rgb": "232, 174, 16",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -488,6 +548,7 @@
       "name": "Emerald Green",
       "hex": "#f7ec2f",
       "hex_available": true,
+      "rgb": "247, 236, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -496,6 +557,7 @@
       "name": "Fluorescent Green",
       "hex": "#f7ec2f",
       "hex_available": true,
+      "rgb": "247, 236, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -504,6 +566,7 @@
       "name": "Leaf Green",
       "hex": "#9bcd66",
       "hex_available": true,
+      "rgb": "155, 205, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -512,6 +575,7 @@
       "name": "Cobalt Blue Hue",
       "hex": "#9bcd66",
       "hex_available": true,
+      "rgb": "155, 205, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -520,6 +584,7 @@
       "name": "Fluorescent Blue",
       "hex": "#0081c4",
       "hex_available": true,
+      "rgb": "0, 129, 196",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -528,6 +593,7 @@
       "name": "Cerise",
       "hex": "#0081c4",
       "hex_available": true,
+      "rgb": "0, 129, 196",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -536,6 +602,7 @@
       "name": "Fluorescent Pink",
       "hex": "#ec008c",
       "hex_available": true,
+      "rgb": "236, 0, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -544,6 +611,7 @@
       "name": "Gold",
       "hex": "#ec008c",
       "hex_available": true,
+      "rgb": "236, 0, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -552,6 +620,7 @@
       "name": "Burnt Umber",
       "hex": "#ec008c",
       "hex_available": true,
+      "rgb": "236, 0, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -560,6 +629,7 @@
       "name": "Silver",
       "hex": "#7b2d19",
       "hex_available": true,
+      "rgb": "123, 45, 25",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Color-and-Co/School-Liquid/Color-and-Co-School-Liquid.html"
     },
     {
@@ -568,6 +638,7 @@
       "name": "Red",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -576,6 +647,7 @@
       "name": "Orange",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -584,6 +656,7 @@
       "name": "Yellow",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -592,6 +665,7 @@
       "name": "Green",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -600,6 +674,7 @@
       "name": "Blue",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -608,6 +683,7 @@
       "name": "Turquoise",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -616,6 +692,7 @@
       "name": "Violet",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -624,6 +701,7 @@
       "name": "Magenta",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -632,6 +710,7 @@
       "name": "Black",
       "hex": "#2d3739",
       "hex_available": true,
+      "rgb": "45, 55, 57",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -640,6 +719,7 @@
       "name": "Brown",
       "hex": "#2d3739",
       "hex_available": true,
+      "rgb": "45, 55, 57",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -648,6 +728,7 @@
       "name": "Peach",
       "hex": "#2d3739",
       "hex_available": true,
+      "rgb": "45, 55, 57",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -656,6 +737,7 @@
       "name": "White",
       "hex": "#2d3739",
       "hex_available": true,
+      "rgb": "45, 55, 57",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Artista/Crayola-Artista.html"
     },
     {
@@ -664,6 +746,7 @@
       "name": "Fluorescent Red",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -672,6 +755,7 @@
       "name": "Fluorescent Orange Yellow",
       "hex": "#d30021",
       "hex_available": true,
+      "rgb": "211, 0, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -680,6 +764,7 @@
       "name": "Fluorescent Chartreuse",
       "hex": "#ffe01c",
       "hex_available": true,
+      "rgb": "255, 224, 28",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -688,6 +773,7 @@
       "name": "Fluorescent Green",
       "hex": "#ffe01c",
       "hex_available": true,
+      "rgb": "255, 224, 28",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -696,6 +782,7 @@
       "name": "Fluorescent Blue",
       "hex": "#183da8",
       "hex_available": true,
+      "rgb": "24, 61, 168",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -704,6 +791,7 @@
       "name": "Fluorescent Pink",
       "hex": "#c22b7a",
       "hex_available": true,
+      "rgb": "194, 43, 122",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -712,6 +800,7 @@
       "name": "Silver",
       "hex": "#c22b7a",
       "hex_available": true,
+      "rgb": "194, 43, 122",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -720,6 +809,7 @@
       "name": "Gold",
       "hex": "#8a410a",
       "hex_available": true,
+      "rgb": "138, 65, 10",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Crayola/Premier/Crayola-Premier.html"
     },
     {
@@ -728,6 +818,7 @@
       "name": "Magenta",
       "hex": "#cc0033",
       "hex_available": true,
+      "rgb": "204, 0, 51",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -736,6 +827,7 @@
       "name": "Red",
       "hex": "#cc0033",
       "hex_available": true,
+      "rgb": "204, 0, 51",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -744,6 +836,7 @@
       "name": "Red Oxide",
       "hex": "#cc0033",
       "hex_available": true,
+      "rgb": "204, 0, 51",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -752,6 +845,7 @@
       "name": "Orange",
       "hex": "#cc0033",
       "hex_available": true,
+      "rgb": "204, 0, 51",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -760,6 +854,7 @@
       "name": "Ochre",
       "hex": "#fe9900",
       "hex_available": true,
+      "rgb": "254, 153, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -768,6 +863,7 @@
       "name": "Yellow",
       "hex": "#fe9900",
       "hex_available": true,
+      "rgb": "254, 153, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -776,6 +872,7 @@
       "name": "Lemon",
       "hex": "#fe9900",
       "hex_available": true,
+      "rgb": "254, 153, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -784,6 +881,7 @@
       "name": "Viridian Green",
       "hex": "#fe9900",
       "hex_available": true,
+      "rgb": "254, 153, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -792,6 +890,7 @@
       "name": "Emerald Green",
       "hex": "#046307",
       "hex_available": true,
+      "rgb": "4, 99, 7",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -800,6 +899,7 @@
       "name": "Turquoise",
       "hex": "#046307",
       "hex_available": true,
+      "rgb": "4, 99, 7",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -808,6 +908,7 @@
       "name": "Cyan Blue",
       "hex": "#046307",
       "hex_available": true,
+      "rgb": "4, 99, 7",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -816,6 +917,7 @@
       "name": "Cobalt Blue",
       "hex": "#046307",
       "hex_available": true,
+      "rgb": "4, 99, 7",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -824,6 +926,7 @@
       "name": "Violet",
       "hex": "#013366",
       "hex_available": true,
+      "rgb": "1, 51, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -832,6 +935,7 @@
       "name": "Black",
       "hex": "#013366",
       "hex_available": true,
+      "rgb": "1, 51, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -840,6 +944,7 @@
       "name": "Burnt Umber",
       "hex": "#013366",
       "hex_available": true,
+      "rgb": "1, 51, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -848,6 +953,7 @@
       "name": "White",
       "hex": "#013366",
       "hex_available": true,
+      "rgb": "1, 51, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Dala/Dala-Liquid.html"
     },
     {
@@ -856,6 +962,7 @@
       "name": "Parmanent Rose",
       "hex": "#e44d61",
       "hex_available": true,
+      "rgb": "228, 77, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -864,6 +971,7 @@
       "name": "Crimson Alizarin",
       "hex": "#e44d61",
       "hex_available": true,
+      "rgb": "228, 77, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -872,6 +980,7 @@
       "name": "Indian Red",
       "hex": "#e44d61",
       "hex_available": true,
+      "rgb": "228, 77, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -880,6 +989,7 @@
       "name": "Venetian Red",
       "hex": "#e44d61",
       "hex_available": true,
+      "rgb": "228, 77, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -888,6 +998,7 @@
       "name": "Light Red",
       "hex": "#c06334",
       "hex_available": true,
+      "rgb": "192, 99, 52",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -896,6 +1007,7 @@
       "name": "Cadmium Red Deep",
       "hex": "#c06334",
       "hex_available": true,
+      "rgb": "192, 99, 52",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -904,6 +1016,7 @@
       "name": "Cadmium Red",
       "hex": "#c06334",
       "hex_available": true,
+      "rgb": "192, 99, 52",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -912,6 +1025,7 @@
       "name": "Cadmium Orange",
       "hex": "#c06334",
       "hex_available": true,
+      "rgb": "192, 99, 52",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -920,6 +1034,7 @@
       "name": "Raw Sienna",
       "hex": "#dba746",
       "hex_available": true,
+      "rgb": "219, 167, 70",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -928,6 +1043,7 @@
       "name": "Yellow Ochre",
       "hex": "#dba746",
       "hex_available": true,
+      "rgb": "219, 167, 70",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -936,6 +1052,7 @@
       "name": "Cadmium Yellow Deep",
       "hex": "#dba746",
       "hex_available": true,
+      "rgb": "219, 167, 70",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -944,6 +1061,7 @@
       "name": "Cadmium Yellow",
       "hex": "#dba746",
       "hex_available": true,
+      "rgb": "219, 167, 70",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -952,6 +1070,7 @@
       "name": "Cadmium Yellow Pale",
       "hex": "#f8e63b",
       "hex_available": true,
+      "rgb": "248, 230, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -960,6 +1079,7 @@
       "name": "Monestial Green",
       "hex": "#f8e63b",
       "hex_available": true,
+      "rgb": "248, 230, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -968,6 +1088,7 @@
       "name": "Viridian",
       "hex": "#f8e63b",
       "hex_available": true,
+      "rgb": "248, 230, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -976,6 +1097,7 @@
       "name": "Cadmium Green",
       "hex": "#f8e63b",
       "hex_available": true,
+      "rgb": "248, 230, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -984,6 +1106,7 @@
       "name": "Monestial Blue",
       "hex": "#1e81a7",
       "hex_available": true,
+      "rgb": "30, 129, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -992,6 +1115,7 @@
       "name": "French Ultramarine",
       "hex": "#1e81a7",
       "hex_available": true,
+      "rgb": "30, 129, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1000,6 +1124,7 @@
       "name": "Cobalt Blue",
       "hex": "#1e81a7",
       "hex_available": true,
+      "rgb": "30, 129, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1008,6 +1133,7 @@
       "name": "Coeruleum",
       "hex": "#1e81a7",
       "hex_available": true,
+      "rgb": "30, 129, 167",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1016,6 +1142,7 @@
       "name": "Violet Alizarin",
       "hex": "#914f75",
       "hex_available": true,
+      "rgb": "145, 79, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1024,6 +1151,7 @@
       "name": "Ivory Black",
       "hex": "#914f75",
       "hex_available": true,
+      "rgb": "145, 79, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1032,6 +1160,7 @@
       "name": "Raw Umber",
       "hex": "#914f75",
       "hex_available": true,
+      "rgb": "145, 79, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1040,6 +1169,7 @@
       "name": "Burnt Umber",
       "hex": "#914f75",
       "hex_available": true,
+      "rgb": "145, 79, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1048,6 +1178,7 @@
       "name": "Burnt Sienna",
       "hex": "#c87336",
       "hex_available": true,
+      "rgb": "200, 115, 54",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1056,6 +1187,7 @@
       "name": "Zinc White",
       "hex": "#c87336",
       "hex_available": true,
+      "rgb": "200, 115, 54",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1064,6 +1196,7 @@
       "name": "Titanium White",
       "hex": "#c87336",
       "hex_available": true,
+      "rgb": "200, 115, 54",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Daler-Rowney/Daler-Rowney-Egg.html"
     },
     {
@@ -1072,6 +1205,7 @@
       "name": "Gold",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
     },
     {
@@ -1080,6 +1214,7 @@
       "name": "Silver",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
     },
     {
@@ -1088,6 +1223,7 @@
       "name": "Copper",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Demco/Demco-Metallic.html"
     },
     {
@@ -1096,6 +1232,7 @@
       "name": "Carmine",
       "hex": "#bc5269",
       "hex_available": true,
+      "rgb": "188, 82, 105",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1104,6 +1241,7 @@
       "name": "Vermilion",
       "hex": "#bc5269",
       "hex_available": true,
+      "rgb": "188, 82, 105",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1112,6 +1250,7 @@
       "name": "Orange",
       "hex": "#bc5269",
       "hex_available": true,
+      "rgb": "188, 82, 105",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1120,6 +1259,7 @@
       "name": "Ochre",
       "hex": "#bc5269",
       "hex_available": true,
+      "rgb": "188, 82, 105",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1128,6 +1268,7 @@
       "name": "Yellow",
       "hex": "#f2ea65",
       "hex_available": true,
+      "rgb": "242, 234, 101",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1136,6 +1277,7 @@
       "name": "Blue Green",
       "hex": "#f2ea65",
       "hex_available": true,
+      "rgb": "242, 234, 101",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1144,6 +1286,7 @@
       "name": "Yellow Green",
       "hex": "#f2ea65",
       "hex_available": true,
+      "rgb": "242, 234, 101",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1152,6 +1295,7 @@
       "name": "Blue",
       "hex": "#f2ea65",
       "hex_available": true,
+      "rgb": "242, 234, 101",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1160,6 +1304,7 @@
       "name": "Ultramarine",
       "hex": "#6d90c6",
       "hex_available": true,
+      "rgb": "109, 144, 198",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1168,6 +1313,7 @@
       "name": "Bright Blue",
       "hex": "#6d90c6",
       "hex_available": true,
+      "rgb": "109, 144, 198",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1176,6 +1322,7 @@
       "name": "Violet",
       "hex": "#6d90c6",
       "hex_available": true,
+      "rgb": "109, 144, 198",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1184,6 +1331,7 @@
       "name": "Magenta",
       "hex": "#6d90c6",
       "hex_available": true,
+      "rgb": "109, 144, 198",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1192,6 +1340,7 @@
       "name": "Red Lilac",
       "hex": "#865a97",
       "hex_available": true,
+      "rgb": "134, 90, 151",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1200,6 +1349,7 @@
       "name": "Black",
       "hex": "#865a97",
       "hex_available": true,
+      "rgb": "134, 90, 151",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1208,6 +1358,7 @@
       "name": "Burnt Sienna",
       "hex": "#865a97",
       "hex_available": true,
+      "rgb": "134, 90, 151",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1216,6 +1367,7 @@
       "name": "Burnt Umber",
       "hex": "#865a97",
       "hex_available": true,
+      "rgb": "134, 90, 151",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1224,6 +1376,7 @@
       "name": "Grey",
       "hex": "#a7a599",
       "hex_available": true,
+      "rgb": "167, 165, 153",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1232,6 +1385,7 @@
       "name": "Skin Tone",
       "hex": "#a7a599",
       "hex_available": true,
+      "rgb": "167, 165, 153",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1240,6 +1394,7 @@
       "name": "White",
       "hex": "#a7a599",
       "hex_available": true,
+      "rgb": "167, 165, 153",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Eberhard-Faber/Eberhard-Faber-Artist.html"
     },
     {
@@ -1248,6 +1403,7 @@
       "name": "Red",
       "hex": "#ed3849",
       "hex_available": true,
+      "rgb": "237, 56, 73",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1256,6 +1412,7 @@
       "name": "Carmine Red",
       "hex": "#ed3849",
       "hex_available": true,
+      "rgb": "237, 56, 73",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1264,6 +1421,7 @@
       "name": "Orange",
       "hex": "#ed3849",
       "hex_available": true,
+      "rgb": "237, 56, 73",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1272,6 +1430,7 @@
       "name": "Yellow",
       "hex": "#ed3849",
       "hex_available": true,
+      "rgb": "237, 56, 73",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1280,6 +1439,7 @@
       "name": "Blue Green",
       "hex": "#129464",
       "hex_available": true,
+      "rgb": "18, 148, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1288,6 +1448,7 @@
       "name": "Bright Green",
       "hex": "#129464",
       "hex_available": true,
+      "rgb": "18, 148, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1296,6 +1457,7 @@
       "name": "Prussian Blue",
       "hex": "#129464",
       "hex_available": true,
+      "rgb": "18, 148, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1304,6 +1466,7 @@
       "name": "Cyan Blue",
       "hex": "#129464",
       "hex_available": true,
+      "rgb": "18, 148, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1312,6 +1475,7 @@
       "name": "Violet",
       "hex": "#755892",
       "hex_available": true,
+      "rgb": "117, 88, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1320,6 +1484,7 @@
       "name": "Magenta",
       "hex": "#755892",
       "hex_available": true,
+      "rgb": "117, 88, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1328,6 +1493,7 @@
       "name": "Black",
       "hex": "#755892",
       "hex_available": true,
+      "rgb": "117, 88, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1336,6 +1502,7 @@
       "name": "Brown",
       "hex": "#755892",
       "hex_available": true,
+      "rgb": "117, 88, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1344,6 +1511,7 @@
       "name": "Ochre",
       "hex": "#e7aa71",
       "hex_available": true,
+      "rgb": "231, 170, 113",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1352,6 +1520,7 @@
       "name": "White",
       "hex": "#e7aa71",
       "hex_available": true,
+      "rgb": "231, 170, 113",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Efacolor/Efacolor-School.html"
     },
     {
@@ -1360,6 +1529,7 @@
       "name": "Red",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1368,6 +1538,7 @@
       "name": "Orange",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1376,6 +1547,7 @@
       "name": "Yellow",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1384,6 +1556,7 @@
       "name": "Green",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1392,6 +1565,7 @@
       "name": "Blue",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1400,6 +1574,7 @@
       "name": "Violet",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1408,6 +1583,7 @@
       "name": "Magenta",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1416,6 +1592,7 @@
       "name": "Black",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1424,6 +1601,7 @@
       "name": "Brown",
       "hex": "#815100",
       "hex_available": true,
+      "rgb": "129, 81, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1432,6 +1610,7 @@
       "name": "White",
       "hex": "#815100",
       "hex_available": true,
+      "rgb": "129, 81, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Elmers/Elmers-Washable.html"
     },
     {
@@ -1440,6 +1619,7 @@
       "name": "Burgundy",
       "hex": "#97232e",
       "hex_available": true,
+      "rgb": "151, 35, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1448,6 +1628,7 @@
       "name": "Crimson",
       "hex": "#97232e",
       "hex_available": true,
+      "rgb": "151, 35, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1456,6 +1637,7 @@
       "name": "Brilliant Red",
       "hex": "#97232e",
       "hex_available": true,
+      "rgb": "151, 35, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1464,6 +1646,7 @@
       "name": "Fluorescent Red",
       "hex": "#97232e",
       "hex_available": true,
+      "rgb": "151, 35, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1472,6 +1655,7 @@
       "name": "Metallic Rose Red",
       "hex": "#f24e1b",
       "hex_available": true,
+      "rgb": "242, 78, 27",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1480,6 +1664,7 @@
       "name": "Fluorescent Orange",
       "hex": "#f24e1b",
       "hex_available": true,
+      "rgb": "242, 78, 27",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1488,6 +1673,7 @@
       "name": "Orange",
       "hex": "#f24e1b",
       "hex_available": true,
+      "rgb": "242, 78, 27",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1496,6 +1682,7 @@
       "name": "Deep Yellow",
       "hex": "#f24e1b",
       "hex_available": true,
+      "rgb": "242, 78, 27",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1504,6 +1691,7 @@
       "name": "Yellow",
       "hex": "#f4f00b",
       "hex_available": true,
+      "rgb": "244, 240, 11",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1512,6 +1700,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#f4f00b",
       "hex_available": true,
+      "rgb": "244, 240, 11",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1520,6 +1709,7 @@
       "name": "Green",
       "hex": "#f4f00b",
       "hex_available": true,
+      "rgb": "244, 240, 11",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1528,6 +1718,7 @@
       "name": "Metallic Green",
       "hex": "#f4f00b",
       "hex_available": true,
+      "rgb": "244, 240, 11",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1536,6 +1727,7 @@
       "name": "Leaf",
       "hex": "#4ea837",
       "hex_available": true,
+      "rgb": "78, 168, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1544,6 +1736,7 @@
       "name": "Fluorescent Green",
       "hex": "#4ea837",
       "hex_available": true,
+      "rgb": "78, 168, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1552,6 +1745,7 @@
       "name": "Ultra",
       "hex": "#4ea837",
       "hex_available": true,
+      "rgb": "78, 168, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1560,6 +1754,7 @@
       "name": "Blue",
       "hex": "#4ea837",
       "hex_available": true,
+      "rgb": "78, 168, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1568,6 +1763,7 @@
       "name": "Fluorescent Blue",
       "hex": "#0463cd",
       "hex_available": true,
+      "rgb": "4, 99, 205",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1576,6 +1772,7 @@
       "name": "Metallic Blue",
       "hex": "#0463cd",
       "hex_available": true,
+      "rgb": "4, 99, 205",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1584,6 +1781,7 @@
       "name": "Cobalt",
       "hex": "#0463cd",
       "hex_available": true,
+      "rgb": "4, 99, 205",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1592,6 +1790,7 @@
       "name": "Violet",
       "hex": "#0463cd",
       "hex_available": true,
+      "rgb": "4, 99, 205",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1600,6 +1799,7 @@
       "name": "Fluorescent Magenta",
       "hex": "#f501ae",
       "hex_available": true,
+      "rgb": "245, 1, 174",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1608,6 +1808,7 @@
       "name": "Fluorescent Pink",
       "hex": "#f501ae",
       "hex_available": true,
+      "rgb": "245, 1, 174",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1616,6 +1817,7 @@
       "name": "New Bright Pink",
       "hex": "#f501ae",
       "hex_available": true,
+      "rgb": "245, 1, 174",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1624,6 +1826,7 @@
       "name": "Black",
       "hex": "#f501ae",
       "hex_available": true,
+      "rgb": "245, 1, 174",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1632,6 +1835,7 @@
       "name": "Umber",
       "hex": "#6d392c",
       "hex_available": true,
+      "rgb": "109, 57, 44",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1640,6 +1844,7 @@
       "name": "Metallic Copper",
       "hex": "#6d392c",
       "hex_available": true,
+      "rgb": "109, 57, 44",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1648,6 +1853,7 @@
       "name": "Metallic Rich Gold",
       "hex": "#6d392c",
       "hex_available": true,
+      "rgb": "109, 57, 44",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1656,6 +1862,7 @@
       "name": "Ochre",
       "hex": "#6d392c",
       "hex_available": true,
+      "rgb": "109, 57, 44",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1664,6 +1871,7 @@
       "name": "Metallic Pale Gold",
       "hex": "#ffcb66",
       "hex_available": true,
+      "rgb": "255, 203, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1672,6 +1880,7 @@
       "name": "Metallic Silver",
       "hex": "#ffcb66",
       "hex_available": true,
+      "rgb": "255, 203, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1680,6 +1889,7 @@
       "name": "White",
       "hex": "#ffcb66",
       "hex_available": true,
+      "rgb": "255, 203, 102",
       "source_url": "http://www.art-paints.com/Paints/Tempera/FAS/FAS-Super.html"
     },
     {
@@ -1688,6 +1898,7 @@
       "name": "Red",
       "hex": "#b50035",
       "hex_available": true,
+      "rgb": "181, 0, 53",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1696,6 +1907,7 @@
       "name": "Fluorescent Red",
       "hex": "#b50035",
       "hex_available": true,
+      "rgb": "181, 0, 53",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1704,6 +1916,7 @@
       "name": "Orange",
       "hex": "#b50035",
       "hex_available": true,
+      "rgb": "181, 0, 53",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1712,6 +1925,7 @@
       "name": "Fluorescent Orange",
       "hex": "#b50035",
       "hex_available": true,
+      "rgb": "181, 0, 53",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1720,6 +1934,7 @@
       "name": "Metallic Gold",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1728,6 +1943,7 @@
       "name": "Yellow",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1736,6 +1952,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1744,6 +1961,7 @@
       "name": "Green",
       "hex": "#ecd960",
       "hex_available": true,
+      "rgb": "236, 217, 96",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1752,6 +1970,7 @@
       "name": "Fluorescent Green",
       "hex": "#19943a",
       "hex_available": true,
+      "rgb": "25, 148, 58",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1760,6 +1979,7 @@
       "name": "Ultra Blue",
       "hex": "#19943a",
       "hex_available": true,
+      "rgb": "25, 148, 58",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1768,6 +1988,7 @@
       "name": "Fluorescent Blue",
       "hex": "#19943a",
       "hex_available": true,
+      "rgb": "25, 148, 58",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1776,6 +1997,7 @@
       "name": "Purple",
       "hex": "#19943a",
       "hex_available": true,
+      "rgb": "25, 148, 58",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1784,6 +2006,7 @@
       "name": "Fluorescent Pink",
       "hex": "#e82b92",
       "hex_available": true,
+      "rgb": "232, 43, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1792,6 +2015,7 @@
       "name": "Black",
       "hex": "#e82b92",
       "hex_available": true,
+      "rgb": "232, 43, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1800,6 +2024,7 @@
       "name": "Brown",
       "hex": "#e82b92",
       "hex_available": true,
+      "rgb": "232, 43, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1808,6 +2033,7 @@
       "name": "Metallic Silver",
       "hex": "#e82b92",
       "hex_available": true,
+      "rgb": "232, 43, 146",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1816,6 +2042,7 @@
       "name": "White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Artist/Funstuff-Artist.html"
     },
     {
@@ -1824,6 +2051,7 @@
       "name": "Crimson",
       "hex": "#932727",
       "hex_available": true,
+      "rgb": "147, 39, 39",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1832,6 +2060,7 @@
       "name": "Burnt Sienna",
       "hex": "#932727",
       "hex_available": true,
+      "rgb": "147, 39, 39",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1840,6 +2069,7 @@
       "name": "Brilliant Red",
       "hex": "#932727",
       "hex_available": true,
+      "rgb": "147, 39, 39",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1848,6 +2078,7 @@
       "name": "Yellow Ochre",
       "hex": "#bf9600",
       "hex_available": true,
+      "rgb": "191, 150, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1856,6 +2087,7 @@
       "name": "Brilliant Yellow",
       "hex": "#bf9600",
       "hex_available": true,
+      "rgb": "191, 150, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1864,6 +2096,7 @@
       "name": "Brilliant Green",
       "hex": "#bf9600",
       "hex_available": true,
+      "rgb": "191, 150, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1872,6 +2105,7 @@
       "name": "Leaf Green",
       "hex": "#bf9600",
       "hex_available": true,
+      "rgb": "191, 150, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1880,6 +2114,7 @@
       "name": "Cobalt Blue",
       "hex": "#100f75",
       "hex_available": true,
+      "rgb": "16, 15, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1888,6 +2123,7 @@
       "name": "Brilliant Blue",
       "hex": "#100f75",
       "hex_available": true,
+      "rgb": "16, 15, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1896,6 +2132,7 @@
       "name": "Turquoise",
       "hex": "#100f75",
       "hex_available": true,
+      "rgb": "16, 15, 117",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1904,6 +2141,7 @@
       "name": "Burnt Umber",
       "hex": "#010101",
       "hex_available": true,
+      "rgb": "1, 1, 1",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Funstuff/Blocks/Funstuff-Blocks.html"
     },
     {
@@ -1912,6 +2150,7 @@
       "name": "Carmine Red",
       "hex": "#d00018",
       "hex_available": true,
+      "rgb": "208, 0, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1920,6 +2159,7 @@
       "name": "Primary Red",
       "hex": "#d00018",
       "hex_available": true,
+      "rgb": "208, 0, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1928,6 +2168,7 @@
       "name": "Vermilion",
       "hex": "#d00018",
       "hex_available": true,
+      "rgb": "208, 0, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1936,6 +2177,7 @@
       "name": "Orange",
       "hex": "#d00018",
       "hex_available": true,
+      "rgb": "208, 0, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1944,6 +2186,7 @@
       "name": "Gold Orange",
       "hex": "#f6a800",
       "hex_available": true,
+      "rgb": "246, 168, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1952,6 +2195,7 @@
       "name": "Bright Ochre",
       "hex": "#f6a800",
       "hex_available": true,
+      "rgb": "246, 168, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1960,6 +2204,7 @@
       "name": "Primary Yellow",
       "hex": "#f6a800",
       "hex_available": true,
+      "rgb": "246, 168, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1968,6 +2213,7 @@
       "name": "Dark Green",
       "hex": "#f6a800",
       "hex_available": true,
+      "rgb": "246, 168, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1976,6 +2222,7 @@
       "name": "Bright Green",
       "hex": "#97bf0f",
       "hex_available": true,
+      "rgb": "151, 191, 15",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1984,6 +2231,7 @@
       "name": "Dark Blue",
       "hex": "#97bf0f",
       "hex_available": true,
+      "rgb": "151, 191, 15",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -1992,6 +2240,7 @@
       "name": "Primary Blue",
       "hex": "#97bf0f",
       "hex_available": true,
+      "rgb": "151, 191, 15",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2000,6 +2249,7 @@
       "name": "Violet",
       "hex": "#97bf0f",
       "hex_available": true,
+      "rgb": "151, 191, 15",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2008,6 +2258,7 @@
       "name": "Black",
       "hex": "#0b0f10",
       "hex_available": true,
+      "rgb": "11, 15, 16",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2016,6 +2267,7 @@
       "name": "Brown",
       "hex": "#0b0f10",
       "hex_available": true,
+      "rgb": "11, 15, 16",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2024,6 +2276,7 @@
       "name": "Grey",
       "hex": "#0b0f10",
       "hex_available": true,
+      "rgb": "11, 15, 16",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2032,6 +2285,7 @@
       "name": "White",
       "hex": "#0b0f10",
       "hex_available": true,
+      "rgb": "11, 15, 16",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Gerstaecker/Gerstaecker-School.html"
     },
     {
@@ -2040,6 +2294,7 @@
       "name": "Red",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2048,6 +2303,7 @@
       "name": "Orange",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2056,6 +2312,7 @@
       "name": "Peach",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2064,6 +2321,7 @@
       "name": "Yellow",
       "hex": "#ee3f5e",
       "hex_available": true,
+      "rgb": "238, 63, 94",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2072,6 +2330,7 @@
       "name": "Green",
       "hex": "#39b285",
       "hex_available": true,
+      "rgb": "57, 178, 133",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2080,6 +2339,7 @@
       "name": "Turquoise",
       "hex": "#39b285",
       "hex_available": true,
+      "rgb": "57, 178, 133",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2088,6 +2348,7 @@
       "name": "Blue",
       "hex": "#39b285",
       "hex_available": true,
+      "rgb": "57, 178, 133",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2096,6 +2357,7 @@
       "name": "Violet",
       "hex": "#39b285",
       "hex_available": true,
+      "rgb": "57, 178, 133",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2104,6 +2366,7 @@
       "name": "Magenta",
       "hex": "#d641a9",
       "hex_available": true,
+      "rgb": "214, 65, 169",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2112,6 +2375,7 @@
       "name": "Black",
       "hex": "#d641a9",
       "hex_available": true,
+      "rgb": "214, 65, 169",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2120,6 +2384,7 @@
       "name": "Brown",
       "hex": "#d641a9",
       "hex_available": true,
+      "rgb": "214, 65, 169",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2128,6 +2393,7 @@
       "name": "White",
       "hex": "#d641a9",
       "hex_available": true,
+      "rgb": "214, 65, 169",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Handy-Art/Handy-Art-Washable.html"
     },
     {
@@ -2136,6 +2402,7 @@
       "name": "Red",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2144,6 +2411,7 @@
       "name": "Fluorescent Red",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2152,6 +2420,7 @@
       "name": "Orange",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2160,6 +2429,7 @@
       "name": "Fluorescent Orange",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2168,6 +2438,7 @@
       "name": "Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2176,6 +2447,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2184,6 +2456,7 @@
       "name": "Green",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2192,6 +2465,7 @@
       "name": "Fluorescent Green",
       "hex": "#ffff01",
       "hex_available": true,
+      "rgb": "255, 255, 1",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2200,6 +2474,7 @@
       "name": "Blue",
       "hex": "#307abb",
       "hex_available": true,
+      "rgb": "48, 122, 187",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2208,6 +2483,7 @@
       "name": "Fluorescent Blue",
       "hex": "#307abb",
       "hex_available": true,
+      "rgb": "48, 122, 187",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2216,6 +2492,7 @@
       "name": "Ultra Blue",
       "hex": "#307abb",
       "hex_available": true,
+      "rgb": "48, 122, 187",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2224,6 +2501,7 @@
       "name": "Violet",
       "hex": "#307abb",
       "hex_available": true,
+      "rgb": "48, 122, 187",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2232,6 +2510,7 @@
       "name": "Fluorescent Purple",
       "hex": "#9c0086",
       "hex_available": true,
+      "rgb": "156, 0, 134",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2240,6 +2519,7 @@
       "name": "Fluorescent Pink",
       "hex": "#9c0086",
       "hex_available": true,
+      "rgb": "156, 0, 134",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2248,6 +2528,7 @@
       "name": "Black",
       "hex": "#9c0086",
       "hex_available": true,
+      "rgb": "156, 0, 134",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2256,6 +2537,7 @@
       "name": "Brown",
       "hex": "#9c0086",
       "hex_available": true,
+      "rgb": "156, 0, 134",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2264,6 +2546,7 @@
       "name": "Metallic Copper",
       "hex": "#a24921",
       "hex_available": true,
+      "rgb": "162, 73, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2272,6 +2555,7 @@
       "name": "Metallic Gold",
       "hex": "#a24921",
       "hex_available": true,
+      "rgb": "162, 73, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2280,6 +2564,7 @@
       "name": "Metallic Silver",
       "hex": "#a24921",
       "hex_available": true,
+      "rgb": "162, 73, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2288,6 +2573,7 @@
       "name": "White",
       "hex": "#a24921",
       "hex_available": true,
+      "rgb": "162, 73, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2296,6 +2582,7 @@
       "name": "Metallic Pearl",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Jazz-Gloss/Jazz-Gloss-Colors.html"
     },
     {
@@ -2304,6 +2591,7 @@
       "name": "Red",
       "hex": "#ff3e53",
       "hex_available": true,
+      "rgb": "255, 62, 83",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2312,6 +2600,7 @@
       "name": "Orange",
       "hex": "#ff3e53",
       "hex_available": true,
+      "rgb": "255, 62, 83",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2320,6 +2609,7 @@
       "name": "Yellow",
       "hex": "#ff3e53",
       "hex_available": true,
+      "rgb": "255, 62, 83",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2328,6 +2618,7 @@
       "name": "Green",
       "hex": "#ff3e53",
       "hex_available": true,
+      "rgb": "255, 62, 83",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2336,6 +2627,7 @@
       "name": "Blue",
       "hex": "#5181b1",
       "hex_available": true,
+      "rgb": "81, 129, 177",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2344,6 +2636,7 @@
       "name": "Purple",
       "hex": "#5181b1",
       "hex_available": true,
+      "rgb": "81, 129, 177",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2352,6 +2645,7 @@
       "name": "Brown",
       "hex": "#5181b1",
       "hex_available": true,
+      "rgb": "81, 129, 177",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2360,6 +2654,7 @@
       "name": "Black",
       "hex": "#5181b1",
       "hex_available": true,
+      "rgb": "81, 129, 177",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2368,6 +2663,7 @@
       "name": "White",
       "hex": "#f5fafc",
       "hex_available": true,
+      "rgb": "245, 250, 252",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Kaplan/Artist/Kaplan-Artist.html"
     },
     {
@@ -2376,6 +2672,7 @@
       "name": "English Red",
       "hex": "#862721",
       "hex_available": true,
+      "rgb": "134, 39, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2384,6 +2681,7 @@
       "name": "Carmine",
       "hex": "#862721",
       "hex_available": true,
+      "rgb": "134, 39, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2392,6 +2690,7 @@
       "name": "Bright Red",
       "hex": "#862721",
       "hex_available": true,
+      "rgb": "134, 39, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2400,6 +2699,7 @@
       "name": "Vermilion",
       "hex": "#862721",
       "hex_available": true,
+      "rgb": "134, 39, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2408,6 +2708,7 @@
       "name": "Orange",
       "hex": "#ee690e",
       "hex_available": true,
+      "rgb": "238, 105, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2416,6 +2717,7 @@
       "name": "Ochre",
       "hex": "#ee690e",
       "hex_available": true,
+      "rgb": "238, 105, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2424,6 +2726,7 @@
       "name": "Golden Yellow",
       "hex": "#ee690e",
       "hex_available": true,
+      "rgb": "238, 105, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2432,6 +2735,7 @@
       "name": "Lemon Yellow",
       "hex": "#ee690e",
       "hex_available": true,
+      "rgb": "238, 105, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2440,6 +2744,7 @@
       "name": "Emerald Green",
       "hex": "#00653d",
       "hex_available": true,
+      "rgb": "0, 101, 61",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2448,6 +2753,7 @@
       "name": "Brilliant Green",
       "hex": "#00653d",
       "hex_available": true,
+      "rgb": "0, 101, 61",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2456,6 +2762,7 @@
       "name": "Veronese Green",
       "hex": "#00653d",
       "hex_available": true,
+      "rgb": "0, 101, 61",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2464,6 +2771,7 @@
       "name": "Green Yellow",
       "hex": "#00653d",
       "hex_available": true,
+      "rgb": "0, 101, 61",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2472,6 +2780,7 @@
       "name": "Turquoise Blue",
       "hex": "#019fba",
       "hex_available": true,
+      "rgb": "1, 159, 186",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2480,6 +2789,7 @@
       "name": "Prussian Blue",
       "hex": "#019fba",
       "hex_available": true,
+      "rgb": "1, 159, 186",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2488,6 +2798,7 @@
       "name": "Ultramarine Blue",
       "hex": "#019fba",
       "hex_available": true,
+      "rgb": "1, 159, 186",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2496,6 +2807,7 @@
       "name": "Cobalt Blue",
       "hex": "#019fba",
       "hex_available": true,
+      "rgb": "1, 159, 186",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2504,6 +2816,7 @@
       "name": "Light Blue",
       "hex": "#83add7",
       "hex_available": true,
+      "rgb": "131, 173, 215",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2512,6 +2825,7 @@
       "name": "Red Violet",
       "hex": "#83add7",
       "hex_available": true,
+      "rgb": "131, 173, 215",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2520,6 +2834,7 @@
       "name": "Purple Red",
       "hex": "#83add7",
       "hex_available": true,
+      "rgb": "131, 173, 215",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2528,6 +2843,7 @@
       "name": "Magenta",
       "hex": "#83add7",
       "hex_available": true,
+      "rgb": "131, 173, 215",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2536,6 +2852,7 @@
       "name": "Rose",
       "hex": "#f09abf",
       "hex_available": true,
+      "rgb": "240, 154, 191",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2544,6 +2861,7 @@
       "name": "Black",
       "hex": "#f09abf",
       "hex_available": true,
+      "rgb": "240, 154, 191",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2552,6 +2870,7 @@
       "name": "Natural Umber",
       "hex": "#f09abf",
       "hex_available": true,
+      "rgb": "240, 154, 191",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2560,6 +2879,7 @@
       "name": "Dark Brown",
       "hex": "#f09abf",
       "hex_available": true,
+      "rgb": "240, 154, 191",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2568,6 +2888,7 @@
       "name": "Light Brown",
       "hex": "#512f23",
       "hex_available": true,
+      "rgb": "81, 47, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2576,6 +2897,7 @@
       "name": "Bordeaux",
       "hex": "#512f23",
       "hex_available": true,
+      "rgb": "81, 47, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2584,6 +2906,7 @@
       "name": "Light Grey",
       "hex": "#512f23",
       "hex_available": true,
+      "rgb": "81, 47, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2592,6 +2915,7 @@
       "name": "Beige",
       "hex": "#512f23",
       "hex_available": true,
+      "rgb": "81, 47, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2600,6 +2924,7 @@
       "name": "White",
       "hex": "#f5ecec",
       "hex_available": true,
+      "rgb": "245, 236, 236",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Lascaux/Lascaux-Decora.html"
     },
     {
@@ -2608,6 +2933,7 @@
       "name": "Magenta Red",
       "hex": "#d30068",
       "hex_available": true,
+      "rgb": "211, 0, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2616,6 +2942,7 @@
       "name": "Vermillion",
       "hex": "#d30068",
       "hex_available": true,
+      "rgb": "211, 0, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2624,6 +2951,7 @@
       "name": "Orange",
       "hex": "#d30068",
       "hex_available": true,
+      "rgb": "211, 0, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2632,6 +2960,7 @@
       "name": "Yellow Ochre",
       "hex": "#d30068",
       "hex_available": true,
+      "rgb": "211, 0, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2640,6 +2969,7 @@
       "name": "Yellow",
       "hex": "#f7f500",
       "hex_available": true,
+      "rgb": "247, 245, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2648,6 +2978,7 @@
       "name": "Yellow Green",
       "hex": "#f7f500",
       "hex_available": true,
+      "rgb": "247, 245, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2656,6 +2987,7 @@
       "name": "Blue Green",
       "hex": "#f7f500",
       "hex_available": true,
+      "rgb": "247, 245, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2664,6 +2996,7 @@
       "name": "Cyan Blue",
       "hex": "#f7f500",
       "hex_available": true,
+      "rgb": "247, 245, 0",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2672,6 +3005,7 @@
       "name": "Ultramarine",
       "hex": "#344998",
       "hex_available": true,
+      "rgb": "52, 73, 152",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2680,6 +3014,7 @@
       "name": "Violet",
       "hex": "#344998",
       "hex_available": true,
+      "rgb": "52, 73, 152",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2688,6 +3023,7 @@
       "name": "Black",
       "hex": "#344998",
       "hex_available": true,
+      "rgb": "52, 73, 152",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2696,6 +3032,7 @@
       "name": "Burnt Sienna",
       "hex": "#344998",
       "hex_available": true,
+      "rgb": "52, 73, 152",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2704,6 +3041,7 @@
       "name": "Opaque White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Nerchau/Nerchau-School.html"
     },
     {
@@ -2712,6 +3050,7 @@
       "name": "Red",
       "hex": "#8b353e",
       "hex_available": true,
+      "rgb": "139, 53, 62",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2720,6 +3059,7 @@
       "name": "Flourescent Red",
       "hex": "#8b353e",
       "hex_available": true,
+      "rgb": "139, 53, 62",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2728,6 +3068,7 @@
       "name": "Pearlescent Red",
       "hex": "#8b353e",
       "hex_available": true,
+      "rgb": "139, 53, 62",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2736,6 +3077,7 @@
       "name": "Orange",
       "hex": "#8b353e",
       "hex_available": true,
+      "rgb": "139, 53, 62",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2744,6 +3086,7 @@
       "name": "Flourescent Orange",
       "hex": "#cf5b1e",
       "hex_available": true,
+      "rgb": "207, 91, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2752,6 +3095,7 @@
       "name": "Peach",
       "hex": "#cf5b1e",
       "hex_available": true,
+      "rgb": "207, 91, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2760,6 +3104,7 @@
       "name": "Pearlescent Gold",
       "hex": "#cf5b1e",
       "hex_available": true,
+      "rgb": "207, 91, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2768,6 +3113,7 @@
       "name": "Pearlescent Yellow",
       "hex": "#cf5b1e",
       "hex_available": true,
+      "rgb": "207, 91, 30",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2776,6 +3122,7 @@
       "name": "Yellow",
       "hex": "#f1dc09",
       "hex_available": true,
+      "rgb": "241, 220, 9",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2784,6 +3131,7 @@
       "name": "Flourescent Yellow",
       "hex": "#f1dc09",
       "hex_available": true,
+      "rgb": "241, 220, 9",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2792,6 +3140,7 @@
       "name": "Pearlescent Orange",
       "hex": "#f1dc09",
       "hex_available": true,
+      "rgb": "241, 220, 9",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2800,6 +3149,7 @@
       "name": "Pearlescent Peach",
       "hex": "#f1dc09",
       "hex_available": true,
+      "rgb": "241, 220, 9",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2808,6 +3158,7 @@
       "name": "Green",
       "hex": "#338847",
       "hex_available": true,
+      "rgb": "51, 136, 71",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2816,6 +3167,7 @@
       "name": "Flourescent Green",
       "hex": "#338847",
       "hex_available": true,
+      "rgb": "51, 136, 71",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2824,6 +3176,7 @@
       "name": "Pearlescent Green",
       "hex": "#338847",
       "hex_available": true,
+      "rgb": "51, 136, 71",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2832,6 +3185,7 @@
       "name": "Pearlescent Turquoise",
       "hex": "#338847",
       "hex_available": true,
+      "rgb": "51, 136, 71",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2840,6 +3194,7 @@
       "name": "Ultra Blue",
       "hex": "#2f2268",
       "hex_available": true,
+      "rgb": "47, 34, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2848,6 +3203,7 @@
       "name": "Blue",
       "hex": "#2f2268",
       "hex_available": true,
+      "rgb": "47, 34, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2856,6 +3212,7 @@
       "name": "Pearlescent Blue",
       "hex": "#2f2268",
       "hex_available": true,
+      "rgb": "47, 34, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2864,6 +3221,7 @@
       "name": "Flourescent Blue",
       "hex": "#2f2268",
       "hex_available": true,
+      "rgb": "47, 34, 104",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2872,6 +3230,7 @@
       "name": "Violet",
       "hex": "#684b61",
       "hex_available": true,
+      "rgb": "104, 75, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2880,6 +3239,7 @@
       "name": "Pearlescent Violet",
       "hex": "#684b61",
       "hex_available": true,
+      "rgb": "104, 75, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2888,6 +3248,7 @@
       "name": "Pearlescent Magenta",
       "hex": "#684b61",
       "hex_available": true,
+      "rgb": "104, 75, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2896,6 +3257,7 @@
       "name": "Magenta",
       "hex": "#684b61",
       "hex_available": true,
+      "rgb": "104, 75, 97",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2904,6 +3266,7 @@
       "name": "Flourescent Pink",
       "hex": "#de5c64",
       "hex_available": true,
+      "rgb": "222, 92, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2912,6 +3275,7 @@
       "name": "Black",
       "hex": "#de5c64",
       "hex_available": true,
+      "rgb": "222, 92, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2920,6 +3284,7 @@
       "name": "Pearlescent Black",
       "hex": "#de5c64",
       "hex_available": true,
+      "rgb": "222, 92, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2928,6 +3293,7 @@
       "name": "Turquoise",
       "hex": "#de5c64",
       "hex_available": true,
+      "rgb": "222, 92, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2936,6 +3302,7 @@
       "name": "Brown",
       "hex": "#871804",
       "hex_available": true,
+      "rgb": "135, 24, 4",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2944,6 +3311,7 @@
       "name": "Pearlescent Brown",
       "hex": "#871804",
       "hex_available": true,
+      "rgb": "135, 24, 4",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2952,6 +3320,7 @@
       "name": "Pearlescent Copper",
       "hex": "#871804",
       "hex_available": true,
+      "rgb": "135, 24, 4",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2960,6 +3329,7 @@
       "name": "Pearlescent Silver",
       "hex": "#871804",
       "hex_available": true,
+      "rgb": "135, 24, 4",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2968,6 +3338,7 @@
       "name": "Pearlescent White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2976,6 +3347,7 @@
       "name": "White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Pearl/Pearl-Designer.html"
     },
     {
@@ -2984,6 +3356,7 @@
       "name": "Red",
       "hex": "#c90223",
       "hex_available": true,
+      "rgb": "201, 2, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -2992,6 +3365,7 @@
       "name": "Yellow",
       "hex": "#c90223",
       "hex_available": true,
+      "rgb": "201, 2, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -3000,6 +3374,7 @@
       "name": "Green",
       "hex": "#c90223",
       "hex_available": true,
+      "rgb": "201, 2, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -3008,6 +3383,7 @@
       "name": "Blue",
       "hex": "#c90223",
       "hex_available": true,
+      "rgb": "201, 2, 35",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -3016,6 +3392,7 @@
       "name": "Black",
       "hex": "#050505",
       "hex_available": true,
+      "rgb": "5, 5, 5",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -3024,6 +3401,7 @@
       "name": "White",
       "hex": "#050505",
       "hex_available": true,
+      "rgb": "5, 5, 5",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Artist-6-Set/Prang-Artist-6-Set.html"
     },
     {
@@ -3032,6 +3410,7 @@
       "name": "Orange",
       "hex": "#e80028",
       "hex_available": true,
+      "rgb": "232, 0, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3040,6 +3419,7 @@
       "name": "Turquoise Blue",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3048,6 +3428,7 @@
       "name": "Violet",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3056,6 +3437,7 @@
       "name": "Magenta",
       "hex": "#087ad3",
       "hex_available": true,
+      "rgb": "8, 122, 211",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3064,6 +3446,7 @@
       "name": "Brown",
       "hex": "#3b5264",
       "hex_available": true,
+      "rgb": "59, 82, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3072,6 +3455,7 @@
       "name": "Peach",
       "hex": "#3b5264",
       "hex_available": true,
+      "rgb": "59, 82, 100",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ready-To-Use/Prang-Ready-To-Use.html"
     },
     {
@@ -3080,6 +3464,7 @@
       "name": "Glitter Red",
       "hex": "#ef092f",
       "hex_available": true,
+      "rgb": "239, 9, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3088,6 +3473,7 @@
       "name": "Metallic Red",
       "hex": "#ef092f",
       "hex_available": true,
+      "rgb": "239, 9, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3096,6 +3482,7 @@
       "name": "Metallic Orange",
       "hex": "#ef092f",
       "hex_available": true,
+      "rgb": "239, 9, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3104,6 +3491,7 @@
       "name": "Metallic Copper",
       "hex": "#ef092f",
       "hex_available": true,
+      "rgb": "239, 9, 47",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3112,6 +3500,7 @@
       "name": "Metallic Yellow",
       "hex": "#fcee57",
       "hex_available": true,
+      "rgb": "252, 238, 87",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3120,6 +3509,7 @@
       "name": "Metallic Green",
       "hex": "#fcee57",
       "hex_available": true,
+      "rgb": "252, 238, 87",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3128,6 +3518,7 @@
       "name": "Glitter Green",
       "hex": "#fcee57",
       "hex_available": true,
+      "rgb": "252, 238, 87",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3136,6 +3527,7 @@
       "name": "Glitter Blue",
       "hex": "#fcee57",
       "hex_available": true,
+      "rgb": "252, 238, 87",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3144,6 +3536,7 @@
       "name": "Metallic Blue",
       "hex": "#00baeb",
       "hex_available": true,
+      "rgb": "0, 186, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3152,6 +3545,7 @@
       "name": "Metallic Violet",
       "hex": "#00baeb",
       "hex_available": true,
+      "rgb": "0, 186, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3160,6 +3554,7 @@
       "name": "Glitter Magenta",
       "hex": "#00baeb",
       "hex_available": true,
+      "rgb": "0, 186, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3168,6 +3563,7 @@
       "name": "Glitter Gold",
       "hex": "#00baeb",
       "hex_available": true,
+      "rgb": "0, 186, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3176,6 +3572,7 @@
       "name": "Metallic Gold",
       "hex": "#ccba8c",
       "hex_available": true,
+      "rgb": "204, 186, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3184,6 +3581,7 @@
       "name": "Metallic Silver",
       "hex": "#ccba8c",
       "hex_available": true,
+      "rgb": "204, 186, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3192,6 +3590,7 @@
       "name": "Glitter Silver",
       "hex": "#ccba8c",
       "hex_available": true,
+      "rgb": "204, 186, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3200,6 +3599,7 @@
       "name": "Metallic White",
       "hex": "#ccba8c",
       "hex_available": true,
+      "rgb": "204, 186, 140",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Prang/Ultra-Washable/Prang-Ultra-Washable.html"
     },
     {
@@ -3208,6 +3608,7 @@
       "name": "Brilliant Red",
       "hex": "#ff000e",
       "hex_available": true,
+      "rgb": "255, 0, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3216,6 +3617,7 @@
       "name": "Brilliant Orange",
       "hex": "#ff000e",
       "hex_available": true,
+      "rgb": "255, 0, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3224,6 +3626,7 @@
       "name": "Brilliant Yellow",
       "hex": "#ff000e",
       "hex_available": true,
+      "rgb": "255, 0, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3232,6 +3635,7 @@
       "name": "Lemon Yellow",
       "hex": "#ff000e",
       "hex_available": true,
+      "rgb": "255, 0, 14",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3240,6 +3644,7 @@
       "name": "Brilliant Green",
       "hex": "#40a629",
       "hex_available": true,
+      "rgb": "64, 166, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3248,6 +3653,7 @@
       "name": "Brilliant Blue",
       "hex": "#40a629",
       "hex_available": true,
+      "rgb": "64, 166, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3256,6 +3662,7 @@
       "name": "Cyan",
       "hex": "#40a629",
       "hex_available": true,
+      "rgb": "64, 166, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3264,6 +3671,7 @@
       "name": "Purple",
       "hex": "#40a629",
       "hex_available": true,
+      "rgb": "64, 166, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3272,6 +3680,7 @@
       "name": "Crimson",
       "hex": "#b9027e",
       "hex_available": true,
+      "rgb": "185, 2, 126",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3280,6 +3689,7 @@
       "name": "Black",
       "hex": "#b9027e",
       "hex_available": true,
+      "rgb": "185, 2, 126",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3288,6 +3698,7 @@
       "name": "Burnt Sienna",
       "hex": "#b9027e",
       "hex_available": true,
+      "rgb": "185, 2, 126",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3296,6 +3707,7 @@
       "name": "White",
       "hex": "#b9027e",
       "hex_available": true,
+      "rgb": "185, 2, 126",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Reeves/Reeves-Artist.html"
     },
     {
@@ -3304,6 +3716,7 @@
       "name": "Red",
       "hex": "#e52125",
       "hex_available": true,
+      "rgb": "229, 33, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3312,6 +3725,7 @@
       "name": "Orange",
       "hex": "#e52125",
       "hex_available": true,
+      "rgb": "229, 33, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3320,6 +3734,7 @@
       "name": "Yellow",
       "hex": "#e52125",
       "hex_available": true,
+      "rgb": "229, 33, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3328,6 +3743,7 @@
       "name": "Green",
       "hex": "#e52125",
       "hex_available": true,
+      "rgb": "229, 33, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3336,6 +3752,7 @@
       "name": "Turquoise",
       "hex": "#31a3a4",
       "hex_available": true,
+      "rgb": "49, 163, 164",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3344,6 +3761,7 @@
       "name": "Ultra Blue",
       "hex": "#31a3a4",
       "hex_available": true,
+      "rgb": "49, 163, 164",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3352,6 +3770,7 @@
       "name": "Violet",
       "hex": "#31a3a4",
       "hex_available": true,
+      "rgb": "49, 163, 164",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3360,6 +3779,7 @@
       "name": "Magenta",
       "hex": "#31a3a4",
       "hex_available": true,
+      "rgb": "49, 163, 164",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3368,6 +3788,7 @@
       "name": "Black",
       "hex": "#020202",
       "hex_available": true,
+      "rgb": "2, 2, 2",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3376,6 +3797,7 @@
       "name": "Brown",
       "hex": "#020202",
       "hex_available": true,
+      "rgb": "2, 2, 2",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3384,6 +3806,7 @@
       "name": "White",
       "hex": "#020202",
       "hex_available": true,
+      "rgb": "2, 2, 2",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Rich-Art/Rich-Art-Fresco-Dry.html"
     },
     {
@@ -3392,6 +3815,7 @@
       "name": "Red",
       "hex": "#e52425",
       "hex_available": true,
+      "rgb": "229, 36, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3400,6 +3824,7 @@
       "name": "Orange",
       "hex": "#e52425",
       "hex_available": true,
+      "rgb": "229, 36, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3408,6 +3833,7 @@
       "name": "Yellow",
       "hex": "#e52425",
       "hex_available": true,
+      "rgb": "229, 36, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3416,6 +3842,7 @@
       "name": "Green",
       "hex": "#e52425",
       "hex_available": true,
+      "rgb": "229, 36, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3424,6 +3851,7 @@
       "name": "Turquoise",
       "hex": "#0761b7",
       "hex_available": true,
+      "rgb": "7, 97, 183",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3432,6 +3860,7 @@
       "name": "Blue",
       "hex": "#0761b7",
       "hex_available": true,
+      "rgb": "7, 97, 183",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3440,6 +3869,7 @@
       "name": "Violet",
       "hex": "#0761b7",
       "hex_available": true,
+      "rgb": "7, 97, 183",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3448,6 +3878,7 @@
       "name": "Magenta",
       "hex": "#0761b7",
       "hex_available": true,
+      "rgb": "7, 97, 183",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3456,6 +3887,7 @@
       "name": "Brown",
       "hex": "#663018",
       "hex_available": true,
+      "rgb": "102, 48, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3464,6 +3896,7 @@
       "name": "Black",
       "hex": "#663018",
       "hex_available": true,
+      "rgb": "102, 48, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3472,6 +3905,7 @@
       "name": "White",
       "hex": "#663018",
       "hex_available": true,
+      "rgb": "102, 48, 24",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Creative-Craft/Sargent-Art-Creative-Craft.html"
     },
     {
@@ -3480,6 +3914,7 @@
       "name": "Yellow Orange Spectral",
       "hex": "#ee1c25",
       "hex_available": true,
+      "rgb": "238, 28, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
     },
     {
@@ -3488,6 +3923,7 @@
       "name": "Spectral Yellow",
       "hex": "#ee1c25",
       "hex_available": true,
+      "rgb": "238, 28, 37",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
     },
     {
@@ -3496,6 +3932,7 @@
       "name": "Chartreuse",
       "hex": "#028a4c",
       "hex_available": true,
+      "rgb": "2, 138, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
     },
     {
@@ -3504,6 +3941,7 @@
       "name": "Pink",
       "hex": "#028a4c",
       "hex_available": true,
+      "rgb": "2, 138, 76",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Fluorescent/Sargent-Art-Fluorescent.html"
     },
     {
@@ -3512,6 +3950,7 @@
       "name": "Gold",
       "hex": "#ed1e28",
       "hex_available": true,
+      "rgb": "237, 30, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
     },
     {
@@ -3520,6 +3959,7 @@
       "name": "Silver",
       "hex": "#d00e7e",
       "hex_available": true,
+      "rgb": "208, 14, 126",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
     },
     {
@@ -3528,6 +3968,7 @@
       "name": "Peach",
       "hex": "#fcd8c2",
       "hex_available": true,
+      "rgb": "252, 216, 194",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Gothic/Sargent-Art-Gothic.html"
     },
     {
@@ -3536,6 +3977,7 @@
       "name": "Copper",
       "hex": "#b78637",
       "hex_available": true,
+      "rgb": "183, 134, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
     },
     {
@@ -3544,6 +3986,7 @@
       "name": "Bronze",
       "hex": "#b78637",
       "hex_available": true,
+      "rgb": "183, 134, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
     },
     {
@@ -3552,6 +3995,7 @@
       "name": "Aztec Gold",
       "hex": "#b78637",
       "hex_available": true,
+      "rgb": "183, 134, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
     },
     {
@@ -3560,6 +4004,7 @@
       "name": "Antique Gold",
       "hex": "#e6bc1c",
       "hex_available": true,
+      "rgb": "230, 188, 28",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sargent-Art/Metallic/Sargent-Art-Metallic.html"
     },
     {
@@ -3568,6 +4013,7 @@
       "name": "Red Brown",
       "hex": "#a8372e",
       "hex_available": true,
+      "rgb": "168, 55, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3576,6 +4022,7 @@
       "name": "Red Ochre",
       "hex": "#a8372e",
       "hex_available": true,
+      "rgb": "168, 55, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3584,6 +4031,7 @@
       "name": "Alizarin Crimson",
       "hex": "#a8372e",
       "hex_available": true,
+      "rgb": "168, 55, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3592,6 +4040,7 @@
       "name": "Permanent Intense Red",
       "hex": "#a8372e",
       "hex_available": true,
+      "rgb": "168, 55, 46",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3600,6 +4049,7 @@
       "name": "Carmine",
       "hex": "#c62229",
       "hex_available": true,
+      "rgb": "198, 34, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3608,6 +4058,7 @@
       "name": "Rose Madder Lake",
       "hex": "#c62229",
       "hex_available": true,
+      "rgb": "198, 34, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3616,6 +4067,7 @@
       "name": "Crimson Lake",
       "hex": "#c62229",
       "hex_available": true,
+      "rgb": "198, 34, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3624,6 +4076,7 @@
       "name": "Cadmium Red Deep Genuine",
       "hex": "#c62229",
       "hex_available": true,
+      "rgb": "198, 34, 41",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3632,6 +4085,7 @@
       "name": "Vermilion",
       "hex": "#d22628",
       "hex_available": true,
+      "rgb": "210, 38, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3640,6 +4094,7 @@
       "name": "Cadmium Yellow Orange Genuine",
       "hex": "#d22628",
       "hex_available": true,
+      "rgb": "210, 38, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3648,6 +4103,7 @@
       "name": "Yellow Ochre",
       "hex": "#d22628",
       "hex_available": true,
+      "rgb": "210, 38, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3656,6 +4112,7 @@
       "name": "Cadmium Yellow Deep Genuine",
       "hex": "#d22628",
       "hex_available": true,
+      "rgb": "210, 38, 40",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3664,6 +4121,7 @@
       "name": "Indian Yellow",
       "hex": "#efaf37",
       "hex_available": true,
+      "rgb": "239, 175, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3672,6 +4130,7 @@
       "name": "Cadmium Yellow Light Genuine",
       "hex": "#efaf37",
       "hex_available": true,
+      "rgb": "239, 175, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3680,6 +4139,7 @@
       "name": "Lemon Yellow",
       "hex": "#efaf37",
       "hex_available": true,
+      "rgb": "239, 175, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3688,6 +4148,7 @@
       "name": "Naples Yellow",
       "hex": "#efaf37",
       "hex_available": true,
+      "rgb": "239, 175, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3696,6 +4157,7 @@
       "name": "Permanent Green",
       "hex": "#23563b",
       "hex_available": true,
+      "rgb": "35, 86, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3704,6 +4166,7 @@
       "name": "Viridian",
       "hex": "#23563b",
       "hex_available": true,
+      "rgb": "35, 86, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3712,6 +4175,7 @@
       "name": "Emerald Green",
       "hex": "#23563b",
       "hex_available": true,
+      "rgb": "35, 86, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3720,6 +4184,7 @@
       "name": "Prussian Blue",
       "hex": "#23563b",
       "hex_available": true,
+      "rgb": "35, 86, 59",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3728,6 +4193,7 @@
       "name": "Cobalt Blue Genuine",
       "hex": "#465aa0",
       "hex_available": true,
+      "rgb": "70, 90, 160",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3736,6 +4202,7 @@
       "name": "Ultramarine Blue",
       "hex": "#465aa0",
       "hex_available": true,
+      "rgb": "70, 90, 160",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3744,6 +4211,7 @@
       "name": "Cerulean Blue",
       "hex": "#465aa0",
       "hex_available": true,
+      "rgb": "70, 90, 160",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3752,6 +4220,7 @@
       "name": "Cobalt Violet Hue",
       "hex": "#465aa0",
       "hex_available": true,
+      "rgb": "70, 90, 160",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3760,6 +4229,7 @@
       "name": "Ivory Black",
       "hex": "#252621",
       "hex_available": true,
+      "rgb": "37, 38, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3768,6 +4238,7 @@
       "name": "Raw Umber",
       "hex": "#252621",
       "hex_available": true,
+      "rgb": "37, 38, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3776,6 +4247,7 @@
       "name": "Van Dyck Brown",
       "hex": "#252621",
       "hex_available": true,
+      "rgb": "37, 38, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3784,6 +4256,7 @@
       "name": "Burnt Umber",
       "hex": "#252621",
       "hex_available": true,
+      "rgb": "37, 38, 33",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3792,6 +4265,7 @@
       "name": "Burnt Sienna",
       "hex": "#8d4137",
       "hex_available": true,
+      "rgb": "141, 65, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3800,6 +4274,7 @@
       "name": "Raw Sienna",
       "hex": "#8d4137",
       "hex_available": true,
+      "rgb": "141, 65, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3808,6 +4283,7 @@
       "name": "Titanium White",
       "hex": "#8d4137",
       "hex_available": true,
+      "rgb": "141, 65, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3816,6 +4292,7 @@
       "name": "Zinc White",
       "hex": "#8d4137",
       "hex_available": true,
+      "rgb": "141, 65, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Sennelier/Egg/Sennelier-Egg.html"
     },
     {
@@ -3824,6 +4301,7 @@
       "name": "Red",
       "hex": "#e23e45",
       "hex_available": true,
+      "rgb": "226, 62, 69",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3832,6 +4310,7 @@
       "name": "Orange",
       "hex": "#e23e45",
       "hex_available": true,
+      "rgb": "226, 62, 69",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3840,6 +4319,7 @@
       "name": "Yellow",
       "hex": "#e23e45",
       "hex_available": true,
+      "rgb": "226, 62, 69",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3848,6 +4328,7 @@
       "name": "Green",
       "hex": "#e23e45",
       "hex_available": true,
+      "rgb": "226, 62, 69",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3856,6 +4337,7 @@
       "name": "Blue",
       "hex": "#1c8fce",
       "hex_available": true,
+      "rgb": "28, 143, 206",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3864,6 +4346,7 @@
       "name": "Turquoise",
       "hex": "#1c8fce",
       "hex_available": true,
+      "rgb": "28, 143, 206",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3872,6 +4355,7 @@
       "name": "Purple",
       "hex": "#1c8fce",
       "hex_available": true,
+      "rgb": "28, 143, 206",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3880,6 +4364,7 @@
       "name": "Magenta",
       "hex": "#1c8fce",
       "hex_available": true,
+      "rgb": "28, 143, 206",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3888,6 +4373,7 @@
       "name": "Black",
       "hex": "#343537",
       "hex_available": true,
+      "rgb": "52, 53, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3896,6 +4382,7 @@
       "name": "Brown",
       "hex": "#343537",
       "hex_available": true,
+      "rgb": "52, 53, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3904,6 +4391,7 @@
       "name": "Peach",
       "hex": "#343537",
       "hex_available": true,
+      "rgb": "52, 53, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3912,6 +4400,7 @@
       "name": "White",
       "hex": "#343537",
       "hex_available": true,
+      "rgb": "52, 53, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Utrecht/Utrecht-Studio.html"
     },
     {
@@ -3920,6 +4409,7 @@
       "name": "Red",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3928,6 +4418,7 @@
       "name": "Fluorescent Red",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3936,6 +4427,7 @@
       "name": "Orange",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3944,6 +4436,7 @@
       "name": "Fluorescent Orange",
       "hex": "#e40037",
       "hex_available": true,
+      "rgb": "228, 0, 55",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3952,6 +4445,7 @@
       "name": "Yellow",
       "hex": "#fdfd03",
       "hex_available": true,
+      "rgb": "253, 253, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3960,6 +4454,7 @@
       "name": "Fluorescent Yellow",
       "hex": "#fdfd03",
       "hex_available": true,
+      "rgb": "253, 253, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3968,6 +4463,7 @@
       "name": "Green",
       "hex": "#fdfd03",
       "hex_available": true,
+      "rgb": "253, 253, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3976,6 +4472,7 @@
       "name": "Fluorescent Green",
       "hex": "#fdfd03",
       "hex_available": true,
+      "rgb": "253, 253, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3984,6 +4481,7 @@
       "name": "Ultra Blue",
       "hex": "#3261a5",
       "hex_available": true,
+      "rgb": "50, 97, 165",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -3992,6 +4490,7 @@
       "name": "Fluorescent Blue",
       "hex": "#3261a5",
       "hex_available": true,
+      "rgb": "50, 97, 165",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4000,6 +4499,7 @@
       "name": "Blue",
       "hex": "#3261a5",
       "hex_available": true,
+      "rgb": "50, 97, 165",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4008,6 +4508,7 @@
       "name": "Violet",
       "hex": "#3261a5",
       "hex_available": true,
+      "rgb": "50, 97, 165",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4016,6 +4517,7 @@
       "name": "Fluorescent Purple",
       "hex": "#980090",
       "hex_available": true,
+      "rgb": "152, 0, 144",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4024,6 +4526,7 @@
       "name": "Fluorescent Pink",
       "hex": "#980090",
       "hex_available": true,
+      "rgb": "152, 0, 144",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4032,6 +4535,7 @@
       "name": "Metallic Gold",
       "hex": "#980090",
       "hex_available": true,
+      "rgb": "152, 0, 144",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4040,6 +4544,7 @@
       "name": "Black",
       "hex": "#980090",
       "hex_available": true,
+      "rgb": "152, 0, 144",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4048,6 +4553,7 @@
       "name": "Brown",
       "hex": "#8a410a",
       "hex_available": true,
+      "rgb": "138, 65, 10",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4056,6 +4562,7 @@
       "name": "Metallic Copper",
       "hex": "#8a410a",
       "hex_available": true,
+      "rgb": "138, 65, 10",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4064,6 +4571,7 @@
       "name": "Metallic Silver",
       "hex": "#8a410a",
       "hex_available": true,
+      "rgb": "138, 65, 10",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4072,6 +4580,7 @@
       "name": "Metallic Pearl",
       "hex": "#8a410a",
       "hex_available": true,
+      "rgb": "138, 65, 10",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4080,6 +4589,7 @@
       "name": "White",
       "hex": "#eeebeb",
       "hex_available": true,
+      "rgb": "238, 235, 235",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Gloss/Vanaken-Jazz-Gloss.html"
     },
     {
@@ -4088,6 +4598,7 @@
       "name": "Turquoise",
       "hex": "#3776bd",
       "hex_available": true,
+      "rgb": "55, 118, 189",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
     },
     {
@@ -4096,6 +4607,7 @@
       "name": "Magenta",
       "hex": "#a80182",
       "hex_available": true,
+      "rgb": "168, 1, 130",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
     },
     {
@@ -4104,6 +4616,7 @@
       "name": "Fluorescent Magenta",
       "hex": "#a80182",
       "hex_available": true,
+      "rgb": "168, 1, 130",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
     },
     {
@@ -4112,6 +4625,7 @@
       "name": "Peach",
       "hex": "#040203",
       "hex_available": true,
+      "rgb": "4, 2, 3",
       "source_url": "http://www.art-paints.com/Paints/Tempera/Vanaken/Jazz-Matte/Vanaken-Jazz-Matte.html"
     }
   ]

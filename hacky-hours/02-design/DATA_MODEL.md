@@ -30,8 +30,9 @@ Each file is a wrapped object containing metadata and a `paints` array.
       "medium": "oils",
       "brand": "Winsor & Newton",
       "name": "Cadmium Red",
-      "hex": "#E32636",
+      "hex": "#e32636",
       "hex_available": true,
+      "rgb": "227, 38, 54",
       "source_url": "http://www.art-paints.com/Paints/Oils/..."
     },
     {
@@ -40,6 +41,7 @@ Each file is a wrapped object containing metadata and a `paints` array.
       "name": "Ivory Black",
       "hex": null,
       "hex_available": false,
+      "rgb": null,
       "source_url": "http://www.art-paints.com/Paints/Oils/..."
     }
   ]
@@ -65,8 +67,9 @@ Each file is a wrapped object containing metadata and a `paints` array.
 | `medium` | string | No | Painting medium (repeated from envelope for portability) |
 | `brand` | string | No | Manufacturer name as it appears on the source site |
 | `name` | string | No | Color name as it appears on the source site |
-| `hex` | string | Yes | Hex color value in `#RRGGBB` format, or `null` if unavailable |
+| `hex` | string | Yes | Hex color value in `#rrggbb` format, or `null` if unavailable |
 | `hex_available` | boolean | No | `true` if hex was found on the source page, `false` if missing |
+| `rgb` | string | Yes | RGB components as `"r, g, b"` (e.g. `"227, 38, 54"`), computed from `hex`; `null` when hex is unavailable |
 | `source_url` | string | No | The specific page URL this entry was crawled from |
 
 ---
@@ -86,6 +89,7 @@ erDiagram
         string name
         string hex
         boolean hex_available
+        string rgb
         string source_url
     }
     FILE ||--o{ PAINT : contains
@@ -97,5 +101,6 @@ erDiagram
 
 - `medium` is included in each paint entry (not just the envelope) so individual entries remain self-describing if extracted or merged.
 - `hex_available: false` is distinct from a missing `hex` field — it explicitly signals that the source was checked and no value was found.
+- `rgb` is computed from `hex` during normalization (`r, g, b` = decimal expansion of the two-digit hex components). It is not scraped from the source site.
 - Hex values are stored as crawled; normalization rules (casing, format validation) are defined in `BUSINESS_LOGIC.md`.
 - The full list of mediums is discovered at crawl time from art-paints.com — it is not hardcoded.

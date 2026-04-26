@@ -59,6 +59,13 @@ class TestOutputFiles:
             assert entry["source_url"].startswith("http://www.art-paints.com"), \
                 f"Unexpected source_url: {entry['source_url']}"
 
+    def test_rgb_format_when_present(self, data_file):
+        data = json.loads(data_file.read_text())
+        rgb_re = re.compile(r"^[\d,\s]+$")
+        for entry in data["paints"]:
+            if "rgb" in entry:
+                assert entry["rgb"] is None or rgb_re.match(entry["rgb"])
+
     def test_minimum_paint_count(self, data_file):
         thresholds = load_thresholds()
         minimum = thresholds.get(data_file.stem)

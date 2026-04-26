@@ -1,5 +1,19 @@
 # Changelog — paint-crawl
 
+## v0.3.0 — RGB field (2026-04-25)
+
+### What's included
+- Each paint entry now includes an `rgb` field (e.g. `"236, 92, 95"`), computed
+  directly from the normalized hex value — no additional HTTP requests required
+- Crawl delay reduced from 2s to 1s per page
+- 220 tests passing
+
+### Data
+- 21 mediums, 55,790 paints (up from 53,789)
+- Crawled from art-paints.com on 2026-04-25
+
+---
+
 ## v0.2.0 — V1 (2026-04-22)
 
 ### What's included

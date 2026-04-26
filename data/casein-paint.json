@@ -1,6 +1,6 @@
 {
   "medium": "casein-paint",
-  "crawled_at": "2026-04-22T06:37:20.677025+00:00",
+  "crawled_at": "2026-04-26T02:41:19.757018+00:00",
   "paints": [
     {
       "medium": "casein-paint",
@@ -8,6 +8,7 @@
       "name": "Oxide Red",
       "hex": "#8a3e0c",
       "hex_available": true,
+      "rgb": "138, 62, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -16,6 +17,7 @@
       "name": "Iron Oxide Brick",
       "hex": "#8a3e0c",
       "hex_available": true,
+      "rgb": "138, 62, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -24,6 +26,7 @@
       "name": "Persian Red",
       "hex": "#8a3e0c",
       "hex_available": true,
+      "rgb": "138, 62, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -32,6 +35,7 @@
       "name": "Red Sienna",
       "hex": "#8a3e0c",
       "hex_available": true,
+      "rgb": "138, 62, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -40,6 +44,7 @@
       "name": "Red Ochre",
       "hex": "#bb5e01",
       "hex_available": true,
+      "rgb": "187, 94, 1",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -48,6 +53,7 @@
       "name": "Yellow Clay",
       "hex": "#bb5e01",
       "hex_available": true,
+      "rgb": "187, 94, 1",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -56,6 +62,7 @@
       "name": "Oxide Yellow",
       "hex": "#bb5e01",
       "hex_available": true,
+      "rgb": "187, 94, 1",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -64,6 +71,7 @@
       "name": "Yellow Sienna",
       "hex": "#bb5e01",
       "hex_available": true,
+      "rgb": "187, 94, 1",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -72,6 +80,7 @@
       "name": "Yellow Ochre",
       "hex": "#d6a910",
       "hex_available": true,
+      "rgb": "214, 169, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -80,6 +89,7 @@
       "name": "Green Earth",
       "hex": "#d6a910",
       "hex_available": true,
+      "rgb": "214, 169, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -88,6 +98,7 @@
       "name": "Iron Oxide Purple",
       "hex": "#d6a910",
       "hex_available": true,
+      "rgb": "214, 169, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -96,6 +107,7 @@
       "name": "Oxide Black",
       "hex": "#d6a910",
       "hex_available": true,
+      "rgb": "214, 169, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -104,6 +116,7 @@
       "name": "Black Ebony",
       "hex": "#020203",
       "hex_available": true,
+      "rgb": "2, 2, 3",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -112,6 +125,7 @@
       "name": "Grey Umber",
       "hex": "#020203",
       "hex_available": true,
+      "rgb": "2, 2, 3",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -120,6 +134,7 @@
       "name": "Rust Brown Ochre",
       "hex": "#020203",
       "hex_available": true,
+      "rgb": "2, 2, 3",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -128,6 +143,7 @@
       "name": "Khaki Umber",
       "hex": "#020203",
       "hex_available": true,
+      "rgb": "2, 2, 3",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -136,6 +152,7 @@
       "name": "Brown Umber",
       "hex": "#695c4b",
       "hex_available": true,
+      "rgb": "105, 92, 75",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -144,6 +161,7 @@
       "name": "Iron Oxide Mahogany",
       "hex": "#695c4b",
       "hex_available": true,
+      "rgb": "105, 92, 75",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -152,6 +170,7 @@
       "name": "Havanna Ochre",
       "hex": "#695c4b",
       "hex_available": true,
+      "rgb": "105, 92, 75",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -160,6 +179,7 @@
       "name": "Brown Ochre",
       "hex": "#695c4b",
       "hex_available": true,
+      "rgb": "105, 92, 75",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -168,6 +188,7 @@
       "name": "Slate Grey",
       "hex": "#938f86",
       "hex_available": true,
+      "rgb": "147, 143, 134",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Earth-Pigments/BioShield-Earth-Pigments.html"
     },
     {
@@ -176,6 +197,7 @@
       "name": "Venician Red",
       "hex": "#b24214",
       "hex_available": true,
+      "rgb": "178, 66, 20",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -184,6 +206,7 @@
       "name": "Pompeji Red",
       "hex": "#b24214",
       "hex_available": true,
+      "rgb": "178, 66, 20",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -192,6 +215,7 @@
       "name": "Tuscan Ochre",
       "hex": "#b24214",
       "hex_available": true,
+      "rgb": "178, 66, 20",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -200,6 +224,7 @@
       "name": "Siena Amiatha",
       "hex": "#b24214",
       "hex_available": true,
+      "rgb": "178, 66, 20",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -208,6 +233,7 @@
       "name": "Gold Ochre",
       "hex": "#ffcf6b",
       "hex_available": true,
+      "rgb": "255, 207, 107",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -216,6 +242,7 @@
       "name": "Veronese Green",
       "hex": "#ffcf6b",
       "hex_available": true,
+      "rgb": "255, 207, 107",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -224,6 +251,7 @@
       "name": "Assisi Grey",
       "hex": "#ffcf6b",
       "hex_available": true,
+      "rgb": "255, 207, 107",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Italian-Pigment/BioShield-Italian-Pigment.html"
     },
     {
@@ -232,6 +260,7 @@
       "name": "Gold",
       "hex": "#bda08b",
       "hex_available": true,
+      "rgb": "189, 160, 139",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Mica-Colors/BioShield-Mica-Colors.html"
     },
     {
@@ -240,6 +269,7 @@
       "name": "Rhein Gold",
       "hex": "#bda08b",
       "hex_available": true,
+      "rgb": "189, 160, 139",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Mica-Colors/BioShield-Mica-Colors.html"
     },
     {
@@ -248,6 +278,7 @@
       "name": "Black",
       "hex": "#bda08b",
       "hex_available": true,
+      "rgb": "189, 160, 139",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Mica-Colors/BioShield-Mica-Colors.html"
     },
     {
@@ -256,6 +287,7 @@
       "name": "Bronze",
       "hex": "#bda08b",
       "hex_available": true,
+      "rgb": "189, 160, 139",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Mica-Colors/BioShield-Mica-Colors.html"
     },
     {
@@ -264,6 +296,7 @@
       "name": "Silver",
       "hex": "#dcd4d1",
       "hex_available": true,
+      "rgb": "220, 212, 209",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Mica-Colors/BioShield-Mica-Colors.html"
     },
     {
@@ -272,6 +305,7 @@
       "name": "Terra Santa",
       "hex": "#af4932",
       "hex_available": true,
+      "rgb": "175, 73, 50",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -280,6 +314,7 @@
       "name": "Terra Fuego",
       "hex": "#af4932",
       "hex_available": true,
+      "rgb": "175, 73, 50",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -288,6 +323,7 @@
       "name": "Mandarin",
       "hex": "#af4932",
       "hex_available": true,
+      "rgb": "175, 73, 50",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -296,6 +332,7 @@
       "name": "Aurora",
       "hex": "#af4932",
       "hex_available": true,
+      "rgb": "175, 73, 50",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -304,6 +341,7 @@
       "name": "Terra Cotta",
       "hex": "#ffdaa3",
       "hex_available": true,
+      "rgb": "255, 218, 163",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -312,6 +350,7 @@
       "name": "Terra Verde",
       "hex": "#ffdaa3",
       "hex_available": true,
+      "rgb": "255, 218, 163",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -320,6 +359,7 @@
       "name": "Verdellino",
       "hex": "#ffdaa3",
       "hex_available": true,
+      "rgb": "255, 218, 163",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -328,6 +368,7 @@
       "name": "Azuro",
       "hex": "#ffdaa3",
       "hex_available": true,
+      "rgb": "255, 218, 163",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -336,6 +377,7 @@
       "name": "Cardinal Purple",
       "hex": "#c5bccf",
       "hex_available": true,
+      "rgb": "197, 188, 207",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -344,6 +386,7 @@
       "name": "Piedra Santa",
       "hex": "#c5bccf",
       "hex_available": true,
+      "rgb": "197, 188, 207",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -352,6 +395,7 @@
       "name": "High White",
       "hex": "#c5bccf",
       "hex_available": true,
+      "rgb": "197, 188, 207",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Milk/BioShield-Milk.html"
     },
     {
@@ -360,6 +404,7 @@
       "name": "Oriental Red",
       "hex": "#cb011b",
       "hex_available": true,
+      "rgb": "203, 1, 27",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -368,6 +413,7 @@
       "name": "Salmon Red",
       "hex": "#cb011b",
       "hex_available": true,
+      "rgb": "203, 1, 27",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -376,6 +422,7 @@
       "name": "Orange",
       "hex": "#cb011b",
       "hex_available": true,
+      "rgb": "203, 1, 27",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -384,6 +431,7 @@
       "name": "Corn Yellow",
       "hex": "#cb011b",
       "hex_available": true,
+      "rgb": "203, 1, 27",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -392,6 +440,7 @@
       "name": "Gold Yellow",
       "hex": "#ffcc3b",
       "hex_available": true,
+      "rgb": "255, 204, 59",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -400,6 +449,7 @@
       "name": "Sun Yellow",
       "hex": "#ffcc3b",
       "hex_available": true,
+      "rgb": "255, 204, 59",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -408,6 +458,7 @@
       "name": "Bottle Green",
       "hex": "#ffcc3b",
       "hex_available": true,
+      "rgb": "255, 204, 59",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -416,6 +467,7 @@
       "name": "Meadow Green",
       "hex": "#ffcc3b",
       "hex_available": true,
+      "rgb": "255, 204, 59",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -424,6 +476,7 @@
       "name": "Turquoise Green",
       "hex": "#077d6f",
       "hex_available": true,
+      "rgb": "7, 125, 111",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -432,6 +485,7 @@
       "name": "Blue",
       "hex": "#077d6f",
       "hex_available": true,
+      "rgb": "7, 125, 111",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -440,6 +494,7 @@
       "name": "Mangan Purple",
       "hex": "#077d6f",
       "hex_available": true,
+      "rgb": "7, 125, 111",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Rutil-Pigment/BioShield-Rutil-Pigment.html"
     },
     {
@@ -448,6 +503,7 @@
       "name": "Red",
       "hex": "#eea2fa",
       "hex_available": true,
+      "rgb": "238, 162, 250",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Ultramarine-Pigment/BioShield-Ultramarine-Pigment.html"
     },
     {
@@ -456,6 +512,7 @@
       "name": "Purple",
       "hex": "#eea2fa",
       "hex_available": true,
+      "rgb": "238, 162, 250",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Ultramarine-Pigment/BioShield-Ultramarine-Pigment.html"
     },
     {
@@ -464,6 +521,7 @@
       "name": "White",
       "hex": "#eea2fa",
       "hex_available": true,
+      "rgb": "238, 162, 250",
       "source_url": "http://www.art-paints.com/Paints/Casein/BioShield/Ultramarine-Pigment/BioShield-Ultramarine-Pigment.html"
     },
     {
@@ -472,6 +530,7 @@
       "name": "Blackcurrant Red",
       "hex": "#75191a",
       "hex_available": true,
+      "rgb": "117, 25, 26",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -480,6 +539,7 @@
       "name": "Red 140",
       "hex": "#75191a",
       "hex_available": true,
+      "rgb": "117, 25, 26",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -488,6 +548,7 @@
       "name": "Environox Falun Red",
       "hex": "#75191a",
       "hex_available": true,
+      "rgb": "117, 25, 26",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -496,6 +557,7 @@
       "name": "Colonial Red",
       "hex": "#75191a",
       "hex_available": true,
+      "rgb": "117, 25, 26",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -504,6 +566,7 @@
       "name": "Natural Red",
       "hex": "#883e31",
       "hex_available": true,
+      "rgb": "136, 62, 49",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -512,6 +575,7 @@
       "name": "Red Brick",
       "hex": "#883e31",
       "hex_available": true,
+      "rgb": "136, 62, 49",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -520,6 +584,7 @@
       "name": "Venetian Red",
       "hex": "#883e31",
       "hex_available": true,
+      "rgb": "136, 62, 49",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -528,6 +593,7 @@
       "name": "Red Ocher",
       "hex": "#883e31",
       "hex_available": true,
+      "rgb": "136, 62, 49",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -536,6 +602,7 @@
       "name": "Cinnabar Red",
       "hex": "#d66e61",
       "hex_available": true,
+      "rgb": "214, 110, 97",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -544,6 +611,7 @@
       "name": "Orange 960",
       "hex": "#d66e61",
       "hex_available": true,
+      "rgb": "214, 110, 97",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -552,6 +620,7 @@
       "name": "Havana Ocher",
       "hex": "#d66e61",
       "hex_available": true,
+      "rgb": "214, 110, 97",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -560,6 +629,7 @@
       "name": "Apricot",
       "hex": "#d66e61",
       "hex_available": true,
+      "rgb": "214, 110, 97",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -568,6 +638,7 @@
       "name": "Curry Yellow",
       "hex": "#f1c681",
       "hex_available": true,
+      "rgb": "241, 198, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -576,6 +647,7 @@
       "name": "Light Yellow Ocher",
       "hex": "#f1c681",
       "hex_available": true,
+      "rgb": "241, 198, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -584,6 +656,7 @@
       "name": "Lemon Yellow",
       "hex": "#f1c681",
       "hex_available": true,
+      "rgb": "241, 198, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -592,6 +665,7 @@
       "name": "Dark Yellow Ocher",
       "hex": "#f1c681",
       "hex_available": true,
+      "rgb": "241, 198, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -600,6 +674,7 @@
       "name": "Colonial Yellow Ocher",
       "hex": "#dcb455",
       "hex_available": true,
+      "rgb": "220, 180, 85",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -608,6 +683,7 @@
       "name": "Natural Yellow",
       "hex": "#dcb455",
       "hex_available": true,
+      "rgb": "220, 180, 85",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -616,6 +692,7 @@
       "name": "Yellow 920",
       "hex": "#dcb455",
       "hex_available": true,
+      "rgb": "220, 180, 85",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -624,6 +701,7 @@
       "name": "Green MC",
       "hex": "#dcb455",
       "hex_available": true,
+      "rgb": "220, 180, 85",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -632,6 +710,7 @@
       "name": "Viridian",
       "hex": "#4d732a",
       "hex_available": true,
+      "rgb": "77, 115, 42",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -640,6 +719,7 @@
       "name": "S O F Green",
       "hex": "#4d732a",
       "hex_available": true,
+      "rgb": "77, 115, 42",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -648,6 +728,7 @@
       "name": "Pistachio Green",
       "hex": "#4d732a",
       "hex_available": true,
+      "rgb": "77, 115, 42",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -656,6 +737,7 @@
       "name": "Verona Green Earth",
       "hex": "#4d732a",
       "hex_available": true,
+      "rgb": "77, 115, 42",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -664,6 +746,7 @@
       "name": "Nicosia Green",
       "hex": "#b7c39d",
       "hex_available": true,
+      "rgb": "183, 195, 157",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -672,6 +755,7 @@
       "name": "Turquoise Green",
       "hex": "#b7c39d",
       "hex_available": true,
+      "rgb": "183, 195, 157",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -680,6 +764,7 @@
       "name": "Sky Blue",
       "hex": "#b7c39d",
       "hex_available": true,
+      "rgb": "183, 195, 157",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -688,6 +773,7 @@
       "name": "Lavender Blue",
       "hex": "#b7c39d",
       "hex_available": true,
+      "rgb": "183, 195, 157",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -696,6 +782,7 @@
       "name": "S O F Blue",
       "hex": "#6d9dcd",
       "hex_available": true,
+      "rgb": "109, 157, 205",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -704,6 +791,7 @@
       "name": "Charron Blue",
       "hex": "#6d9dcd",
       "hex_available": true,
+      "rgb": "109, 157, 205",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -712,6 +800,7 @@
       "name": "Blue MC",
       "hex": "#6d9dcd",
       "hex_available": true,
+      "rgb": "109, 157, 205",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -720,6 +809,7 @@
       "name": "Ultramarine Blue",
       "hex": "#6d9dcd",
       "hex_available": true,
+      "rgb": "109, 157, 205",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -728,6 +818,7 @@
       "name": "Colonial Violet",
       "hex": "#4f2e3f",
       "hex_available": true,
+      "rgb": "79, 46, 63",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -736,6 +827,7 @@
       "name": "Plum",
       "hex": "#4f2e3f",
       "hex_available": true,
+      "rgb": "79, 46, 63",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -744,6 +836,7 @@
       "name": "Colonial Burnt Sienna",
       "hex": "#4f2e3f",
       "hex_available": true,
+      "rgb": "79, 46, 63",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -752,6 +845,7 @@
       "name": "Burnt Sienna",
       "hex": "#4f2e3f",
       "hex_available": true,
+      "rgb": "79, 46, 63",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -760,6 +854,7 @@
       "name": "Rose Wood",
       "hex": "#dca890",
       "hex_available": true,
+      "rgb": "220, 168, 144",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -768,6 +863,7 @@
       "name": "Black 318",
       "hex": "#dca890",
       "hex_available": true,
+      "rgb": "220, 168, 144",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -776,6 +872,7 @@
       "name": "Natural Black",
       "hex": "#dca890",
       "hex_available": true,
+      "rgb": "220, 168, 144",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -784,6 +881,7 @@
       "name": "Environox Dark Brown",
       "hex": "#dca890",
       "hex_available": true,
+      "rgb": "220, 168, 144",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -792,6 +890,7 @@
       "name": "Colonial Raw Umber",
       "hex": "#463d34",
       "hex_available": true,
+      "rgb": "70, 61, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -800,6 +899,7 @@
       "name": "Environox Terra Cotta",
       "hex": "#463d34",
       "hex_available": true,
+      "rgb": "70, 61, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -808,6 +908,7 @@
       "name": "Brown 610",
       "hex": "#463d34",
       "hex_available": true,
+      "rgb": "70, 61, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -816,6 +917,7 @@
       "name": "Burnt Umber",
       "hex": "#463d34",
       "hex_available": true,
+      "rgb": "70, 61, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -824,6 +926,7 @@
       "name": "Colonial Burnt Umber",
       "hex": "#6d4c3d",
       "hex_available": true,
+      "rgb": "109, 76, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -832,6 +935,7 @@
       "name": "Brown Ocher",
       "hex": "#6d4c3d",
       "hex_available": true,
+      "rgb": "109, 76, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -840,6 +944,7 @@
       "name": "Natural Umber",
       "hex": "#6d4c3d",
       "hex_available": true,
+      "rgb": "109, 76, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -848,6 +953,7 @@
       "name": "Colonial Raw Sienna",
       "hex": "#6d4c3d",
       "hex_available": true,
+      "rgb": "109, 76, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -856,6 +962,7 @@
       "name": "Light Sienna",
       "hex": "#bc9e56",
       "hex_available": true,
+      "rgb": "188, 158, 86",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -864,6 +971,7 @@
       "name": "Natural Sienna",
       "hex": "#bc9e56",
       "hex_available": true,
+      "rgb": "188, 158, 86",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -872,6 +980,7 @@
       "name": "Clay Brown",
       "hex": "#bc9e56",
       "hex_available": true,
+      "rgb": "188, 158, 86",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -880,6 +989,7 @@
       "name": "Pewter Grey",
       "hex": "#bc9e56",
       "hex_available": true,
+      "rgb": "188, 158, 86",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -888,6 +998,7 @@
       "name": "Slate",
       "hex": "#d9e1cc",
       "hex_available": true,
+      "rgb": "217, 225, 204",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -896,6 +1007,7 @@
       "name": "Titanium White",
       "hex": "#d9e1cc",
       "hex_available": true,
+      "rgb": "217, 225, 204",
       "source_url": "http://www.art-paints.com/Paints/Casein/Earth-Pigments/Earth-Pigments-Powder.html"
     },
     {
@@ -904,6 +1016,7 @@
       "name": "Barn Red",
       "hex": "#7c0902",
       "hex_available": true,
+      "rgb": "124, 9, 2",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -912,6 +1025,7 @@
       "name": "Salem Red",
       "hex": "#7c0902",
       "hex_available": true,
+      "rgb": "124, 9, 2",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -920,6 +1034,7 @@
       "name": "Pumpkin",
       "hex": "#7c0902",
       "hex_available": true,
+      "rgb": "124, 9, 2",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -928,6 +1043,7 @@
       "name": "Salmon",
       "hex": "#7c0902",
       "hex_available": true,
+      "rgb": "124, 9, 2",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -936,6 +1052,7 @@
       "name": "Marigold Yellow",
       "hex": "#f0b10c",
       "hex_available": true,
+      "rgb": "240, 177, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -944,6 +1061,7 @@
       "name": "Mustard",
       "hex": "#f0b10c",
       "hex_available": true,
+      "rgb": "240, 177, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -952,6 +1070,7 @@
       "name": "Tavern Green",
       "hex": "#f0b10c",
       "hex_available": true,
+      "rgb": "240, 177, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -960,6 +1079,7 @@
       "name": "Bayberry Green",
       "hex": "#f0b10c",
       "hex_available": true,
+      "rgb": "240, 177, 12",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -968,6 +1088,7 @@
       "name": "Lexington Green",
       "hex": "#525c39",
       "hex_available": true,
+      "rgb": "82, 92, 57",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -976,6 +1097,7 @@
       "name": "Sea Green",
       "hex": "#525c39",
       "hex_available": true,
+      "rgb": "82, 92, 57",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -984,6 +1106,7 @@
       "name": "Slate",
       "hex": "#525c39",
       "hex_available": true,
+      "rgb": "82, 92, 57",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -992,6 +1115,7 @@
       "name": "Federal Blue",
       "hex": "#525c39",
       "hex_available": true,
+      "rgb": "82, 92, 57",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1000,6 +1124,7 @@
       "name": "Soldier Blue",
       "hex": "#5d647e",
       "hex_available": true,
+      "rgb": "93, 100, 126",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1008,6 +1133,7 @@
       "name": "Chocolate Brown",
       "hex": "#5d647e",
       "hex_available": true,
+      "rgb": "93, 100, 126",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1016,6 +1142,7 @@
       "name": "Pitch Black",
       "hex": "#5d647e",
       "hex_available": true,
+      "rgb": "93, 100, 126",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1024,6 +1151,7 @@
       "name": "Driftwood",
       "hex": "#5d647e",
       "hex_available": true,
+      "rgb": "93, 100, 126",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1032,6 +1160,7 @@
       "name": "Buttermilk",
       "hex": "#dfd0a9",
       "hex_available": true,
+      "rgb": "223, 208, 169",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1040,6 +1169,7 @@
       "name": "Light Cream",
       "hex": "#dfd0a9",
       "hex_available": true,
+      "rgb": "223, 208, 169",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1048,6 +1178,7 @@
       "name": "Oyster White",
       "hex": "#dfd0a9",
       "hex_available": true,
+      "rgb": "223, 208, 169",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1056,6 +1187,7 @@
       "name": "Snow White",
       "hex": "#dfd0a9",
       "hex_available": true,
+      "rgb": "223, 208, 169",
       "source_url": "http://www.art-paints.com/Paints/Casein/Gallaghers/Gallaghers-Milk-Paint.html"
     },
     {
@@ -1064,6 +1196,7 @@
       "name": "Siena Red",
       "hex": "#983720",
       "hex_available": true,
+      "rgb": "152, 55, 32",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1072,6 +1205,7 @@
       "name": "Umber Reddish",
       "hex": "#983720",
       "hex_available": true,
+      "rgb": "152, 55, 32",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1080,6 +1214,7 @@
       "name": "Ochre Red",
       "hex": "#983720",
       "hex_available": true,
+      "rgb": "152, 55, 32",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1088,6 +1223,7 @@
       "name": "Ironoxide Orange",
       "hex": "#983720",
       "hex_available": true,
+      "rgb": "152, 55, 32",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1096,6 +1232,7 @@
       "name": "Ochre Orange",
       "hex": "#dd7d49",
       "hex_available": true,
+      "rgb": "221, 125, 73",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1104,6 +1241,7 @@
       "name": "Spinel Orange",
       "hex": "#dd7d49",
       "hex_available": true,
+      "rgb": "221, 125, 73",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1112,6 +1250,7 @@
       "name": "Ochre Yellow",
       "hex": "#dd7d49",
       "hex_available": true,
+      "rgb": "221, 125, 73",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1120,6 +1259,7 @@
       "name": "Sun Yellow",
       "hex": "#dd7d49",
       "hex_available": true,
+      "rgb": "221, 125, 73",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1128,6 +1268,7 @@
       "name": "Spinel Yellow",
       "hex": "#f9f06c",
       "hex_available": true,
+      "rgb": "249, 240, 108",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1136,6 +1277,7 @@
       "name": "Umber Green",
       "hex": "#f9f06c",
       "hex_available": true,
+      "rgb": "249, 240, 108",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1144,6 +1286,7 @@
       "name": "Umber Green Dark",
       "hex": "#f9f06c",
       "hex_available": true,
+      "rgb": "249, 240, 108",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1152,6 +1295,7 @@
       "name": "Spinel Green",
       "hex": "#f9f06c",
       "hex_available": true,
+      "rgb": "249, 240, 108",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1160,6 +1304,7 @@
       "name": "Spinel Turquoise",
       "hex": "#008081",
       "hex_available": true,
+      "rgb": "0, 128, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1168,6 +1313,7 @@
       "name": "Spinel Blue",
       "hex": "#008081",
       "hex_available": true,
+      "rgb": "0, 128, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1176,6 +1322,7 @@
       "name": "Ultramarine Blue",
       "hex": "#008081",
       "hex_available": true,
+      "rgb": "0, 128, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1184,6 +1331,7 @@
       "name": "Ultramarine Violet",
       "hex": "#008081",
       "hex_available": true,
+      "rgb": "0, 128, 129",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1192,6 +1340,7 @@
       "name": "Ironoxide Black",
       "hex": "#0f1010",
       "hex_available": true,
+      "rgb": "15, 16, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1200,6 +1349,7 @@
       "name": "Umber Red Brown",
       "hex": "#0f1010",
       "hex_available": true,
+      "rgb": "15, 16, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1208,6 +1358,7 @@
       "name": "Umber Dark",
       "hex": "#0f1010",
       "hex_available": true,
+      "rgb": "15, 16, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1216,6 +1367,7 @@
       "name": "Umber Light Brown",
       "hex": "#0f1010",
       "hex_available": true,
+      "rgb": "15, 16, 16",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1224,6 +1376,7 @@
       "name": "Ochre Gold",
       "hex": "#cc9831",
       "hex_available": true,
+      "rgb": "204, 152, 49",
       "source_url": "http://www.art-paints.com/Paints/Casein/Kreidezeit/Kreidezeit-Full-Colour.html"
     },
     {
@@ -1232,6 +1385,7 @@
       "name": "Mulberry Red",
       "hex": "#452322",
       "hex_available": true,
+      "rgb": "69, 35, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1240,6 +1394,7 @@
       "name": "Country Red",
       "hex": "#452322",
       "hex_available": true,
+      "rgb": "69, 35, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1248,6 +1403,7 @@
       "name": "Olde Clay Red",
       "hex": "#452322",
       "hex_available": true,
+      "rgb": "69, 35, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1256,6 +1412,7 @@
       "name": "Holy Berry Red",
       "hex": "#452322",
       "hex_available": true,
+      "rgb": "69, 35, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1264,6 +1421,7 @@
       "name": "Olde Mustard",
       "hex": "#a37f4d",
       "hex_available": true,
+      "rgb": "163, 127, 77",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1272,6 +1430,7 @@
       "name": "Clear Satin Finish",
       "hex": "#a37f4d",
       "hex_available": true,
+      "rgb": "163, 127, 77",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1280,6 +1439,7 @@
       "name": "Goldenrod Yellow",
       "hex": "#a37f4d",
       "hex_available": true,
+      "rgb": "163, 127, 77",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1288,6 +1448,7 @@
       "name": "Buttercup Yellow",
       "hex": "#a37f4d",
       "hex_available": true,
+      "rgb": "163, 127, 77",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1296,6 +1457,7 @@
       "name": "Hemlock Green",
       "hex": "#4f654e",
       "hex_available": true,
+      "rgb": "79, 101, 78",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1304,6 +1466,7 @@
       "name": "Holly Hill Green",
       "hex": "#4f654e",
       "hex_available": true,
+      "rgb": "79, 101, 78",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1312,6 +1475,7 @@
       "name": "Dark Hunter Green",
       "hex": "#4f654e",
       "hex_available": true,
+      "rgb": "79, 101, 78",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1320,6 +1484,7 @@
       "name": "Dark Mallard Blue",
       "hex": "#4f654e",
       "hex_available": true,
+      "rgb": "79, 101, 78",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1328,6 +1493,7 @@
       "name": "Settlers Blue",
       "hex": "#2b4c53",
       "hex_available": true,
+      "rgb": "43, 76, 83",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1336,6 +1502,7 @@
       "name": "Saratoga Blue",
       "hex": "#2b4c53",
       "hex_available": true,
+      "rgb": "43, 76, 83",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1344,6 +1511,7 @@
       "name": "Cottage Rose",
       "hex": "#2b4c53",
       "hex_available": true,
+      "rgb": "43, 76, 83",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1352,6 +1520,7 @@
       "name": "Carriage Black",
       "hex": "#2b4c53",
       "hex_available": true,
+      "rgb": "43, 76, 83",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1360,6 +1529,7 @@
       "name": "Sugar House Brown",
       "hex": "#5b332b",
       "hex_available": true,
+      "rgb": "91, 51, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1368,6 +1538,7 @@
       "name": "Clear Matte Varnish",
       "hex": "#5b332b",
       "hex_available": true,
+      "rgb": "91, 51, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1376,6 +1547,7 @@
       "name": "Olde Parchment",
       "hex": "#5b332b",
       "hex_available": true,
+      "rgb": "91, 51, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1384,6 +1556,7 @@
       "name": "Moravian White",
       "hex": "#5b332b",
       "hex_available": true,
+      "rgb": "91, 51, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Olde-Century-Colors/Olde-Century-Colors-Milk-Paint.html"
     },
     {
@@ -1392,6 +1565,7 @@
       "name": "Carmine Red",
       "hex": "#a52e26",
       "hex_available": true,
+      "rgb": "165, 46, 38",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1400,6 +1574,7 @@
       "name": "Signal Red",
       "hex": "#a52e26",
       "hex_available": true,
+      "rgb": "165, 46, 38",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1408,6 +1583,7 @@
       "name": "Vermilion",
       "hex": "#a52e26",
       "hex_available": true,
+      "rgb": "165, 46, 38",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1416,6 +1592,7 @@
       "name": "Brick Red",
       "hex": "#a52e26",
       "hex_available": true,
+      "rgb": "165, 46, 38",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1424,6 +1601,7 @@
       "name": "Orange",
       "hex": "#de7f2b",
       "hex_available": true,
+      "rgb": "222, 127, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1432,6 +1610,7 @@
       "name": "Yellow Ochre",
       "hex": "#de7f2b",
       "hex_available": true,
+      "rgb": "222, 127, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1440,6 +1619,7 @@
       "name": "Yellowish Green",
       "hex": "#de7f2b",
       "hex_available": true,
+      "rgb": "222, 127, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1448,6 +1628,7 @@
       "name": "Maize Yellow",
       "hex": "#de7f2b",
       "hex_available": true,
+      "rgb": "222, 127, 43",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1456,6 +1637,7 @@
       "name": "Lemon",
       "hex": "#ebe811",
       "hex_available": true,
+      "rgb": "235, 232, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1464,6 +1646,7 @@
       "name": "Yellow Green",
       "hex": "#ebe811",
       "hex_available": true,
+      "rgb": "235, 232, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1472,6 +1655,7 @@
       "name": "Medium Green",
       "hex": "#ebe811",
       "hex_available": true,
+      "rgb": "235, 232, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1480,6 +1664,7 @@
       "name": "Olive Green",
       "hex": "#ebe811",
       "hex_available": true,
+      "rgb": "235, 232, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1488,6 +1673,7 @@
       "name": "Blue Green",
       "hex": "#0c8576",
       "hex_available": true,
+      "rgb": "12, 133, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1496,6 +1682,7 @@
       "name": "Green",
       "hex": "#0c8576",
       "hex_available": true,
+      "rgb": "12, 133, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1504,6 +1691,7 @@
       "name": "Dark Green",
       "hex": "#0c8576",
       "hex_available": true,
+      "rgb": "12, 133, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1512,6 +1700,7 @@
       "name": "Dark Blue",
       "hex": "#0c8576",
       "hex_available": true,
+      "rgb": "12, 133, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1520,6 +1709,7 @@
       "name": "Blue",
       "hex": "#3d4c87",
       "hex_available": true,
+      "rgb": "61, 76, 135",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1528,6 +1718,7 @@
       "name": "Turquoise Blue",
       "hex": "#3d4c87",
       "hex_available": true,
+      "rgb": "61, 76, 135",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1536,6 +1727,7 @@
       "name": "Sky Blue",
       "hex": "#3d4c87",
       "hex_available": true,
+      "rgb": "61, 76, 135",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1544,6 +1736,7 @@
       "name": "Light Blue",
       "hex": "#3d4c87",
       "hex_available": true,
+      "rgb": "61, 76, 135",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1552,6 +1745,7 @@
       "name": "Blue Violet",
       "hex": "#473076",
       "hex_available": true,
+      "rgb": "71, 48, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1560,6 +1754,7 @@
       "name": "Red Violet",
       "hex": "#473076",
       "hex_available": true,
+      "rgb": "71, 48, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1568,6 +1763,7 @@
       "name": "Deep Madder",
       "hex": "#473076",
       "hex_available": true,
+      "rgb": "71, 48, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1576,6 +1772,7 @@
       "name": "Medium Brown",
       "hex": "#473076",
       "hex_available": true,
+      "rgb": "71, 48, 118",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1584,6 +1781,7 @@
       "name": "Black",
       "hex": "#121411",
       "hex_available": true,
+      "rgb": "18, 20, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1592,6 +1790,7 @@
       "name": "Dark Brown",
       "hex": "#121411",
       "hex_available": true,
+      "rgb": "18, 20, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1600,6 +1799,7 @@
       "name": "Brown",
       "hex": "#121411",
       "hex_available": true,
+      "rgb": "18, 20, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1608,6 +1808,7 @@
       "name": "Yellow Brown",
       "hex": "#121411",
       "hex_available": true,
+      "rgb": "18, 20, 17",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1616,6 +1817,7 @@
       "name": "Flesh Color",
       "hex": "#decdbb",
       "hex_available": true,
+      "rgb": "222, 205, 187",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1624,6 +1826,7 @@
       "name": "White",
       "hex": "#decdbb",
       "hex_available": true,
+      "rgb": "222, 205, 187",
       "source_url": "http://www.art-paints.com/Paints/Casein/Pelikan/Pelikan-Plaka.html"
     },
     {
@@ -1632,6 +1835,7 @@
       "name": "Cream",
       "hex": "#eed088",
       "hex_available": true,
+      "rgb": "238, 208, 136",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1640,6 +1844,7 @@
       "name": "Pale Salmon",
       "hex": "#eed088",
       "hex_available": true,
+      "rgb": "238, 208, 136",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1648,6 +1853,7 @@
       "name": "Butternut Squash",
       "hex": "#eed088",
       "hex_available": true,
+      "rgb": "238, 208, 136",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1656,6 +1862,7 @@
       "name": "Moss Green",
       "hex": "#eed088",
       "hex_available": true,
+      "rgb": "238, 208, 136",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1664,6 +1871,7 @@
       "name": "Green Earth",
       "hex": "#434a28",
       "hex_available": true,
+      "rgb": "67, 74, 40",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1672,6 +1880,7 @@
       "name": "Conifer Green",
       "hex": "#434a28",
       "hex_available": true,
+      "rgb": "67, 74, 40",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1680,6 +1889,7 @@
       "name": "Deep Windsor Green",
       "hex": "#434a28",
       "hex_available": true,
+      "rgb": "67, 74, 40",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1688,6 +1898,7 @@
       "name": "Peacock",
       "hex": "#434a28",
       "hex_available": true,
+      "rgb": "67, 74, 40",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1696,6 +1907,7 @@
       "name": "Turquoise",
       "hex": "#005a51",
       "hex_available": true,
+      "rgb": "0, 90, 81",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1704,6 +1916,7 @@
       "name": "Union Blue",
       "hex": "#005a51",
       "hex_available": true,
+      "rgb": "0, 90, 81",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1712,6 +1925,7 @@
       "name": "Cobalt Blue",
       "hex": "#005a51",
       "hex_available": true,
+      "rgb": "0, 90, 81",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1720,6 +1934,7 @@
       "name": "Sky Blue",
       "hex": "#005a51",
       "hex_available": true,
+      "rgb": "0, 90, 81",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1728,6 +1943,7 @@
       "name": "French Gray",
       "hex": "#8a8e80",
       "hex_available": true,
+      "rgb": "138, 142, 128",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1736,6 +1952,7 @@
       "name": "Pearl",
       "hex": "#8a8e80",
       "hex_available": true,
+      "rgb": "138, 142, 128",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Historical-Color-Sticks/Real-Milk-Historical-Color-Sticks.html"
     },
     {
@@ -1744,6 +1961,7 @@
       "name": "Bright Red",
       "hex": "#9a0000",
       "hex_available": true,
+      "rgb": "154, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1752,6 +1970,7 @@
       "name": "Indian Red",
       "hex": "#9a0000",
       "hex_available": true,
+      "rgb": "154, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1760,6 +1979,7 @@
       "name": "Venetian Red",
       "hex": "#9a0000",
       "hex_available": true,
+      "rgb": "154, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1768,6 +1988,7 @@
       "name": "Clay Red",
       "hex": "#9a0000",
       "hex_available": true,
+      "rgb": "154, 0, 0",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1776,6 +1997,7 @@
       "name": "Red",
       "hex": "#933f3d",
       "hex_available": true,
+      "rgb": "147, 63, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1784,6 +2006,7 @@
       "name": "Terra Cotta",
       "hex": "#933f3d",
       "hex_available": true,
+      "rgb": "147, 63, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1792,6 +2015,7 @@
       "name": "Salmon",
       "hex": "#933f3d",
       "hex_available": true,
+      "rgb": "147, 63, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1800,6 +2024,7 @@
       "name": "Golden Rod",
       "hex": "#933f3d",
       "hex_available": true,
+      "rgb": "147, 63, 61",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1808,6 +2033,7 @@
       "name": "Yellow Ochre",
       "hex": "#e5b622",
       "hex_available": true,
+      "rgb": "229, 182, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1816,6 +2042,7 @@
       "name": "Yellow",
       "hex": "#e5b622",
       "hex_available": true,
+      "rgb": "229, 182, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1824,6 +2051,7 @@
       "name": "Bright Green",
       "hex": "#e5b622",
       "hex_available": true,
+      "rgb": "229, 182, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1832,6 +2060,7 @@
       "name": "Green",
       "hex": "#e5b622",
       "hex_available": true,
+      "rgb": "229, 182, 34",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1840,6 +2069,7 @@
       "name": "Blue",
       "hex": "#476c98",
       "hex_available": true,
+      "rgb": "71, 108, 152",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1848,6 +2078,7 @@
       "name": "Ultra Marine Blue",
       "hex": "#476c98",
       "hex_available": true,
+      "rgb": "71, 108, 152",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1856,6 +2087,7 @@
       "name": "Lamp Black",
       "hex": "#476c98",
       "hex_available": true,
+      "rgb": "71, 108, 152",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1864,6 +2096,7 @@
       "name": "Black",
       "hex": "#476c98",
       "hex_available": true,
+      "rgb": "71, 108, 152",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1872,6 +2105,7 @@
       "name": "Van Dyke Brown",
       "hex": "#31390b",
       "hex_available": true,
+      "rgb": "49, 57, 11",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1880,6 +2114,7 @@
       "name": "Burnt Umber",
       "hex": "#31390b",
       "hex_available": true,
+      "rgb": "49, 57, 11",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1888,6 +2123,7 @@
       "name": "Deep Brown",
       "hex": "#31390b",
       "hex_available": true,
+      "rgb": "49, 57, 11",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1896,6 +2132,7 @@
       "name": "Brownstone",
       "hex": "#31390b",
       "hex_available": true,
+      "rgb": "49, 57, 11",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1904,6 +2141,7 @@
       "name": "Brown",
       "hex": "#604035",
       "hex_available": true,
+      "rgb": "96, 64, 53",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1912,6 +2150,7 @@
       "name": "Raw Umber",
       "hex": "#604035",
       "hex_available": true,
+      "rgb": "96, 64, 53",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1920,6 +2159,7 @@
       "name": "Princess Metallic",
       "hex": "#604035",
       "hex_available": true,
+      "rgb": "96, 64, 53",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1928,6 +2168,7 @@
       "name": "Burnt Sienna",
       "hex": "#604035",
       "hex_available": true,
+      "rgb": "96, 64, 53",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1936,6 +2177,7 @@
       "name": "Raw Sienna",
       "hex": "#a48834",
       "hex_available": true,
+      "rgb": "164, 136, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1944,6 +2186,7 @@
       "name": "Mustard",
       "hex": "#a48834",
       "hex_available": true,
+      "rgb": "164, 136, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1952,6 +2195,7 @@
       "name": "Chalk White",
       "hex": "#a48834",
       "hex_available": true,
+      "rgb": "164, 136, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1960,6 +2204,7 @@
       "name": "White",
       "hex": "#a48834",
       "hex_available": true,
+      "rgb": "164, 136, 52",
       "source_url": "http://www.art-paints.com/Paints/Casein/Real-Milk/Pigment-Powder/Real-Milk-Pigment-Powder.html"
     },
     {
@@ -1968,6 +2213,7 @@
       "name": "Alizarin Crimson",
       "hex": "#821616",
       "hex_available": true,
+      "rgb": "130, 22, 22",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -1976,6 +2222,7 @@
       "name": "Venetian Red",
       "hex": "#821616",
       "hex_available": true,
+      "rgb": "130, 22, 22",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -1984,6 +2231,7 @@
       "name": "Light Red",
       "hex": "#821616",
       "hex_available": true,
+      "rgb": "130, 22, 22",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -1992,6 +2240,7 @@
       "name": "Rose Red",
       "hex": "#821616",
       "hex_available": true,
+      "rgb": "130, 22, 22",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2000,6 +2249,7 @@
       "name": "Cadmium Red Deep",
       "hex": "#c73f29",
       "hex_available": true,
+      "rgb": "199, 63, 41",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2008,6 +2258,7 @@
       "name": "Cadmium Red Scarlet",
       "hex": "#c73f29",
       "hex_available": true,
+      "rgb": "199, 63, 41",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2016,6 +2267,7 @@
       "name": "Cadmium Red Pale",
       "hex": "#c73f29",
       "hex_available": true,
+      "rgb": "199, 63, 41",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2024,6 +2276,7 @@
       "name": "Cadmium Orange",
       "hex": "#c73f29",
       "hex_available": true,
+      "rgb": "199, 63, 41",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2032,6 +2285,7 @@
       "name": "Naples Yellow",
       "hex": "#f6da5d",
       "hex_available": true,
+      "rgb": "246, 218, 93",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2040,6 +2294,7 @@
       "name": "Cadmium Yellow Medium",
       "hex": "#f6da5d",
       "hex_available": true,
+      "rgb": "246, 218, 93",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2048,6 +2303,7 @@
       "name": "Cadmium Yellow Light",
       "hex": "#f6da5d",
       "hex_available": true,
+      "rgb": "246, 218, 93",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2056,6 +2312,7 @@
       "name": "Terra Verte",
       "hex": "#f6da5d",
       "hex_available": true,
+      "rgb": "246, 218, 93",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2064,6 +2321,7 @@
       "name": "Cadmium Green",
       "hex": "#00a34a",
       "hex_available": true,
+      "rgb": "0, 163, 74",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2072,6 +2330,7 @@
       "name": "Chromium Oxide Green Deep",
       "hex": "#00a34a",
       "hex_available": true,
+      "rgb": "0, 163, 74",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2080,6 +2339,7 @@
       "name": "Shiva Green Phthalo",
       "hex": "#00a34a",
       "hex_available": true,
+      "rgb": "0, 163, 74",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2088,6 +2348,7 @@
       "name": "Cerulean Blue",
       "hex": "#00a34a",
       "hex_available": true,
+      "rgb": "0, 163, 74",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2096,6 +2357,7 @@
       "name": "Permasol Blue",
       "hex": "#3666b2",
       "hex_available": true,
+      "rgb": "54, 102, 178",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2104,6 +2366,7 @@
       "name": "Cobalt Blue",
       "hex": "#3666b2",
       "hex_available": true,
+      "rgb": "54, 102, 178",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2112,6 +2375,7 @@
       "name": "Ultramarine Blue Deep",
       "hex": "#3666b2",
       "hex_available": true,
+      "rgb": "54, 102, 178",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2120,6 +2384,7 @@
       "name": "Shiva Blue Deep Phthalo",
       "hex": "#3666b2",
       "hex_available": true,
+      "rgb": "54, 102, 178",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2128,6 +2393,7 @@
       "name": "Paynes Gray",
       "hex": "#002f65",
       "hex_available": true,
+      "rgb": "0, 47, 101",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2136,6 +2402,7 @@
       "name": "Shiva Violet",
       "hex": "#002f65",
       "hex_available": true,
+      "rgb": "0, 47, 101",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2144,6 +2411,7 @@
       "name": "Shiva Rose",
       "hex": "#002f65",
       "hex_available": true,
+      "rgb": "0, 47, 101",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2152,6 +2420,7 @@
       "name": "Ivory Black",
       "hex": "#002f65",
       "hex_available": true,
+      "rgb": "0, 47, 101",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2160,6 +2429,7 @@
       "name": "Halftone Black",
       "hex": "#312525",
       "hex_available": true,
+      "rgb": "49, 37, 37",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2168,6 +2438,7 @@
       "name": "Burnt Umber",
       "hex": "#312525",
       "hex_available": true,
+      "rgb": "49, 37, 37",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2176,6 +2447,7 @@
       "name": "Raw Umber",
       "hex": "#312525",
       "hex_available": true,
+      "rgb": "49, 37, 37",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2184,6 +2456,7 @@
       "name": "Burnt Sienna",
       "hex": "#312525",
       "hex_available": true,
+      "rgb": "49, 37, 37",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2192,6 +2465,7 @@
       "name": "Raw Sienna",
       "hex": "#c08c40",
       "hex_available": true,
+      "rgb": "192, 140, 64",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2200,6 +2474,7 @@
       "name": "Golden Ochre",
       "hex": "#c08c40",
       "hex_available": true,
+      "rgb": "192, 140, 64",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2208,6 +2483,7 @@
       "name": "Yellow Ochre",
       "hex": "#c08c40",
       "hex_available": true,
+      "rgb": "192, 140, 64",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     },
     {
@@ -2216,6 +2492,7 @@
       "name": "Titanium White",
       "hex": "#c08c40",
       "hex_available": true,
+      "rgb": "192, 140, 64",
       "source_url": "http://www.art-paints.com/Paints/Casein/Shiva/Casein-Colors/Shiva-Casein-Colors.html"
     }
   ]

@@ -6,7 +6,7 @@ from robots import check_robots
 from writer import write_medium
 
 INDEX_URL = "http://www.art-paints.com/Paints/Art-Paints.html"
-DELAY = 2
+DELAY = 1
 
 
 def fetch(url, session):

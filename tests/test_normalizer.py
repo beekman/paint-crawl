@@ -92,6 +92,14 @@ class TestNormalizePaint:
         result = normalize_paint(self._paint(source_url="http://example.com"))
         assert result["source_url"] == "http://example.com"
 
+    def test_rgb_computed_from_hex(self):
+        result = normalize_paint(self._paint(hex="#EC5C5F"))
+        assert result["rgb"] == "236, 92, 95"
+
+    def test_rgb_none_when_hex_unavailable(self):
+        result = normalize_paint(self._paint(hex=None))
+        assert result["rgb"] is None
+
 
 class TestDeduplicate:
     def _paint(self, name, hex_val):
